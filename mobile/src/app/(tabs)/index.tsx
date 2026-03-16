@@ -20,11 +20,14 @@ import Animated, {
 } from 'react-native-reanimated';
 import { Gesture, GestureDetector } from 'react-native-gesture-handler';
 import { SlidersHorizontal, Share2, Bookmark, User, Check, X } from 'lucide-react-native';
+import { router } from 'expo-router';
 import { useFonts, Inter_700Bold, Inter_500Medium } from '@expo-google-fonts/inter';
 import CategoryFilter from '@/components/CategoryFilter';
 import SettingsCategoryFilter from '@/components/SettingsCategoryFilter';
 import * as Haptics from 'expo-haptics';
 import { BlurView } from 'expo-blur';
+import ViewShot, { captureRef } from 'react-native-view-shot';
+import * as Sharing from 'expo-sharing';
 
 const SCREEN_WIDTH = Dimensions.get('window').width;
 const SWIPE_THRESHOLD = SCREEN_WIDTH * 0.3;
@@ -607,10 +610,18 @@ export default function HomeScreen() {
     ],
   }));
 
-  // Back card: scale 0.85→1 and color cardBack→card driven by swipeProgress (slower transition)
+  // Track theme colors as shared values so interpolateColor updates reactively
+  const cardBackColor = useSharedValue(themeColors.cardBack);
+  const cardColor = useSharedValue(themeColors.card);
+  useEffect(() => {
+    cardBackColor.value = themeColors.cardBack;
+    cardColor.value = themeColors.card;
+  }, [themeColors.cardBack, themeColors.card]);
+
+  // Back card: scale 0.85→1 and color cardBack→card driven by swipeProgress
   const backCardStyle = useAnimatedStyle(() => ({
     transform: [{ scale: interpolate(swipeProgress.value, [0, 1], [0.85, 1]) }],
-    backgroundColor: interpolateColor(swipeProgress.value, [0, 1], [themeColors.cardBack, themeColors.card]),
+    backgroundColor: interpolateColor(swipeProgress.value, [0, 1], [cardBackColor.value, cardColor.value]),
   }));
 
   // Dark mode back card for compatibility: scale 0.85→1, no color change
@@ -670,28 +681,26 @@ export default function HomeScreen() {
     };
   }, [currentIndex, activeTab, resetNudgeTimer]);
 
-  const [savedCards, setSavedCards] = useState<Set<string>>(new Set());
+  const savedCards = useIcebreakerStore((s) => s.savedCards);
+  const toggleSavedCard = useIcebreakerStore((s) => s.toggleSavedCard);
 
   const handleSave = useCallback(() => {
     const card = activeTab === 'icebreakers'
       ? cards[currentIndex]
       : compatibilityCards[compatibilityIndex];
     if (!card) return;
-    const key = card.question;
     if (hapticsEnabled) {
       Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light);
     }
-    setSavedCards((prev) => {
-      const next = new Set(prev);
-      if (next.has(key)) next.delete(key); else next.add(key);
-      return next;
-    });
-  }, [cards, currentIndex, compatibilityCards, compatibilityIndex, activeTab]);
+    toggleSavedCard(card as Icebreaker);
+  }, [cards, currentIndex, compatibilityCards, compatibilityIndex, activeTab, hapticsEnabled, toggleSavedCard]);
 
   const currentCard = activeTab === 'icebreakers'
     ? cards[currentIndex]
     : compatibilityCards[compatibilityIndex];
-  const isSaved = savedCards.has(currentCard?.question ?? '');
+  const isSaved = savedCards.some((c) => c.question === (currentCard?.question ?? ''));
+
+  const shareCardRef = useRef<View>(null);
 
   const handleShare = useCallback(async () => {
     const card = activeTab === 'icebreakers'
@@ -704,6 +713,14 @@ export default function HomeScreen() {
       await Share.share({ message: `${emoji} ${prefix}:\n\n"${card.question}"` });
     } catch {}
   }, [cards, currentIndex, compatibilityCards, compatibilityIndex, activeTab]);
+
+  const handleShareResults = useCallback(async () => {
+    if (!shareCardRef.current) return;
+    try {
+      const uri = await captureRef(shareCardRef, { format: 'png', quality: 1, fileName: 'WeVibe' });
+      await Sharing.shareAsync(uri, { mimeType: 'image/png', UTI: 'public.png' });
+    } catch {}
+  }, []);
 
   const handleFilter = useCallback(() => {
     setShowSettingsFilter(true);
@@ -1006,7 +1023,7 @@ export default function HomeScreen() {
             </Pressable>
 
             <Pressable
-              onPress={handleShare}
+              onPress={handleShareResults}
               style={{ width: 56, height: 56, borderRadius: 28, backgroundColor: themeColors.cardDark, alignItems: 'center', justifyContent: 'center' }}
               className="active:opacity-70"
             >
@@ -1079,28 +1096,29 @@ export default function HomeScreen() {
         )}
       </View>
 
-      {/* Saved button - visible when modal is open AND there are saved cards */}
-      {savedCards.size > 0 && (
-        <Animated.View
-          style={[{ position: 'absolute', top: insets.top + 12, right: 30, zIndex: 15 }, blurStyle]}
-          pointerEvents={filterOpen ? 'auto' : 'none'}
-        >
+      {/* Blur overlay */}
+      <Animated.View style={[StyleSheet.absoluteFill, blurStyle, { zIndex: 10 }]} pointerEvents={filterOpen || showSettingsFilter ? 'box-none' : 'none'}>
+        <Pressable style={StyleSheet.absoluteFill} onPress={() => { setFilterOpen(false); setShowSettingsFilter(false); }}>
+          <BlurView intensity={30} tint="dark" style={StyleSheet.absoluteFill} />
+        </Pressable>
+        {savedCards.length > 0 && (
           <Pressable
-            style={{ flexDirection: 'row', alignItems: 'center', gap: 8, backgroundColor: '#FFFFFF', paddingHorizontal: 16, paddingVertical: 10, borderRadius: 100 }}
-            className="active:opacity-70"
+            onPress={() => {
+              if (hapticsEnabled) {
+                Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light);
+              }
+              router.push('/saved');
+            }}
+            style={{ position: 'absolute', top: insets.top + 12, right: 30, flexDirection: 'row', alignItems: 'center', gap: 8, backgroundColor: '#FFFFFF', paddingHorizontal: 16, paddingVertical: 10, borderRadius: 100 }}
           >
             <Text style={{ color: '#000000', fontFamily: 'Inter_700Bold', fontSize: 16, letterSpacing: -0.3 }}>Saved</Text>
             <View style={{ width: 28, height: 28, borderRadius: 14, backgroundColor: '#000000', alignItems: 'center', justifyContent: 'center' }}>
-              <Text style={{ color: '#FFFFFF', fontFamily: 'Inter_700Bold', fontSize: 14 }}>{savedCards.size}</Text>
+              <Text style={{ color: '#FFFFFF', fontFamily: 'Inter_700Bold', fontSize: 14 }}>{savedCards.length}</Text>
             </View>
           </Pressable>
-        </Animated.View>
-      )}
-
-      {/* Blur overlay */}
-      <Animated.View style={[StyleSheet.absoluteFill, blurStyle, { zIndex: 10 }]} pointerEvents={filterOpen || showSettingsFilter ? 'auto' : 'none'}>
-        <BlurView intensity={30} tint="dark" style={StyleSheet.absoluteFill} />
+        )}
       </Animated.View>
+
 
       {/* Tagline - only show when filter is open and no category selected */}
       {filterOpen && selectedCategory === null ? (
@@ -1241,6 +1259,43 @@ export default function HomeScreen() {
           })}
         </ScrollView>
       </Animated.View>
+
+      {/* Offscreen share card for results capture */}
+      <View style={{ position: 'absolute', left: -9999 }}>
+        <View
+          ref={shareCardRef}
+          collapsable={false}
+          style={{
+            width: 390,
+            height: 520,
+            backgroundColor: themeColors.backgroundDark,
+            borderRadius: 24,
+            padding: 32,
+            alignItems: 'center',
+            justifyContent: 'center',
+          }}
+        >
+          <Text style={{ fontFamily: 'Inter_700Bold', fontSize: 18, color: 'rgba(255,255,255,0.5)', letterSpacing: -0.5, textAlign: 'center', marginBottom: 4 }}>
+            {player1Name && player2Name ? `${player1Name} & ${player2Name}` : 'Compatibility Results'}
+          </Text>
+          <Text style={{ fontFamily: 'Inter_500Medium', fontSize: 14, color: 'rgba(255,255,255,0.3)', letterSpacing: -0.3, textAlign: 'center', marginBottom: 8 }}>
+            Compatibility Test
+          </Text>
+          <Text style={{ fontFamily: 'Inter_700Bold', fontSize: 80, color: '#FFFFFF', letterSpacing: -4 }}>
+            {answerHistory.length > 0 ? `${Math.round((answerHistory.filter(r => r.person1 === r.person2).length / answerHistory.length) * 100)}%` : '0%'}
+          </Text>
+          <Text style={{ fontFamily: 'Inter_700Bold', fontSize: 18, color: '#FFFFFF', letterSpacing: -0.5, marginTop: 24, textAlign: 'center' }}>
+            {(() => {
+              const pct = answerHistory.length > 0 ? Math.round((answerHistory.filter(r => r.person1 === r.person2).length / answerHistory.length) * 100) : 0;
+              return pct >= 80 ? "You two are soulmates!" : pct >= 60 ? "Great connection!" : pct >= 40 ? "Some common ground" : pct >= 20 ? "Opposites attract?" : "Very different perspectives";
+            })()}
+          </Text>
+          <Text style={{ fontFamily: 'Inter_500Medium', fontSize: 14, color: 'rgba(255,255,255,0.5)', marginTop: 8, textAlign: 'center' }}>
+            {answerHistory.filter(r => r.person1 === r.person2).length} of {answerHistory.length} answers matched
+          </Text>
+        </View>
+      </View>
+
     </View>
   );
 }

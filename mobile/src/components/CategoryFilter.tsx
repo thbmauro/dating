@@ -317,24 +317,24 @@ export default function CategoryFilter({ onSelect, onDismiss }: CategoryFilterPr
         {selectedCategory !== null ? (
           <Pressable
             onPress={() => {
-                if (hapticsEnabled) {
-                  Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light);
-                }
-                onDismiss?.();
-              }}
-              style={{
-                width: 42,
-                height: 42,
-                borderRadius: 21,
-                backgroundColor: 'rgba(0, 0, 0, 0.5)',
-                alignItems: 'center',
-                justifyContent: 'center',
-                marginTop: 2,
-              }}
-            >
-              <X size={20} color="#FFFFFF" strokeWidth={3} />
-            </Pressable>
-          ) : null}
+              if (hapticsEnabled) {
+                Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light);
+              }
+              onDismiss?.();
+            }}
+            style={{
+              width: 42,
+              height: 42,
+              borderRadius: 21,
+              backgroundColor: 'rgba(0, 0, 0, 0.5)',
+              alignItems: 'center',
+              justifyContent: 'center',
+              marginTop: 2,
+            }}
+          >
+            <X size={20} color="#FFFFFF" strokeWidth={3} />
+          </Pressable>
+        ) : null}
         </View>
 
       {/* Emoji circles + heart */}

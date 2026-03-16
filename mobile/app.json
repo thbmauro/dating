@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "vibecode",
+    "name": "WeVibe",
     "slug": "vibecode",
     "scheme": "vibecode",
     "version": "1.0.0",
@@ -8,12 +8,16 @@
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.maurogatti.vibecode"
     },
     "android": {
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.maurogatti.vibecode"
     },
-    "plugins": ["expo-router"],
+    "plugins": [
+      "expo-router"
+    ],
     "experiments": {
       "typedRoutes": true
     }

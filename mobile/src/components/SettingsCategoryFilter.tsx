@@ -197,7 +197,7 @@ function SettingsPanel({ onBack }: { onBack: () => void }) {
       </View>
 
       {/* Color theme section */}
-      <View style={{ marginTop: 24, marginBottom: 24 }}>
+      <View style={{ marginTop: 24, marginBottom: 32 }}>
         <View style={{ flexDirection: 'row', gap: 12 }}>
           {colorOptions.map((option) => (
             <Pressable
@@ -229,15 +229,17 @@ function SettingsPanel({ onBack }: { onBack: () => void }) {
         </View>
       </View>
 
-      {/* Haptic feedback toggle - no background */}
+      {/* Haptic feedback toggle */}
       <View
         style={{
           flexDirection: 'row',
           alignItems: 'center',
           justifyContent: 'space-between',
           paddingVertical: 16,
-          paddingRight: 16,
-          marginBottom: 16,
+          paddingHorizontal: 20,
+          marginBottom: 32,
+          backgroundColor: 'rgba(255, 255, 255, 0.08)',
+          borderRadius: 16,
         }}
       >
         <Text
@@ -284,7 +286,7 @@ function SettingsPanel({ onBack }: { onBack: () => void }) {
             style={{
               flex: 1,
               borderWidth: 1,
-              borderColor: 'rgba(255, 255, 255, 0.3)',
+              borderColor: 'rgba(255, 255, 255, 0.12)',
               borderRadius: 12,
               paddingVertical: 12,
               paddingHorizontal: 14,
@@ -294,7 +296,7 @@ function SettingsPanel({ onBack }: { onBack: () => void }) {
               value={player1Name}
               onChangeText={(text) => setPlayer1Name(text.slice(0, 14))}
               placeholder="Add player 1 name"
-              placeholderTextColor="rgba(255, 255, 255, 0.4)"
+              placeholderTextColor="rgba(255, 255, 255, 0.2)"
               maxLength={14}
               selectionColor="#FFFFFF"
               cursorColor="#FFFFFF"
@@ -333,7 +335,7 @@ function SettingsPanel({ onBack }: { onBack: () => void }) {
             style={{
               flex: 1,
               borderWidth: 1,
-              borderColor: 'rgba(255, 255, 255, 0.3)',
+              borderColor: 'rgba(255, 255, 255, 0.12)',
               borderRadius: 12,
               paddingVertical: 12,
               paddingHorizontal: 14,
@@ -343,7 +345,7 @@ function SettingsPanel({ onBack }: { onBack: () => void }) {
               value={player2Name}
               onChangeText={(text) => setPlayer2Name(text.slice(0, 14))}
               placeholder="Add player 2 name"
-              placeholderTextColor="rgba(255, 255, 255, 0.4)"
+              placeholderTextColor="rgba(255, 255, 255, 0.2)"
               maxLength={14}
               selectionColor="#FFFFFF"
               cursorColor="#FFFFFF"
@@ -363,43 +365,27 @@ function SettingsPanel({ onBack }: { onBack: () => void }) {
       <View style={{ flex: 1 }} />
 
       {/* Legal links at bottom */}
-      <View style={{ gap: 12 }}>
-        <Pressable
-          onPress={() => handleOpenLink('https://example.com/privacy')}
-          style={{
-            paddingVertical: 16,
-            paddingHorizontal: 16,
-            backgroundColor: 'rgba(255, 255, 255, 0.05)',
-            borderRadius: 16,
-          }}
-        >
+      <View style={{ flexDirection: 'row', justifyContent: 'center', gap: 16, paddingBottom: 8 }}>
+        <Pressable onPress={() => handleOpenLink('https://example.com/privacy')}>
           <Text
             style={{
-              fontFamily: 'Inter_700Bold',
-              fontSize: 16,
-              color: '#FFFFFF',
-              letterSpacing: -0.3,
+              fontFamily: 'Inter_500Medium',
+              fontSize: 13,
+              color: 'rgba(255, 255, 255, 0.4)',
+              letterSpacing: -0.2,
             }}
           >
             Privacy Policy
           </Text>
         </Pressable>
 
-        <Pressable
-          onPress={() => handleOpenLink('https://example.com/terms')}
-          style={{
-            paddingVertical: 16,
-            paddingHorizontal: 16,
-            backgroundColor: 'rgba(255, 255, 255, 0.05)',
-            borderRadius: 16,
-          }}
-        >
+        <Pressable onPress={() => handleOpenLink('https://example.com/terms')}>
           <Text
             style={{
-              fontFamily: 'Inter_700Bold',
-              fontSize: 16,
-              color: '#FFFFFF',
-              letterSpacing: -0.3,
+              fontFamily: 'Inter_500Medium',
+              fontSize: 13,
+              color: 'rgba(255, 255, 255, 0.4)',
+              letterSpacing: -0.2,
             }}
           >
             Terms & Conditions
@@ -800,7 +786,7 @@ export default function SettingsCategoryFilter({ onSelect, onDismiss }: Settings
             borderRadius: 20,
           }}
         >
-          <Settings size={18} color="#FFFFFF" strokeWidth={2.5} />
+          <Settings size={18} color="rgba(255, 255, 255, 0.5)" strokeWidth={2.5} />
           <Text
             style={{
               fontFamily: 'Inter_700Bold',
