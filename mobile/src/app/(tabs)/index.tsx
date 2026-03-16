@@ -298,8 +298,8 @@ function CompatibilityResults({ answerHistory, totalQuestions, questions, onOpen
   // Build header text based on player names
   const hasNames = player1Name && player2Name;
   const headerText = hasNames
-    ? `${player1Name} & ${player2Name}\nCompatibility Results`
-    : 'Your compatibility result';
+    ? `${player1Name} & ${player2Name}\nVibe Check Results`
+    : 'Your Vibe Check result';
 
   // Get message based on score - use fixed strings to prevent layout shift
   const message = compatibilityPercent >= 80 ? "You two are soulmates!" :
@@ -708,7 +708,7 @@ export default function HomeScreen() {
       : compatibilityCards[compatibilityIndex];
     if (!card) return;
     const emoji = CATEGORIES.find((c) => c.value === card.category)?.emoji || '';
-    const prefix = activeTab === 'icebreakers' ? 'Dating Icebreaker' : 'Compatibility Question';
+    const prefix = activeTab === 'icebreakers' ? 'Vibe Starter' : 'Vibe Check';
     try {
       await Share.share({ message: `${emoji} ${prefix}:\n\n"${card.question}"` });
     } catch {}
@@ -860,7 +860,7 @@ export default function HomeScreen() {
               color: selectedCategory === null ? 'rgba(26,26,26,0.4)' : (activeTab === 'icebreakers' ? '#FFFFFF' : 'rgba(255,255,255,0.4)'),
               letterSpacing: -0.3,
             }}>
-              Ice Breakers
+              Vibe Starters
             </Text>
           </Pressable>
           <Pressable
@@ -879,7 +879,7 @@ export default function HomeScreen() {
               color: selectedCategory === null ? 'rgba(26,26,26,0.4)' : (activeTab === 'compatibility' ? '#1A1A1A' : 'rgba(26,26,26,0.4)'),
               letterSpacing: -0.3,
             }}>
-              Compatibility
+              Vibe Check
             </Text>
           </Pressable>
         </View>
@@ -1139,7 +1139,7 @@ export default function HomeScreen() {
             ))}
           </View>
           <View style={{ flexDirection: 'row', flexWrap: 'wrap', justifyContent: 'center', paddingHorizontal: 30 }}>
-            {['More', 'real', 'talk.'].map((word, i) => (
+            {['More', 'vibes.'].map((word, i) => (
               <AnimatedWord key={`line2-${i}-${word}`} word={word} index={i + 3} trigger={true} />
             ))}
           </View>
@@ -1276,10 +1276,10 @@ export default function HomeScreen() {
           }}
         >
           <Text style={{ fontFamily: 'Inter_700Bold', fontSize: 18, color: 'rgba(255,255,255,0.5)', letterSpacing: -0.5, textAlign: 'center', marginBottom: 4 }}>
-            {player1Name && player2Name ? `${player1Name} & ${player2Name}` : 'Compatibility Results'}
+            {player1Name && player2Name ? `${player1Name} & ${player2Name}` : 'Vibe Check Results'}
           </Text>
           <Text style={{ fontFamily: 'Inter_500Medium', fontSize: 14, color: 'rgba(255,255,255,0.3)', letterSpacing: -0.3, textAlign: 'center', marginBottom: 8 }}>
-            Compatibility Test
+            Vibe Check
           </Text>
           <Text style={{ fontFamily: 'Inter_700Bold', fontSize: 80, color: '#FFFFFF', letterSpacing: -4 }}>
             {answerHistory.length > 0 ? `${Math.round((answerHistory.filter(r => r.person1 === r.person2).length / answerHistory.length) * 100)}%` : '0%'}
