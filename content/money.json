@@ -1,0 +1,1346 @@
+{
+  "category": "Money",
+  "description": "Financial mindset, spending & saving habits, money goals, debt philosophy and financial compatibility",
+  "icebreakers": [
+    "What’s the most important money lesson you learned the hard way?",
+    "How do you feel about discussing exact salary or net worth early in a relationship?",
+    "What’s your biggest financial fear right now?",
+    "Debt freedom, investing aggressively, or enjoying life now, what’s your current priority order?",
+    "What’s one money habit you’re most proud of building?",
+    "How transparent are you about finances with people you’re close to?",
+    "What’s the most expensive thing you’ve ever bought that was worth every penny?",
+    "What’s the stupidest money mistake you’ve ever made (and laugh about now)?",
+    "Do you track your spending daily, weekly, monthly, or not at all?",
+    "What’s your relationship with credit cards, use them a lot, rarely, or avoid completely?",
+    "What money topic makes you most uncomfortable to talk about?",
+    "What’s your biggest current financial goal (short-term or long-term)?",
+    "How do you feel about splitting bills 50/50 vs proportional to income?",
+    "What’s one luxury you’re willing to spend on even when money is tight?",
+    "What money belief did your parents have that you either kept or completely rejected?",
+    "Do you prefer a detailed budget or a loose “feel” for where money is going?",
+    "What’s the most you’ve ever saved in one year, and how did you do it?",
+    "How do you feel about prenups or financial agreements before marriage?",
+    "What’s your biggest recurring expense that you refuse to cut?",
+    "Do you invest in stocks, crypto, real estate, or nothing yet?",
+    "What money goal would make you feel truly financially secure?",
+    "How often do you check your bank/investment accounts?",
+    "What’s one financial red flag that would make you walk away early?",
+    "Do you give money to family/friends regularly, occasionally, or never?",
+    "What’s your philosophy on tipping, generous, standard, or minimal?",
+    "How do you feel about buying used vs new for big purchases (car, furniture, etc.)?",
+    "What’s the most money you’ve ever spent on a single experience (trip, concert, etc.)?",
+    "Do you have an emergency fund, and if yes, how many months of expenses?",
+    "What money topic do your friends avoid with you (or you avoid with them)?",
+    "How do you feel about lifestyle inflation when income increases?",
+    "What’s your biggest money envy trigger (other people’s houses, cars, travel…)?",
+    "Do you negotiate prices (rent, salary, big purchases) or accept what’s offered?",
+    "What’s one financial boundary you set with family or ex-partners?",
+    "How do you feel about joint bank accounts vs completely separate?",
+    "What’s your biggest financial win so far in life?",
+    "Do you use cash, debit, credit, or mostly digital payments?",
+    "What money-related book, podcast or creator influenced you most?",
+    "How comfortable are you carrying debt (mortgage, student loans, credit cards…)?",
+    "What’s your biggest current money leak (subscriptions, eating out, impulse buys…)?",
+    "Do you have life insurance, disability insurance, or long-term financial protections?",
+    "What money goal are you willing to sacrifice short-term pleasure for?",
+    "How do you feel about financial coaching, planners or advisors?",
+    "What’s your biggest money regret that still bothers you?",
+    "Do you save first or spend first when you get paid?",
+    "What’s one financial habit you wish you started 10 years earlier?",
+    "How do you feel about people knowing your exact income or net worth?",
+    "What money conversation with parents or family was hardest?",
+    "Do you give to charity regularly, occasionally, or rarely?",
+    "What’s your biggest financial insecurity right now?",
+    "How do you feel about prenups, cohabitation agreements or financial contracts?",
+    "What’s your biggest current financial stressor?",
+    "Do you have multiple income streams or just one main source?",
+    "What money topic do you wish more people were honest about?",
+    "How do you feel about paying for convenience (delivery, cleaning, etc.)?",
+    "What’s your biggest financial dream in the next 5, 10 years?",
+    "Do you invest for dividends, growth, real estate, or other strategies?",
+    "What money habit do you admire most in other people?",
+    "How do you feel about lending money to friends or family?",
+    "What’s one financial boundary you will never cross again?",
+    "Do you use budgeting apps, spreadsheets, or mental math?",
+    "What’s your biggest financial success story so far?",
+    "How do you feel about financial dependence vs independence in relationships?",
+    "What money topic triggers shame or guilt for you?",
+    "Do you have a net-worth goal or number you’re aiming for?",
+    "What’s your biggest current money temptation or weak spot?",
+    "How do you feel about financial minimalism vs abundance mindset?",
+    "What money advice would you give your 20-year-old self?",
+    "Do you have a will, trust, or estate plan already?",
+    "What’s your biggest financial fear for the future?",
+    "How do you feel about financial infidelity (hiding purchases, debt…)?",
+    "What money topic are you most curious about learning more?",
+    "Do you invest in yourself (courses, health, experiences) or only assets?",
+    "What’s your biggest financial sacrifice you’ve ever made?",
+    "How do you feel about money dates, regular money talks with a partner?",
+    "What money habit changed your life the most?",
+    "Do you have passive income streams (rentals, dividends, royalties…)?",
+    "What’s your biggest financial blind spot right now?",
+    "How do you feel about financial transparency with close friends?",
+    "What money goal would make you feel “I made it”?",
+    "Do you use credit card rewards, cashback, or points aggressively?",
+    "What’s one financial risk you’re glad you took?",
+    "How do you feel about financial prenups or postnups?",
+    "What money topic do you avoid with most people?",
+    "Do you have a financial advisor, accountant, or coach?",
+    "What’s your biggest current financial opportunity?",
+    "How do you feel about financial minimalism challenges?",
+    "What money belief are you currently questioning?",
+    "Do you have a side hustle or plan to start one?",
+    "What’s your biggest financial insecurity in relationships?",
+    "How do you feel about financial equality vs equity in partnerships?",
+    "What money topic would make you end a friendship or relationship?",
+    "Do you have a FIRE (Financial Independence Retire Early) goal?",
+    "What’s your biggest financial lesson from the last 2 years?",
+    "How do you feel about money silence in families?",
+    "What money habit do you want to teach future children (if any)?",
+    "Do you have a financial “number” that would let you stop working?",
+    "What’s your biggest financial hope for the next decade?",
+    "How do you feel about financial therapy or money mindset coaching?",
+    "What money topic are you most excited to master?"
+  ],
+  "vibe_tests": [
+    {
+      "test_name": "Money Mindset Match",
+      "description": "How similar are your core attitudes toward money and wealth?",
+      "questions": [
+        {
+          "q": "Money is primarily...",
+          "options": [
+            "Security & freedom",
+            "Tool for experiences",
+            "Measure of success",
+            "Root of stress"
+          ]
+        },
+        {
+          "q": "When I get extra money I usually...",
+          "options": [
+            "Save/invest most",
+            "Save some, spend some",
+            "Spend most",
+            "Give a lot away"
+          ]
+        },
+        {
+          "q": "My biggest money fear is...",
+          "options": [
+            "Running out / being broke",
+            "Missing opportunities",
+            "Losing status",
+            "Being taken advantage of"
+          ]
+        },
+        {
+          "q": "Debt feels like...",
+          "options": [
+            "Emergency only",
+            "Leverage if smart",
+            "Normal part of life",
+            "Moral failure"
+          ]
+        },
+        {
+          "q": "Wealth means...",
+          "options": [
+            "Financial independence",
+            "Luxury lifestyle",
+            "Security for family",
+            "Ability to help others"
+          ]
+        },
+        {
+          "q": "I feel most proud when I...",
+          "options": [
+            "Save aggressively",
+            "Invest wisely",
+            "Enjoy money guilt-free",
+            "Give generously"
+          ]
+        },
+        {
+          "q": "Rich people are...",
+          "options": [
+            "Smart & disciplined",
+            "Lucky",
+            "Greedy",
+            "Hard-working"
+          ]
+        },
+        {
+          "q": "Money talks should be...",
+          "options": [
+            "Completely open",
+            "Mostly open",
+            "Selective",
+            "Private"
+          ]
+        },
+        {
+          "q": "My money script comes mostly from...",
+          "options": [
+            "Parents/family",
+            "Society/media",
+            "Personal experience",
+            "Friends/peers"
+          ]
+        },
+        {
+          "q": "I feel guilty spending on...",
+          "options": [
+            "Luxuries",
+            "Myself",
+            "Nothing",
+            "Others before myself"
+          ]
+        },
+        {
+          "q": "Financial success looks like...",
+          "options": [
+            "High net worth",
+            "Passive income",
+            "No money stress",
+            "Generous lifestyle"
+          ]
+        },
+        {
+          "q": "I judge people by...",
+          "options": [
+            "How they handle money",
+            "Not at all",
+            "Their generosity",
+            "Their ambition"
+          ]
+        },
+        {
+          "q": "Money & happiness connection...",
+          "options": [
+            "Strong up to a point",
+            "Very strong",
+            "Weak",
+            "None"
+          ]
+        },
+        {
+          "q": "I’d rather have...",
+          "options": [
+            "More time than money",
+            "More money than time",
+            "Balance",
+            "Neither, freedom"
+          ]
+        },
+        {
+          "q": "Biggest money influence...",
+          "options": [
+            "Scarcity mindset",
+            "Abundance mindset",
+            "Fear",
+            "Ambition"
+          ]
+        },
+        {
+          "q": "Money transparency with partner...",
+          "options": [
+            "Full access",
+            "General idea",
+            "Separate",
+            "Avoid topic"
+          ]
+        },
+        {
+          "q": "I feel secure when...",
+          "options": [
+            "Emergency fund full",
+            "Income stable",
+            "Assets growing",
+            "No debt"
+          ]
+        },
+        {
+          "q": "Money shame triggers...",
+          "options": [
+            "Debt",
+            "Low income",
+            "Spending guilt",
+            "None"
+          ]
+        },
+        {
+          "q": "Ideal financial role model...",
+          "options": [
+            "Frugal millionaire",
+            "Generous wealthy",
+            "Financially free",
+            "Balanced spender"
+          ]
+        },
+        {
+          "q": "Money love language...",
+          "options": [
+            "Gifts",
+            "Security",
+            "Experiences",
+            "Freedom"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Spender vs Saver Alignment",
+      "description": "How well do your spending and saving instincts match?",
+      "questions": [
+        {
+          "q": "When I see something I want...",
+          "options": [
+            "Buy if affordable",
+            "Wait 30 days",
+            "Impulse buy often",
+            "Rarely buy"
+          ]
+        },
+        {
+          "q": "Shopping guilt level",
+          "options": [
+            "High, feel bad after",
+            "Some guilt",
+            "No guilt",
+            "Guilt if I don’t buy"
+          ]
+        },
+        {
+          "q": "Monthly discretionary spending",
+          "options": [
+            "Very low",
+            "Moderate",
+            "High",
+            "No limit"
+          ]
+        },
+        {
+          "q": "Subscriptions (Netflix, gym, apps...)",
+          "options": [
+            "Minimal, cancel ruthlessly",
+            "Some",
+            "Many",
+            "Don’t track"
+          ]
+        },
+        {
+          "q": "Eating out frequency",
+          "options": [
+            "Rarely",
+            "1, 2× week",
+            "3, 5× week",
+            "Almost daily"
+          ]
+        },
+        {
+          "q": "Luxury purchases",
+          "options": [
+            "Rare & justified",
+            "Occasional treat",
+            "Regular",
+            "Avoid luxury"
+          ]
+        },
+        {
+          "q": "Impulse buy regret",
+          "options": [
+            "Often",
+            "Sometimes",
+            "Rarely",
+            "Never"
+          ]
+        },
+        {
+          "q": "Shopping therapy",
+          "options": [
+            "Yes, makes me feel better",
+            "Sometimes",
+            "No",
+            "Makes me feel worse"
+          ]
+        },
+        {
+          "q": "Big purchases decision",
+          "options": [
+            "Research forever",
+            "Quick if want it",
+            "Avoid big buys",
+            "Consult others"
+          ]
+        },
+        {
+          "q": "Sales & discounts",
+          "options": [
+            "Wait for sales",
+            "Buy full price if want",
+            "Never pay full",
+            "No sales hunting"
+          ]
+        },
+        {
+          "q": "Credit card rewards",
+          "options": [
+            "Maximize aggressively",
+            "Use casually",
+            "Avoid credit cards",
+            "No cards"
+          ]
+        },
+        {
+          "q": "Cash vs digital payments",
+          "options": [
+            "Mostly cash",
+            "Mostly cards/apps",
+            "Mix",
+            "All digital"
+          ]
+        },
+        {
+          "q": "Spender vs saver self-ID",
+          "options": [
+            "Strong saver",
+            "Balanced",
+            "Moderate spender",
+            "Strong spender"
+          ]
+        },
+        {
+          "q": "Partner spending mismatch",
+          "options": [
+            "Big concern",
+            "Some concern",
+            "Adjustable",
+            "Not worried"
+          ]
+        },
+        {
+          "q": "Splurge categories",
+          "options": [
+            "Travel/experiences",
+            "Clothes/style",
+            "Tech/gadgets",
+            "Food/dining"
+          ]
+        },
+        {
+          "q": "Money guilt after spending",
+          "options": [
+            "High",
+            "Medium",
+            "Low",
+            "No guilt"
+          ]
+        },
+        {
+          "q": "Savings rate goal",
+          "options": [
+            "50%+ of income",
+            "30, 40%",
+            "10, 20%",
+            "No savings goal"
+          ]
+        },
+        {
+          "q": "Impulse buy limit",
+          "options": [
+            "Under $50",
+            "$50, 200",
+            "$200+",
+            "No limit"
+          ]
+        },
+        {
+          "q": "Shopping dopamine",
+          "options": [
+            "Strong high",
+            "Mild",
+            "Neutral",
+            "Low"
+          ]
+        },
+        {
+          "q": "Ideal spender-saver balance",
+          "options": [
+            "Both savers",
+            "One saver one spender",
+            "Both moderate",
+            "Flexible"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Debt & Risk Tolerance",
+      "description": "How aligned are your attitudes toward debt, leverage and financial risk?",
+      "questions": [
+        {
+          "q": "Debt comfort level",
+          "options": [
+            "Zero debt ever",
+            "Good debt ok (mortgage, education)",
+            "Debt is normal",
+            "Debt is bad"
+          ]
+        },
+        {
+          "q": "Student loans feeling",
+          "options": [
+            "Heavy burden",
+            "Investment in future",
+            "Normal part of life",
+            "Avoided them"
+          ]
+        },
+        {
+          "q": "Credit card debt",
+          "options": [
+            "Never carry balance",
+            "Carry sometimes",
+            "Carry often",
+            "Maxed out often"
+          ]
+        },
+        {
+          "q": "Mortgage preference",
+          "options": [
+            "Pay off as fast as possible",
+            "Minimum payments",
+            "Refinance always",
+            "Rent forever"
+          ]
+        },
+        {
+          "q": "Investment risk tolerance",
+          "options": [
+            "Very aggressive",
+            "Moderate",
+            "Conservative",
+            "No investing"
+          ]
+        },
+        {
+          "q": "Crypto / speculative assets",
+          "options": [
+            "Heavy allocation",
+            "Small play money",
+            "Tried once",
+            "Avoid completely"
+          ]
+        },
+        {
+          "q": "Leverage (borrowing to invest)",
+          "options": [
+            "Smart if calculated",
+            "Risky",
+            "Never",
+            "Only real estate"
+          ]
+        },
+        {
+          "q": "Emergency fund size",
+          "options": [
+            "12+ months",
+            "6, 12 months",
+            "3, 6 months",
+            "<3 months or none"
+          ]
+        },
+        {
+          "q": "Debt payoff method",
+          "options": [
+            "Snowball (smallest first)",
+            "Avalanche (highest interest)",
+            "Refinance",
+            "Minimum payments"
+          ]
+        },
+        {
+          "q": "Debt shame level",
+          "options": [
+            "Very high",
+            "Some",
+            "None",
+            "Proud of good debt"
+          ]
+        },
+        {
+          "q": "Financial risk chemistry",
+          "options": [
+            "Must match closely",
+            "Important",
+            "Adjustable",
+            "Not worried"
+          ]
+        },
+        {
+          "q": "Debt after big purchase",
+          "options": [
+            "Pay off fast",
+            "Comfortable carrying",
+            "Refinance",
+            "Avoid debt"
+          ]
+        },
+        {
+          "q": "Risky financial move",
+          "options": [
+            "Would take again",
+            "Learned lesson",
+            "Never again",
+            "No risks taken"
+          ]
+        },
+        {
+          "q": "Debt in relationships",
+          "options": [
+            "Full disclosure early",
+            "After trust",
+            "Private",
+            "Avoid topic"
+          ]
+        },
+        {
+          "q": "Debt freedom feeling",
+          "options": [
+            "Life-changing",
+            "Nice",
+            "Overrated",
+            "Not a goal"
+          ]
+        },
+        {
+          "q": "Risk vs safety balance",
+          "options": [
+            "More risk",
+            "Balanced",
+            "More safety",
+            "All safety"
+          ]
+        },
+        {
+          "q": "Debt love language",
+          "options": [
+            "Debt-free pride",
+            "Leverage for growth",
+            "No debt talk",
+            "Debt is normal"
+          ]
+        },
+        {
+          "q": "Debt recovery time",
+          "options": [
+            "Quick rebound",
+            "Years",
+            "Still recovering",
+            "Never recovered"
+          ]
+        },
+        {
+          "q": "Ideal debt outcome",
+          "options": [
+            "Zero debt life",
+            "Smart debt only",
+            "Debt freedom",
+            "All three"
+          ]
+        },
+        {
+          "q": "Long-term debt vision",
+          "options": [
+            "Debt-free forever",
+            "Strategic debt",
+            "Debt normal",
+            "No debt focus"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Financial Transparency & Money Talks",
+      "description": "Comfort level with openness, frequency and style of money conversations",
+      "questions": [
+        {
+          "q": "Money talks frequency ideal",
+          "options": [
+            "Weekly",
+            "Monthly",
+            "Quarterly",
+            "Only when needed"
+          ]
+        },
+        {
+          "q": "Full financial disclosure",
+          "options": [
+            "Early & complete",
+            "Gradual",
+            "After trust",
+            "Never full"
+          ]
+        },
+        {
+          "q": "Joint vs separate finances",
+          "options": [
+            "Fully joint",
+            "Hybrid",
+            "Mostly separate",
+            "Completely separate"
+          ]
+        },
+        {
+          "q": "Money date nights",
+          "options": [
+            "Love regular money dates",
+            "Nice occasionally",
+            "Only when issues",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Sharing exact salary/net worth",
+          "options": [
+            "Early & open",
+            "After exclusivity",
+            "Never exact",
+            "Avoid topic"
+          ]
+        },
+        {
+          "q": "Money conflict style",
+          "options": [
+            "Open & calm",
+            "Avoid confrontation",
+            "Emotional",
+            "Logical"
+          ]
+        },
+        {
+          "q": "Financial transparency chemistry",
+          "options": [
+            "Must match",
+            "Very important",
+            "Adjustable",
+            "Not worried"
+          ]
+        },
+        {
+          "q": "Money silence in family",
+          "options": [
+            "Common",
+            "Some topics avoided",
+            "Very open",
+            "No family talk"
+          ]
+        },
+        {
+          "q": "Money shame triggers",
+          "options": [
+            "Debt",
+            "Low income",
+            "Spending",
+            "None"
+          ]
+        },
+        {
+          "q": "Money talk initiation",
+          "options": [
+            "I bring up",
+            "Mutual",
+            "Prefer they bring up",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Money talk after argument",
+          "options": [
+            "Helps resolve",
+            "Wait first",
+            "No talk",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Money talk depth",
+          "options": [
+            "Very deep",
+            "Medium",
+            "Surface",
+            "No depth"
+          ]
+        },
+        {
+          "q": "Money talk ritual",
+          "options": [
+            "Want regular",
+            "Nice idea",
+            "Spontaneous",
+            "No ritual"
+          ]
+        },
+        {
+          "q": "Money talk long-term",
+          "options": [
+            "Keep open",
+            "Balance",
+            "Fade",
+            "No talk"
+          ]
+        },
+        {
+          "q": "Money talk chemistry sign",
+          "options": [
+            "Strong sign",
+            "Important",
+            "Nice",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Money talk recovery",
+          "options": [
+            "Quick resolution",
+            "Need time",
+            "Avoid topic",
+            "Humor"
+          ]
+        },
+        {
+          "q": "Money talk support",
+          "options": [
+            "Active listening",
+            "Practical advice",
+            "Independent",
+            "No support"
+          ]
+        },
+        {
+          "q": "Money talk memory",
+          "options": [
+            "Very meaningful",
+            "Somewhat",
+            "Neutral",
+            "Forgettable"
+          ]
+        },
+        {
+          "q": "Ideal money talk outcome",
+          "options": [
+            "Feel aligned",
+            "Understood",
+            "Reconnected",
+            "All three"
+          ]
+        },
+        {
+          "q": "Long-term money talk vision",
+          "options": [
+            "Regular & deep",
+            "Occasional",
+            "Fade",
+            "No talk"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Financial Goals & Timeline",
+      "description": "Alignment on financial priorities, timelines and milestones",
+      "questions": [
+        {
+          "q": "Biggest financial goal right now",
+          "options": [
+            "Debt freedom",
+            "Emergency fund",
+            "Investing",
+            "Home ownership"
+          ]
+        },
+        {
+          "q": "Early retirement interest",
+          "options": [
+            "FIRE goal",
+            "Retire 50s/60s",
+            "Work forever",
+            "No retirement"
+          ]
+        },
+        {
+          "q": "Net worth target",
+          "options": [
+            "Have specific number",
+            "General range",
+            "No number",
+            "Not focused"
+          ]
+        },
+        {
+          "q": "Home ownership timeline",
+          "options": [
+            "Soon (1, 5 years)",
+            "Later (5, 10)",
+            "Rent forever",
+            "No home"
+          ]
+        },
+        {
+          "q": "Passive income goal",
+          "options": [
+            "High priority",
+            "Important",
+            "Nice",
+            "No focus"
+          ]
+        },
+        {
+          "q": "Financial independence number",
+          "options": [
+            "Know exact number",
+            "Rough estimate",
+            "No number",
+            "Not FI goal"
+          ]
+        },
+        {
+          "q": "Financial goal celebration",
+          "options": [
+            "Big reward",
+            "Small treat",
+            "Quiet pride",
+            "No celebration"
+          ]
+        },
+        {
+          "q": "Goal tracking method",
+          "options": [
+            "Apps / spreadsheets",
+            "Mental",
+            "Advisor",
+            "No tracking"
+          ]
+        },
+        {
+          "q": "Goal chemistry importance",
+          "options": [
+            "Must align",
+            "Very important",
+            "Adjustable",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Goal long-term",
+          "options": [
+            "Keep aggressive",
+            "Maintain",
+            "Slow down",
+            "No goals"
+          ]
+        },
+        {
+          "q": "Goal after life change",
+          "options": [
+            "Re-plan together",
+            "Adapt",
+            "No change",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Goal support style",
+          "options": [
+            "Active partner",
+            "Cheerleader",
+            "Independent",
+            "No support"
+          ]
+        },
+        {
+          "q": "Goal memory power",
+          "options": [
+            "Very meaningful",
+            "Somewhat",
+            "Neutral",
+            "Forgettable"
+          ]
+        },
+        {
+          "q": "Ideal goal outcome",
+          "options": [
+            "Achieve together",
+            "Financial freedom",
+            "Balanced life",
+            "All three"
+          ]
+        },
+        {
+          "q": "Goal ritual",
+          "options": [
+            "Want shared",
+            "Nice idea",
+            "Individual",
+            "No ritual"
+          ]
+        },
+        {
+          "q": "Goal chemistry sign",
+          "options": [
+            "Strong sign",
+            "Important",
+            "Nice",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Long-term goal vision",
+          "options": [
+            "Millionaire",
+            "Comfortable",
+            "Debt-free",
+            "No goal"
+          ]
+        },
+        {
+          "q": "Goal flexibility",
+          "options": [
+            "Very flexible",
+            "Some",
+            "Strict",
+            "No flexibility"
+          ]
+        },
+        {
+          "q": "Goal celebration style",
+          "options": [
+            "Big trip",
+            "Small reward",
+            "Quiet",
+            "No celebration"
+          ]
+        },
+        {
+          "q": "Ideal financial future",
+          "options": [
+            "Freedom",
+            "Security",
+            "Generosity",
+            "All three"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Money & Relationship Dynamics",
+      "description": "How money interacts with power, support and fairness in relationships",
+      "questions": [
+        {
+          "q": "Financial power balance",
+          "options": [
+            "Must be equal",
+            "Ok if one earns more",
+            "One provides",
+            "No balance"
+          ]
+        },
+        {
+          "q": "Higher earner role",
+          "options": [
+            "Share equally",
+            "Proportional split",
+            "One covers more",
+            "No higher earner"
+          ]
+        },
+        {
+          "q": "Money as control",
+          "options": [
+            "Big red flag",
+            "Some concern",
+            "Depends",
+            "Not worried"
+          ]
+        },
+        {
+          "q": "Financial dependence",
+          "options": [
+            "Avoid completely",
+            "Ok short-term",
+            "Acceptable",
+            "Desired"
+          ]
+        },
+        {
+          "q": "Money fights trigger",
+          "options": [
+            "Spending habits",
+            "Debt",
+            "Secrecy",
+            "Ambition"
+          ]
+        },
+        {
+          "q": "Financial infidelity",
+          "options": [
+            "Deal-breaker",
+            "Serious issue",
+            "Depends",
+            "Not concerned"
+          ]
+        },
+        {
+          "q": "Money chemistry importance",
+          "options": [
+            "Must match",
+            "Very important",
+            "Adjustable",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Money long-term",
+          "options": [
+            "Keep aligned",
+            "Balance",
+            "Fade",
+            "No focus"
+          ]
+        },
+        {
+          "q": "Money after life change",
+          "options": [
+            "Re-plan",
+            "Adapt",
+            "No change",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Money support style",
+          "options": [
+            "Active help",
+            "Emotional support",
+            "Independent",
+            "No support"
+          ]
+        },
+        {
+          "q": "Money memory power",
+          "options": [
+            "Very meaningful",
+            "Somewhat",
+            "Neutral",
+            "Forgettable"
+          ]
+        },
+        {
+          "q": "Ideal money dynamic",
+          "options": [
+            "Equal partners",
+            "Supportive",
+            "Independent",
+            "All three"
+          ]
+        },
+        {
+          "q": "Money ritual",
+          "options": [
+            "Want shared",
+            "Nice idea",
+            "Individual",
+            "No ritual"
+          ]
+        },
+        {
+          "q": "Money chemistry sign",
+          "options": [
+            "Strong sign",
+            "Important",
+            "Nice",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Long-term money vision",
+          "options": [
+            "Financial freedom together",
+            "Balanced",
+            "Separate",
+            "No vision"
+          ]
+        },
+        {
+          "q": "Money love language",
+          "options": [
+            "Gifts",
+            "Security",
+            "Experiences",
+            "Freedom"
+          ]
+        },
+        {
+          "q": "Money after argument",
+          "options": [
+            "Talk it out",
+            "Wait",
+            "No talk",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Money initiation",
+          "options": [
+            "I bring up",
+            "Mutual",
+            "Prefer they bring up",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Money outcome goal",
+          "options": [
+            "Financial harmony",
+            "Freedom",
+            "Security",
+            "All three"
+          ]
+        },
+        {
+          "q": "Money dynamic ideal",
+          "options": [
+            "Equal power",
+            "Supportive",
+            "Independent",
+            "No dynamic"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Money & Lifestyle Choices",
+      "description": "How money influences lifestyle, consumption and values",
+      "questions": [
+        {
+          "q": "Lifestyle inflation when income rises",
+          "options": [
+            "Avoid completely",
+            "Some upgrades",
+            "Enjoy spending",
+            "High lifestyle"
+          ]
+        },
+        {
+          "q": "Luxury spending comfort",
+          "options": [
+            "Rare & justified",
+            "Occasional",
+            "Regular",
+            "Avoid luxury"
+          ]
+        },
+        {
+          "q": "Minimalism vs abundance",
+          "options": [
+            "Strong minimalist",
+            "Balanced",
+            "Abundance mindset",
+            "Maximalist"
+          ]
+        },
+        {
+          "q": "Money & happiness",
+          "options": [
+            "Strong correlation",
+            "Up to a point",
+            "Weak",
+            "None"
+          ]
+        },
+        {
+          "q": "Experiences vs things",
+          "options": [
+            "Experiences always",
+            "Balanced",
+            "Things ok",
+            "Things first"
+          ]
+        },
+        {
+          "q": "Money & status",
+          "options": [
+            "Not important",
+            "Somewhat",
+            "Important",
+            "Very important"
+          ]
+        },
+        {
+          "q": "Money & generosity",
+          "options": [
+            "High giver",
+            "Balanced",
+            "Selective",
+            "Low giver"
+          ]
+        },
+        {
+          "q": "Money & security",
+          "options": [
+            "Top priority",
+            "Important",
+            "Medium",
+            "Low"
+          ]
+        },
+        {
+          "q": "Money chemistry importance",
+          "options": [
+            "Must match",
+            "Very important",
+            "Adjustable",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Money long-term lifestyle",
+          "options": [
+            "Keep simple",
+            "Upgrade gradually",
+            "High lifestyle",
+            "No focus"
+          ]
+        },
+        {
+          "q": "Money after success",
+          "options": [
+            "Save most",
+            "Enjoy some",
+            "Give away",
+            "No change"
+          ]
+        },
+        {
+          "q": "Money support style",
+          "options": [
+            "Active planning",
+            "Emotional support",
+            "Independent",
+            "No support"
+          ]
+        },
+        {
+          "q": "Money memory power",
+          "options": [
+            "Very meaningful",
+            "Somewhat",
+            "Neutral",
+            "Forgettable"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-import React, { useCallback, useState } from 'react';
+import React, { useCallback, useRef, useState } from 'react';
 import { View, Text, Pressable, Dimensions } from 'react-native';
 import { Gesture, GestureDetector } from 'react-native-gesture-handler';
 import Animated, {
@@ -112,6 +112,8 @@ export default function CategoryFilter({ onSelect, onDismiss }: CategoryFilterPr
   const selectedCategory = useIcebreakerStore((s) => s.selectedCategory);
   const setSelectedCategory = useIcebreakerStore((s) => s.setSelectedCategory);
   const hapticsEnabled = useSettingsStore((s) => s.hapticsEnabled);
+  const hadCategoryOnMount = useRef(selectedCategory !== null);
+
 
   const translateX = useSharedValue(0);
   const translateY = useSharedValue(0);
@@ -313,8 +315,8 @@ export default function CategoryFilter({ onSelect, onDismiss }: CategoryFilterPr
           </Text>
         </View>
 
-        {/* X close button - only show if a category is already selected */}
-        {selectedCategory !== null ? (
+        {/* X close button - only show if opened with a category already selected (not initial launch) */}
+        {hadCategoryOnMount.current ? (
           <Pressable
             onPress={() => {
               if (hapticsEnabled) {

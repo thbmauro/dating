@@ -1,0 +1,1598 @@
+{
+  "category": "Food",
+  "description": "Bonding over flavors, cooking, shared meals and culinary experiences",
+  "icebreakers": [
+    "What’s the most memorable meal you’ve ever shared with someone special?",
+    "If we cooked a romantic dinner together tonight, what dish would we make?",
+    "What food or cuisine have you always wanted to learn to cook with a partner?",
+    "What’s your ultimate guilty-pleasure late-night snack?",
+    "If we could teleport to any restaurant in the world right now, where are we going?",
+    "What’s the best street food or market bite you’ve ever discovered?",
+    "How do you feel about cooking together as a regular date-night ritual?",
+    "What family recipe or dish would you love to pass on or recreate together?",
+    "If we packed the perfect picnic under the stars, what would be on the menu?",
+    "What’s your favorite way to end a really great meal?",
+    "What cuisine or flavor profile do you most want to explore together?",
+    "How important is it that your partner is adventurous with food?",
+    "What’s the most creative or unusual dish you’ve ever made or tried?",
+    "If we opened a tiny pop-up restaurant together, what would our signature item be?",
+    "What food-related memory always makes you smile when you think about it?",
+    "Breakfast in bed as a surprise, dream come true or overrated?",
+    "What’s your ideal lazy Sunday brunch setup and menu?",
+    "If we could taste one iconic dish from every country, where would we start?",
+    "What comfort food do you crave most on cozy nights in?",
+    "What food experience or ritual do you most want to create with someone special?",
+    "Spicy food tolerance level, 1 to 10?",
+    "What’s your favorite kitchen tool or gadget you can’t live without?",
+    "Best meal you’ve ever eaten completely alone?",
+    "Dessert first or always last, what’s your rule?",
+    "Favorite seasonal ingredient or dish you look forward to every year?",
+    "Funniest or most disastrous cooking fail story?",
+    "Dream dinner party guests, living, dead or fictional, who’s at the table?",
+    "What food smell instantly transports you back to a happy memory?",
+    "Best food market or bazaar experience you’ve ever had?",
+    "Wine, cocktail or non-alcoholic pairing, how important is it with meals?",
+    "Favorite food texture or mouthfeel (crunchy, creamy, chewy, etc.)?",
+    "What music or playlist always plays while you cook?",
+    "Best homemade food gift you’ve ever given or received?",
+    "Favorite childhood meal or dish that still comforts you?",
+    "What single food could you happily eat every single day?",
+    "Best restaurant view or location you’ve ever eaten at?",
+    "Favorite international snack or treat you bring home?",
+    "Cooking class or workshop together, yes or no?",
+    "Best food festival, fair or event you’ve attended?",
+    "Favorite silly kitchen dance move or habit?",
+    "What food from your childhood do you still miss or crave?",
+    "Best late-night food run or delivery story?",
+    "Favorite herb, spice or seasoning you use constantly?",
+    "How often do you love cooking for friends or hosting?",
+    "Best food-related surprise you’ve ever received?",
+    "Favorite food scene from a movie or show?",
+    "Sweet vs savory lifelong preference?",
+    "Best food stop or roadside eat on a road trip?",
+    "Favorite cooking show, chef or YouTube channel?",
+    "What food would you most like to grow yourself (herbs, veggies, fruit)?",
+    "Best food photo or plating you’ve ever done?",
+    "Favorite food-related holiday tradition?",
+    "Cooking stress level, 1 to 10 (1 = zen, 10 = panic)?",
+    "Best food-related book, memoir or story?",
+    "Favorite food podcast or audio experience?",
+    "Any food you’d happily ban from existence forever?",
+    "Best food-themed date idea you’ve had or want?",
+    "Favorite kitchen memory from childhood or past?",
+    "Any food allergies, intolerances or strong avoids?",
+    "Best food city or region you’ve ever visited?",
+    "Go-to food delivery or takeout order?",
+    "Cooking with music, silence, podcast or TV?",
+    "Most successful (or funniest) food experiment?",
+    "Favorite food scent memory that hits hard?",
+    "What dish or technique do you want to teach someone?",
+    "Best food photo you’ve taken or wish you took?",
+    "Favorite food-related quote or saying?",
+    "Cooking outfit, full apron, casual, or naked chef?",
+    "Best food story or memory from traveling?",
+    "Favorite food emoji you overuse?",
+    "What would be your ideal last meal on Earth?",
+    "Best way you like to celebrate with food?",
+    "Favorite personal food ritual or superstition?",
+    "Cooking patience level, saint or short fuse?",
+    "Best food gift you’ve ever given or received?",
+    "Favorite food season or weather pairing?",
+    "What dish or cuisine do you most want to master?",
+    "Funniest food-related laugh or moment?",
+    "Favorite food movie, documentary or scene?",
+    "Cooking goal or skill you want to achieve this year?",
+    "Best food that brings instant comfort?",
+    "Favorite food adventure or risk you’ve taken?",
+    "What dish do you want to share with someone first?",
+    "Best family food memory or tradition?",
+    "Favorite food sound (sizzle, crunch, pour, etc.)?",
+    "Cooking confidence level, 1 to 10?",
+    "Best food surprise or discovery?",
+    "Favorite unexpected food texture combination?",
+    "Would you do a blindfolded tasting date?",
+    "Best food date night idea you’ve had or want?",
+    "Favorite food tradition you’d start with a partner?",
+    "Essential song for your cooking playlist?",
+    "Best food ‘we made it’ or survival moment?",
+    "Favorite food love language (cooking for, sharing, etc.)?",
+    "What dish would you happily cook forever?",
+    "Best food ‘pinch me’ moment?",
+    "Favorite food ritual you’d build with someone?",
+    "Dream kitchen feature or setup?",
+    "Best ‘only we know’ food inside joke?",
+    "Favorite food love note or message?",
+    "What dish do you want to perfect together?",
+    "Best food ‘you had to be there’ story?"
+  ],
+  "vibe_tests": [
+    {
+      "test_name": "Kitchen Dynamic & Roles",
+      "description": "How well do your cooking styles, roles and kitchen vibes match?",
+      "questions": [
+        {
+          "q": "Cooking together is",
+          "options": [
+            "My favorite kind of date",
+            "Fun occasionally",
+            "More of a chore we divide",
+            "Rare / not my thing"
+          ]
+        },
+        {
+          "q": "Preferred kitchen role",
+          "options": [
+            "I love being head chef",
+            "Happy as sous-chef / helper",
+            "Equal split everything",
+            "One cooks, one cleans"
+          ]
+        },
+        {
+          "q": "Meal planning style",
+          "options": [
+            "Weekly meal plan together",
+            "Decide daily / spontaneous",
+            "Mostly takeout or easy",
+            "One person decides"
+          ]
+        },
+        {
+          "q": "Trying new recipes frequency",
+          "options": [
+            "Weekly experiments",
+            "Monthly new dish",
+            "Occasionally",
+            "Stick to tried & true"
+          ]
+        },
+        {
+          "q": "Spicy food tolerance",
+          "options": [
+            "Love serious heat",
+            "Medium spice ok",
+            "Mild only",
+            "No spice at all"
+          ]
+        },
+        {
+          "q": "Cooking music or sound",
+          "options": [
+            "Always music loud",
+            "Sometimes / light",
+            "Silence or podcast",
+            "TV in background"
+          ]
+        },
+        {
+          "q": "Leftovers attitude",
+          "options": [
+            "Love eating leftovers",
+            "Ok sometimes",
+            "Rarely want them",
+            "Avoid leftovers"
+          ]
+        },
+        {
+          "q": "Grocery shopping together",
+          "options": [
+            "Fun date activity",
+            "One person usually does",
+            "Delivery / apps",
+            "Split the list separately"
+          ]
+        },
+        {
+          "q": "Dessert frequency",
+          "options": [
+            "Every meal has dessert",
+            "Most days",
+            "Weekends / special",
+            "Rare treat"
+          ]
+        },
+        {
+          "q": "Kitchen mess tolerance",
+          "options": [
+            "Clean as we go",
+            "Clean everything after",
+            "Mess ok during",
+            "Hate any clutter"
+          ]
+        },
+        {
+          "q": "Food adventurousness",
+          "options": [
+            "Try literally anything",
+            "Most cuisines & ingredients",
+            "Stick to familiar safe foods",
+            "Very picky / selective"
+          ]
+        },
+        {
+          "q": "Breakfast preference",
+          "options": [
+            "Big savory breakfast",
+            "Sweet & pastry",
+            "Quick & light",
+            "Often skip breakfast"
+          ]
+        },
+        {
+          "q": "Cooking classes / workshops",
+          "options": [
+            "Want to do together often",
+            "Maybe once",
+            "Not interested",
+            "Already expert"
+          ]
+        },
+        {
+          "q": "Food photos / plating",
+          "options": [
+            "Always snap beautiful pics",
+            "Sometimes",
+            "Never / annoying",
+            "Eat first photo later"
+          ]
+        },
+        {
+          "q": "Wine / drink pairing importance",
+          "options": [
+            "Essential, love pairing",
+            "Nice when it happens",
+            "Rarely think about it",
+            "No alcohol or pairing"
+          ]
+        },
+        {
+          "q": "Meal prep / batch cooking",
+          "options": [
+            "Weekly batch prep",
+            "Few days ahead",
+            "Daily fresh only",
+            "No prep, cook fresh"
+          ]
+        },
+        {
+          "q": "Favorite meal of the day",
+          "options": [
+            "Breakfast",
+            "Lunch",
+            "Dinner",
+            "Brunch / weekend meals"
+          ]
+        },
+        {
+          "q": "Food waste attitude",
+          "options": [
+            "Minimize waste at all costs",
+            "Some waste ok",
+            "Not concerned",
+            "Hate throwing anything away"
+          ]
+        },
+        {
+          "q": "Cooking time patience",
+          "options": [
+            "Hours of cooking = fun",
+            "30, 60 min ideal",
+            "15 min max",
+            "Prefer order out"
+          ]
+        },
+        {
+          "q": "Shared cooking goal",
+          "options": [
+            "Master a cuisine together",
+            "Try one new dish weekly",
+            "Perfect our staples",
+            "No shared goal"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Food Adventurousness",
+      "description": "How aligned are your willingness to try new flavors and ingredients?",
+      "questions": [
+        {
+          "q": "New cuisine trying frequency",
+          "options": [
+            "Weekly new cuisine",
+            "Monthly",
+            "Few times a year",
+            "Rarely new"
+          ]
+        },
+        {
+          "q": "Street food comfort level",
+          "options": [
+            "Love street food everywhere",
+            "Only if looks clean/safe",
+            "Rarely",
+            "Avoid street food"
+          ]
+        },
+        {
+          "q": "Exotic / unusual ingredients",
+          "options": [
+            "Excited to try anything",
+            "Curious but cautious",
+            "Only familiar",
+            "Strong no"
+          ]
+        },
+        {
+          "q": "Fermented / strong-flavor foods",
+          "options": [
+            "Love kimchi, sauerkraut, durian",
+            "Ok sometimes",
+            "Not a fan",
+            "Avoid completely"
+          ]
+        },
+        {
+          "q": "Offal / organ meats / unusual cuts",
+          "options": [
+            "Enjoy liver, heart, etc.",
+            "Tried once or twice",
+            "No thanks",
+            "Strong no"
+          ]
+        },
+        {
+          "q": "Very spicy challenge tolerance",
+          "options": [
+            "Bring the heat, hotter the better",
+            "Medium max",
+            "Mild only",
+            "No spice at all"
+          ]
+        },
+        {
+          "q": "Raw fish / sushi / ceviche",
+          "options": [
+            "Favorite foods",
+            "Enjoy sometimes",
+            "Rarely",
+            "No raw fish"
+          ]
+        },
+        {
+          "q": "Insects or unconventional protein",
+          "options": [
+            "Would try / have tried",
+            "Maybe if convinced",
+            "Unlikely",
+            "Never"
+          ]
+        },
+        {
+          "q": "Molecular gastronomy / foams / spheres",
+          "options": [
+            "Love the creativity",
+            "Curious to try",
+            "Prefer classic cooking",
+            "No interest"
+          ]
+        },
+        {
+          "q": "Foraging / wild / hyper-local foods",
+          "options": [
+            "Excited if safe",
+            "Only guided/foraged",
+            "Unsure",
+            "No thanks"
+          ]
+        },
+        {
+          "q": "Vegan / plant-based week trial",
+          "options": [
+            "Easy & fun",
+            "Willing to try",
+            "Hard for me",
+            "No way"
+          ]
+        },
+        {
+          "q": "Food tour or tasting menu",
+          "options": [
+            "Top priority on trips",
+            "Nice to do",
+            "Maybe once",
+            "Skip"
+          ]
+        },
+        {
+          "q": "Cooking foreign cuisine at home",
+          "options": [
+            "Often try",
+            "Sometimes",
+            "Rarely",
+            "Never"
+          ]
+        },
+        {
+          "q": "Blindfolded or mystery tasting",
+          "options": [
+            "Sounds fun",
+            "Depends on company",
+            "Nervous",
+            "No thanks"
+          ]
+        },
+        {
+          "q": "Local seasonal / farm-to-table focus",
+          "options": [
+            "Love it, prioritize",
+            "Try to do",
+            "Sometimes",
+            "No preference"
+          ]
+        },
+        {
+          "q": "Food fusion experiments at home",
+          "options": [
+            "Love inventing",
+            "Enjoy trying",
+            "Prefer traditional",
+            "No fusion"
+          ]
+        },
+        {
+          "q": "Blind taste test game",
+          "options": [
+            "Excited to play",
+            "Ok to try",
+            "Nervous",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Rare / expensive ingredient hunt",
+          "options": [
+            "Adventure goal",
+            "Occasional splurge",
+            "Rare",
+            "No"
+          ]
+        },
+        {
+          "q": "Interest in food history / origin",
+          "options": [
+            "High, love the stories",
+            "Some interest",
+            "Low",
+            "None"
+          ]
+        },
+        {
+          "q": "Ultimate food exploration goal",
+          "options": [
+            "Taste everything possible",
+            "Master favorite cuisines",
+            "Healthy & balanced",
+            "Comfort foods only"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Comfort Food & Ritual Match",
+      "description": "Alignment on comfort foods, cozy rituals and emotional eating",
+      "questions": [
+        {
+          "q": "Ultimate comfort food",
+          "options": [
+            "Pasta / carbs",
+            "Warm soup / stew",
+            "Sweet / dessert",
+            "Savory snacks"
+          ]
+        },
+        {
+          "q": "Cozy night in food ritual",
+          "options": [
+            "Home-cooked meal",
+            "Takeout favorites",
+            "Movie snacks",
+            "Simple comfort"
+          ]
+        },
+        {
+          "q": "Bad day food response",
+          "options": [
+            "Cook something comforting",
+            "Order favorite",
+            "Eat junk",
+            "Skip eating"
+          ]
+        },
+        {
+          "q": "Childhood comfort dish",
+          "options": [
+            "Still crave it",
+            "Sometimes",
+            "Grown out of it",
+            "Different now"
+          ]
+        },
+        {
+          "q": "Rainy day food vibe",
+          "options": [
+            "Warm baked goods",
+            "Soup & bread",
+            "Comfort takeout",
+            "No change"
+          ]
+        },
+        {
+          "q": "Celebration food",
+          "options": [
+            "Big home-cooked feast",
+            "Restaurant special",
+            "Dessert heavy",
+            "Casual"
+          ]
+        },
+        {
+          "q": "Late-night comfort",
+          "options": [
+            "Cereal / ice cream",
+            "Pizza / leftovers",
+            "Savory snack",
+            "Nothing late"
+          ]
+        },
+        {
+          "q": "Comfort food sharing",
+          "options": [
+            "Love sharing mine",
+            "Mutual comfort foods",
+            "Eat separately",
+            "No comfort sharing"
+          ]
+        },
+        {
+          "q": "Comfort food nostalgia",
+          "options": [
+            "Very strong",
+            "Somewhat",
+            "Neutral",
+            "Not nostalgic"
+          ]
+        },
+        {
+          "q": "Comfort food guilt",
+          "options": [
+            "No guilt",
+            "Some guilt",
+            "High guilt",
+            "Avoid comfort foods"
+          ]
+        },
+        {
+          "q": "Cozy food ritual together",
+          "options": [
+            "Want to create",
+            "Nice idea",
+            "Spontaneous",
+            "No ritual"
+          ]
+        },
+        {
+          "q": "Comfort after argument",
+          "options": [
+            "Food helps reconnect",
+            "Wait first",
+            "No food",
+            "Separate eating"
+          ]
+        },
+        {
+          "q": "Comfort food variety",
+          "options": [
+            "Many go-to’s",
+            "Few favorites",
+            "One main",
+            "No comfort food"
+          ]
+        },
+        {
+          "q": "Comfort food season",
+          "options": [
+            "Winter heavy",
+            "All year",
+            "Summer light",
+            "No seasonal"
+          ]
+        },
+        {
+          "q": "Comfort food love language",
+          "options": [
+            "Cooking comfort for them",
+            "Them cooking for me",
+            "Sharing",
+            "Independent"
+          ]
+        },
+        {
+          "q": "Comfort food memory power",
+          "options": [
+            "Very strong",
+            "Strong",
+            "Moderate",
+            "Weak"
+          ]
+        },
+        {
+          "q": "Comfort food chemistry",
+          "options": [
+            "Strong alignment needed",
+            "Important",
+            "Adjustable",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Comfort after travel",
+          "options": [
+            "Home comfort food",
+            "Local last meal",
+            "New food",
+            "No change"
+          ]
+        },
+        {
+          "q": "Comfort food sharing rule",
+          "options": [
+            "Always share",
+            "Sometimes",
+            "Separate plates",
+            "No sharing"
+          ]
+        },
+        {
+          "q": "Ideal comfort outcome",
+          "options": [
+            "Feel loved & safe",
+            "Nourished & cozy",
+            "Happy memory",
+            "All three"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Meal Rituals & Routine",
+      "description": "Preferred daily/weekly food routines and shared rituals",
+      "questions": [
+        {
+          "q": "Daily shared meal importance",
+          "options": [
+            "Must have dinner together",
+            "Most nights",
+            "Few times week",
+            "Independent eating"
+          ]
+        },
+        {
+          "q": "Breakfast together preference",
+          "options": [
+            "Every day",
+            "Weekends only",
+            "Occasional",
+            "Separate"
+          ]
+        },
+        {
+          "q": "Weekend brunch ritual",
+          "options": [
+            "Love long brunch",
+            "Quick brunch",
+            "No brunch",
+            "Lazy breakfast"
+          ]
+        },
+        {
+          "q": "Cooking night frequency",
+          "options": [
+            "Every night",
+            "4, 5 nights/week",
+            "2, 3 nights",
+            "Rarely cook"
+          ]
+        },
+        {
+          "q": "Takeout / delivery night",
+          "options": [
+            "Once a week",
+            "Few times month",
+            "Rare",
+            "Never"
+          ]
+        },
+        {
+          "q": "Date night food style",
+          "options": [
+            "Cook together",
+            "Restaurant",
+            "Takeout at home",
+            "Mix"
+          ]
+        },
+        {
+          "q": "Food shopping ritual",
+          "options": [
+            "Together every time",
+            "One does",
+            "Delivery",
+            "Split separately"
+          ]
+        },
+        {
+          "q": "Meal prep day",
+          "options": [
+            "Sunday ritual",
+            "No prep",
+            "Daily fresh",
+            "Occasional prep"
+          ]
+        },
+        {
+          "q": "Holiday food tradition",
+          "options": [
+            "Big traditional meal",
+            "New traditions",
+            "Casual",
+            "No tradition"
+          ]
+        },
+        {
+          "q": "Late-night snack share",
+          "options": [
+            "Love sharing",
+            "Sometimes",
+            "Separate",
+            "No late snacks"
+          ]
+        },
+        {
+          "q": "Breakfast in bed",
+          "options": [
+            "Love giving/receiving",
+            "Occasional",
+            "Rare",
+            "Not my thing"
+          ]
+        },
+        {
+          "q": "Picnic or outdoor meal",
+          "options": [
+            "Weekly ideal",
+            "Seasonal",
+            "Rare",
+            "Never"
+          ]
+        },
+        {
+          "q": "Food ritual after work",
+          "options": [
+            "Cook together",
+            "Decompress first",
+            "Eat out",
+            "Individual"
+          ]
+        },
+        {
+          "q": "Food love language",
+          "options": [
+            "Cooking for them",
+            "Sharing plates",
+            "Trying new",
+            "All equal"
+          ]
+        },
+        {
+          "q": "Meal timing flexibility",
+          "options": [
+            "Strict times",
+            "Flexible ±1 hour",
+            "Very loose",
+            "No schedule"
+          ]
+        },
+        {
+          "q": "Shared cooking playlist",
+          "options": [
+            "Must have",
+            "Nice",
+            "Silence",
+            "Podcast"
+          ]
+        },
+        {
+          "q": "Meal cleanup style",
+          "options": [
+            "Clean as we go",
+            "One cooks one cleans",
+            "Both clean after",
+            "Leave for later"
+          ]
+        },
+        {
+          "q": "Food gratitude ritual",
+          "options": [
+            "Grace or thanks",
+            "Talk about day",
+            "Silent",
+            "No ritual"
+          ]
+        },
+        {
+          "q": "Meal presentation",
+          "options": [
+            "Beautiful plating",
+            "Casual",
+            "No care",
+            "Takeout style"
+          ]
+        },
+        {
+          "q": "Ideal food routine outcome",
+          "options": [
+            "Feel connected",
+            "Nourished & happy",
+            "Fun memories",
+            "All three"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Dessert & Sweet vs Savory",
+      "description": "Alignment on sweets, desserts and savory preferences",
+      "questions": [
+        {
+          "q": "Sweet vs savory lifelong preference",
+          "options": [
+            "Strong sweet tooth",
+            "Balanced",
+            "Savory dominant",
+            "No strong preference"
+          ]
+        },
+        {
+          "q": "Dessert frequency",
+          "options": [
+            "Every meal",
+            "Most days",
+            "Weekends / special",
+            "Rare treat"
+          ]
+        },
+        {
+          "q": "Dessert first or last",
+          "options": [
+            "Dessert first always",
+            "Last, save best",
+            "Middle",
+            "No dessert"
+          ]
+        },
+        {
+          "q": "Favorite dessert type",
+          "options": [
+            "Chocolate heavy",
+            "Fruity / light",
+            "Creamy / custard",
+            "Baked goods"
+          ]
+        },
+        {
+          "q": "Ice cream vs cake",
+          "options": [
+            "Ice cream wins",
+            "Cake wins",
+            "Both",
+            "Neither"
+          ]
+        },
+        {
+          "q": "Baking together",
+          "options": [
+            "Love it",
+            "Occasional",
+            "Rare",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Sweet snack timing",
+          "options": [
+            "Anytime",
+            "After meal",
+            "Late night",
+            "Never"
+          ]
+        },
+        {
+          "q": "Savory snack craving",
+          "options": [
+            "Often",
+            "Sometimes",
+            "Rare",
+            "Never"
+          ]
+        },
+        {
+          "q": "Dessert sharing",
+          "options": [
+            "Always share one",
+            "Separate desserts",
+            "One eats dessert",
+            "No dessert"
+          ]
+        },
+        {
+          "q": "Dessert after savory",
+          "options": [
+            "Must have",
+            "Nice",
+            "Sometimes",
+            "Skip"
+          ]
+        },
+        {
+          "q": "Sweet breakfast",
+          "options": [
+            "Love pancakes/waffles",
+            "Sometimes",
+            "Savory only",
+            "No breakfast"
+          ]
+        },
+        {
+          "q": "Dessert guilt",
+          "options": [
+            "No guilt",
+            "Some guilt",
+            "High guilt",
+            "Avoid sweets"
+          ]
+        },
+        {
+          "q": "Favorite sweet ritual",
+          "options": [
+            "Dessert date",
+            "Late night ice cream",
+            "Baking day",
+            "No ritual"
+          ]
+        },
+        {
+          "q": "Savory dessert (cheese plate)",
+          "options": [
+            "Love it",
+            "Ok",
+            "Rare",
+            "No"
+          ]
+        },
+        {
+          "q": "Sweet after spicy",
+          "options": [
+            "Needed",
+            "Nice",
+            "Neutral",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Dessert variety need",
+          "options": [
+            "High, try new",
+            "Medium",
+            "Few favorites",
+            "No variety"
+          ]
+        },
+        {
+          "q": "Sweet chemistry sign",
+          "options": [
+            "Strong alignment needed",
+            "Important",
+            "Adjustable",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Dessert long-term",
+          "options": [
+            "Keep indulging",
+            "Balance",
+            "Reduce",
+            "No sweets"
+          ]
+        },
+        {
+          "q": "Favorite dessert memory",
+          "options": [
+            "Very strong",
+            "Somewhat",
+            "Neutral",
+            "None"
+          ]
+        },
+        {
+          "q": "Ideal sweet-savory balance",
+          "options": [
+            "More sweet",
+            "Equal",
+            "More savory",
+            "No preference"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Food Gifting & Surprise",
+      "description": "Preferred ways of expressing affection through food gifts and surprises",
+      "questions": [
+        {
+          "q": "Food as love language",
+          "options": [
+            "Top love language",
+            "Very important",
+            "Nice bonus",
+            "Not my style"
+          ]
+        },
+        {
+          "q": "Surprise breakfast in bed",
+          "options": [
+            "Love giving/receiving",
+            "Occasional sweet",
+            "Rare",
+            "Not my thing"
+          ]
+        },
+        {
+          "q": "Cooking for someone special",
+          "options": [
+            "Favorite way to show care",
+            "Often",
+            "Sometimes",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Food gift preference",
+          "options": [
+            "Homemade",
+            "Thoughtful takeout",
+            "Fancy restaurant",
+            "No food gifts"
+          ]
+        },
+        {
+          "q": "Surprise dinner",
+          "options": [
+            "Love planning",
+            "Nice to receive",
+            "Rare",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Late-night snack surprise",
+          "options": [
+            "Best surprise",
+            "Sweet",
+            "Ok",
+            "No late food"
+          ]
+        },
+        {
+          "q": "Food delivery surprise",
+          "options": [
+            "Love it",
+            "Nice sometimes",
+            "Rare",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Baking as gift",
+          "options": [
+            "Love baking for them",
+            "Nice occasionally",
+            "Rare",
+            "No baking"
+          ]
+        },
+        {
+          "q": "Food surprise frequency",
+          "options": [
+            "Weekly",
+            "Monthly",
+            "Occasional",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Food love note",
+          "options": [
+            "Love writing",
+            "Nice",
+            "Rare",
+            "No notes"
+          ]
+        },
+        {
+          "q": "Picnic surprise",
+          "options": [
+            "Romantic ideal",
+            "Fun",
+            "Rare",
+            "No picnics"
+          ]
+        },
+        {
+          "q": "Food after argument",
+          "options": [
+            "Helps reconnect",
+            "Wait first",
+            "No food",
+            "Separate"
+          ]
+        },
+        {
+          "q": "Food celebration",
+          "options": [
+            "Big food fest",
+            "Small treat",
+            "No food",
+            "Varies"
+          ]
+        },
+        {
+          "q": "Food apology",
+          "options": [
+            "Favorite way to say sorry",
+            "Nice",
+            "Rare",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Food chemistry sign",
+          "options": [
+            "Strong sign",
+            "Important",
+            "Nice",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Food surprise initiation",
+          "options": [
+            "I love initiating",
+            "Mutual",
+            "Prefer receiving",
+            "Slow"
+          ]
+        },
+        {
+          "q": "Food gift creativity",
+          "options": [
+            "Very creative",
+            "Thoughtful basic",
+            "Classic",
+            "No gifts"
+          ]
+        },
+        {
+          "q": "Food long-term",
+          "options": [
+            "Keep surprising",
+            "Balance",
+            "Fade",
+            "No food surprises"
+          ]
+        },
+        {
+          "q": "Food memory power",
+          "options": [
+            "Very strong",
+            "Strong",
+            "Moderate",
+            "Weak"
+          ]
+        },
+        {
+          "q": "Ideal food love outcome",
+          "options": [
+            "Feel cherished",
+            "Nourished & loved",
+            "Fun memories",
+            "All three"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Food Love Language",
+      "description": "How food fits into your primary ways of giving/receiving love",
+      "questions": [
+        {
+          "q": "Food as love language rank",
+          "options": [
+            "Top 1, 2",
+            "Top 3",
+            "Mid-tier",
+            "Low or none"
+          ]
+        },
+        {
+          "q": "Cooking for partner",
+          "options": [
+            "Primary way I show love",
+            "Often",
+            "Sometimes",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Receiving home-cooked meal",
+          "options": [
+            "Feels most loved",
+            "Very nice",
+            "Ok",
+            "Neutral"
+          ]
+        },
+        {
+          "q": "Sharing plates / tasting",
+          "options": [
+            "Love sharing everything",
+            "Some sharing",
+            "Separate plates",
+            "No sharing"
+          ]
+        },
+        {
+          "q": "Food surprises",
+          "options": [
+            "Top love gesture",
+            "Very sweet",
+            "Nice occasionally",
+            "Not important"
+          ]
+        },
+        {
+          "q": "Trying new food together",
+          "options": [
+            "Major bonding",
+            "Fun",
+            "Neutral",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Food date nights",
+          "options": [
+            "Favorite date",
+            "Often",
+            "Sometimes",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Food comfort after hard day",
+          "options": [
+            "Best comfort",
+            "Nice",
+            "Neutral",
+            "Other comfort"
+          ]
+        },
+        {
+          "q": "Food celebration",
+          "options": [
+            "Always food involved",
+            "Often",
+            "Sometimes",
+            "No food"
+          ]
+        },
+        {
+          "q": "Food apology",
+          "options": [
+            "Love using food",
+            "Nice",
+            "Rare",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Food love note / message",
+          "options": [
+            "Love writing",
+            "Nice",
+            "Rare",
+            "No"
+          ]
+        },
+        {
+          "q": "Food love long-term",
+          "options": [
+            "Keep strong",
+            "Balance",
+            "Fade",
+            "No food love"
+          ]
+        },
+        {
+          "q": "Food chemistry indicator",
+          "options": [
+            "Strong sign",
+            "Important",
+            "Nice",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Food initiation",
+          "options": [
+            "I initiate most",
+            "Mutual",
+            "Prefer receiving",
+            "Slow"
+          ]
+        },
+        {
+          "q": "Food variety in love",
+          "options": [
+            "High variety",
+            "Medium",
+            "Few favorites",
+            "Same routine"
+          ]
+        },
+        {
+          "q": "Food memory power",
+          "options": [
+            "Very strong",
+            "Strong",
+            "Moderate",
+            "Weak"
+          ]
+        },
+        {
+          "q": "Food love ritual",
+          "options": [
+            "Want many",
+            "Few special",
+            "One main",
+            "No ritual"
+          ]
+        },
+        {
+          "q": "Food after argument",
+          "options": [
+            "Helps reconnect",
+            "Wait first",
+            "No food",
+            "Separate"
+          ]
+        },
+        {
+          "q": "Food love language match",
+          "options": [
+            "Must match closely",
+            "Important",
+            "Adjustable",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Ideal food love outcome",
+          "options": [
+            "Feel deeply loved",
+            "Nourished & connected",
+            "Fun memories",
+            "All three"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Food Long-Term Routine",
+      "description": "Preferred long-term food habits and couple routines",
+      "questions": [
+        {
+          "q": "Shared meals long-term",
+          "options": [
+            "Every dinner together",
+            "Most nights",
+            "Few nights",
+            "Independent"
+          ]
+        },
+        {
+          "q": "Cooking frequency future",
+          "options": [
+            "Most nights home-cooked",
+            "Balanced with eating out",
+            "Mostly eating out",
+            "Minimal cooking"
+          ]
+        },
+        {
+          "q": "Meal prep long-term",
+          "options": [
+            "Weekly ritual",
+            "Occasional",
+            "Daily fresh",
+            "No prep"
+          ]
+        },
+        {
+          "q": "Food date nights future",
+          "options": [
+            "Weekly",
+            "Bi-weekly",
+            "Monthly",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Food surprises long-term",
+          "options": [
+            "Keep surprising",
+            "Occasional",
+            "Fade",
+            "No surprises"
+          ]
+        },
+        {
+          "q": "Comfort food routine",
+          "options": [
+            "Regular cozy nights",
+            "Seasonal",
+            "Rare",
+            "No routine"
+          ]
+        },
+        {
+          "q": "Food love language evolution",
+          "options": [
+            "Stays strong",
+            "Balances",
+            "Fades",
+            "Changes"
+          ]
+        },
+        {
+          "q": "Food with kids future",
+          "options": [
+            "Family meals priority",
+            "Some family meals",
+            "Adult focus",
+            "No kids"
+          ]
+        },
+        {
+          "q": "Food health focus",
+          "options": [
+            "Healthy priority",
+            "Balanced",
+            "Comfort first",
+            "No focus"
+          ]
+        },
+        {
+          "q": "Food adventure long-term",
+          "options": [
+            "Keep exploring",
+            "Slow down",
+            "Comfort zone",
+            "No adventure"
+          ]
+        },
+        {
+          "q": "Food ritual creation",
+          "options": [
+            "Want many rituals",
+            "Few special",
+            "One main",
+            "No rituals"
+          ]
+        },
+        {
+          "q": "Food budget long-term",
+          "options": [
+            "Prioritize good food",
+            "Balanced",
+            "Save on food",
+            "Minimal"
+          ]
+        },
+        {
+          "q": "Food chemistry long-term",
+          "options": [
+            "Must stay strong",
+            "Important",
+            "Adjustable",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Food memory building",
+          "options": [
+            "Constant new memories",
+            "Some",
+            "Few",
+            "No focus"
+          ]
+        },
+        {
+          "q": "Food after life changes",
+          "options": [
+            "Comfort anchor",
+            "Adapt",
+            "Less focus",
+            "No change"
+          ]
+        },
+        {
+          "q": "Food love language aging",
+          "options": [
+            "Stays primary",
+            "Balances",
+            "Fades",
+            "Changes"
+          ]
+        },
+        {
+          "q": "Ideal food future",
+          "options": [
+            "Warm connected meals",
+            "Varied & fun",
+            "Healthy & simple",
+            "All three"
+          ]
+        },
+        {
+          "q": "Food routine flexibility",
+          "options": [
+            "Very flexible",
+            "Some routine",
+            "Strict",
+            "No routine"
+          ]
+        },
+        {
+          "q": "Food love outcome",
+          "options": [
+            "Feel deeply nourished",
+            "Connected through food",
+            "Fun & memories",
+            "All three"
+          ]
+        },
+        {
+          "q": "Long-term food goal",
+          "options": [
+            "Lifetime of shared meals",
+            "Balanced enjoyment",
+            "Comfort & health",
+            "No specific goal"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1404 @@
+{
+  "category": "Lifestyle",
+  "description": "Daily routines, living preferences, work-life balance, home environment and practical compatibility",
+  "icebreakers": [
+    "What’s your ideal weekday morning routine from wake-up to first task?",
+    "Are you a planner who schedules everything or go-with-the-flow person?",
+    "How many hours of sleep do you function best on, and what’s your bedtime routine?",
+    "Clean home vs lived-in, where do you fall and how important is it?",
+    "Screen time habits, phone in bed, work emails after hours, or strict boundaries?",
+    "Introvert, extrovert, ambivert, and how much social time do you need weekly?",
+    "Coffee, tea, matcha or no morning drink, what’s your ritual?",
+    "Minimalism, maximalism or somewhere in between for possessions?",
+    "Work-from-home, office, hybrid or location-independent, your preference?",
+    "How do you decompress after a stressful day?",
+    "Cooking vs eating out vs delivery, weekly breakdown?",
+    "Gym, home workout, outdoor movement or no exercise routine?",
+    "Night owl, early bird or in-between, and how fixed is it?",
+    "Home temperature preference, warm cozy or cool crisp?",
+    "Music, silence, podcasts or TV when home alone?",
+    "Weekend recharge, stay in, go out, adventure or routine?",
+    "Tidiness level, everything in place or organized chaos?",
+    "Shopping habits, impulse buyer, list maker, or avoid shopping?",
+    "Bathroom routine, long hot showers or quick and efficient?",
+    "How do you handle household chores, divide, one person, or hire help?",
+    "Favorite home scent, candles, diffuser, fresh air, or none?",
+    "Plants, pets, kids or none in future home?",
+    "City walkability, suburb peace, rural quiet, daily life preference?",
+    "Commute tolerance, 5 min, 30 min, hour+, or no commute?",
+    "Home entertaining, love hosting, occasional, rare, or avoid?",
+    "Outdoor space need, big yard, balcony, park nearby, or none?",
+    "Tech in home, smart everything, some devices, minimal tech?",
+    "Daily caffeine or stimulants, how much and when?",
+    "Alcohol, cannabis or sober lifestyle preference?",
+    "Reading, TV, gaming, scrolling, evening wind-down activity?",
+    "Budget shopping, discount hunter, quality over price, or no care?",
+    "Laundry routine, daily, weekly, pile-up until crisis?",
+    "Morning vs evening productivity peak?",
+    "Home lighting preference, bright overhead, warm lamps, natural only?",
+    "Favorite home ritual, coffee on porch, evening tea, etc.?",
+    "Clutter tolerance, zero clutter, some ok, lived-in welcome?",
+    "Meal prep, fresh daily, or grab-and-go style?",
+    "Sleep environment, blackout curtains, white noise, cool room?",
+    "Personal space need, lots of alone time or always together?",
+    "Daily water intake goal or habit?",
+    "Morning movement, stretch, walk, gym, or straight to work?",
+    "Home organization system, KonMari, zones, or chaos theory?",
+    "Favorite household scent trigger, fresh laundry, coffee, etc.?",
+    "Digital detox habits, phone-free zones or always connected?",
+    "Daily gratitude, journaling or mindfulness practice?",
+    "Home workout vs gym membership preference?",
+    "Favorite cleaning product or hack?",
+    "Bathroom organization, minimal or full products?",
+    "Weekly reset routine, Sunday cleaning, planning, etc.?",
+    "Favorite home comfort item, blanket, pillow, chair?",
+    "Daily step count or movement goal?",
+    "Home fragrance, strong, light, none?",
+    "Favorite home sound, music, silence, nature, fan?",
+    "Meal timing, strict schedule or eat when hungry?",
+    "Home decor style, minimal, cozy, colorful, eclectic?",
+    "Daily vitamin or supplement routine?",
+    "Morning light exposure, sunrise, bright lights, or dark?",
+    "Favorite home ritual with partner or alone?",
+    "Clothing, capsule wardrobe, lots of options, or functional?",
+    "Daily news or content consumption?",
+    "Home maintenance, DIY, hire help, ignore?",
+    "Favorite home plant or green touch?",
+    "Evening wind-down, screen, book, bath, etc.?",
+    "Daily skincare or grooming ritual?",
+    "Home temperature control, thermostat wars or flexible?",
+    "Favorite home view, city, nature, none?",
+    "Daily hydration tracking or casual?",
+    "Morning coffee/tea ritual details?",
+    "Home scent preference, natural, artificial, none?",
+    "Daily to-do list, paper, app, mental?",
+    "Favorite home comfort food or drink?",
+    "Weekly planning session, solo or shared?",
+    "Home lighting layers, overhead, lamps, string?",
+    "Daily meditation or breathwork?",
+    "Home organization tool, bins, labels, none?",
+    "Favorite home sound machine or noise?",
+    "Daily gratitude practice or none?",
+    "Home workout equipment, minimal or full gym?",
+    "Favorite home ritual for weekends?",
+    "Daily screen-free time goal?",
+    "Home scent memory trigger?",
+    "Favorite home comfort ritual?",
+    "Daily movement goal or casual?",
+    "Home decor change frequency?",
+    "Favorite home plant care routine?",
+    "Daily journaling or reflection?",
+    "Home temperature ideal range?",
+    "Favorite home evening ritual?",
+    "Daily hydration habit?",
+    "Home lighting mood setter?",
+    "Favorite home comfort item?",
+    "Daily to-do ritual?",
+    "Home scent signature?",
+    "Favorite home reset routine?"
+  ],
+  "vibe_tests": [
+    {
+      "test_name": "Daily Routine Sync",
+      "description": "How well do your weekday and daily habits align?",
+      "questions": [
+        {
+          "q": "Wake-up time preference",
+          "options": [
+            "5, 6 AM",
+            "7, 8 AM",
+            "9 AM+",
+            "Varies wildly"
+          ]
+        },
+        {
+          "q": "Morning routine length",
+          "options": [
+            "30 min or less",
+            "45, 60 min",
+            "90+ min ritual",
+            "No routine"
+          ]
+        },
+        {
+          "q": "Breakfast style",
+          "options": [
+            "Big cooked meal",
+            "Quick smoothie/coffee",
+            "Skip often",
+            "Grab on go"
+          ]
+        },
+        {
+          "q": "Morning movement",
+          "options": [
+            "Exercise first thing",
+            "Light stretch/walk",
+            "None until later",
+            "No movement"
+          ]
+        },
+        {
+          "q": "Coffee/tea timing",
+          "options": [
+            "Immediately upon waking",
+            "After routine",
+            "Mid-morning",
+            "None"
+          ]
+        },
+        {
+          "q": "Morning screen time",
+          "options": [
+            "Phone first thing",
+            "After routine",
+            "Minimal",
+            "No phone"
+          ]
+        },
+        {
+          "q": "Work start time",
+          "options": [
+            "Very early",
+            "Standard 9 AM",
+            "Late morning",
+            "Flexible"
+          ]
+        },
+        {
+          "q": "Daily planning",
+          "options": [
+            "Detailed list",
+            "Loose plan",
+            "Mental notes",
+            "No planning"
+          ]
+        },
+        {
+          "q": "Midday break",
+          "options": [
+            "Long lunch",
+            "Short reset",
+            "Work through",
+            "No break"
+          ]
+        },
+        {
+          "q": "Afternoon energy dip",
+          "options": [
+            "Big crash",
+            "Mild",
+            "None",
+            "Evening peak"
+          ]
+        },
+        {
+          "q": "Work end time",
+          "options": [
+            "Strict cutoff",
+            "Flexible",
+            "Late evenings",
+            "No work"
+          ]
+        },
+        {
+          "q": "Evening wind-down start",
+          "options": [
+            "6, 7 PM",
+            "8, 9 PM",
+            "10 PM+",
+            "No wind-down"
+          ]
+        },
+        {
+          "q": "Dinner time",
+          "options": [
+            "Early 6 PM",
+            "7, 8 PM",
+            "Late 9 PM+",
+            "Varies"
+          ]
+        },
+        {
+          "q": "Evening screen time",
+          "options": [
+            "Heavy TV/phone",
+            "Moderate",
+            "Light reading",
+            "Screen-free"
+          ]
+        },
+        {
+          "q": "Bedtime routine length",
+          "options": [
+            "Quick 10 min",
+            "30, 45 min ritual",
+            "90+ min",
+            "No routine"
+          ]
+        },
+        {
+          "q": "Sleep time",
+          "options": [
+            "9, 10 PM",
+            "11 PM, 12 AM",
+            "1 AM+",
+            "Varies"
+          ]
+        },
+        {
+          "q": "Daily water intake",
+          "options": [
+            "High, tracked",
+            "Moderate",
+            "Low",
+            "No focus"
+          ]
+        },
+        {
+          "q": "Daily step/movement goal",
+          "options": [
+            "10k+ steps",
+            "5, 8k",
+            "Minimal",
+            "No goal"
+          ]
+        },
+        {
+          "q": "Daily mindfulness",
+          "options": [
+            "Meditation/journal",
+            "Short breathwork",
+            "None",
+            "Casual"
+          ]
+        },
+        {
+          "q": "Ideal daily rhythm",
+          "options": [
+            "Structured",
+            "Flexible",
+            "Spontaneous",
+            "No rhythm"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Home Environment Match",
+      "description": "Alignment on home atmosphere, tidiness and living space preferences",
+      "questions": [
+        {
+          "q": "Home tidiness level",
+          "options": [
+            "Everything in place",
+            "Mostly tidy",
+            "Lived-in chaos",
+            "Complete mess ok"
+          ]
+        },
+        {
+          "q": "Clutter tolerance",
+          "options": [
+            "Zero clutter",
+            "Some ok",
+            "Piles welcome",
+            "No tolerance"
+          ]
+        },
+        {
+          "q": "Home scent preference",
+          "options": [
+            "Strong candles/diffuser",
+            "Light natural",
+            "No scent",
+            "Fresh air only"
+          ]
+        },
+        {
+          "q": "Home lighting",
+          "options": [
+            "Bright overhead",
+            "Warm lamps only",
+            "Dim moody",
+            "Natural daylight"
+          ]
+        },
+        {
+          "q": "Home sound",
+          "options": [
+            "Music always",
+            "Silence preferred",
+            "Podcast/TV",
+            "Ambient noise"
+          ]
+        },
+        {
+          "q": "Home temperature",
+          "options": [
+            "Warm & cozy",
+            "Cool & crisp",
+            "Room temp",
+            "Varies by season"
+          ]
+        },
+        {
+          "q": "Plants in home",
+          "options": [
+            "Jungle vibe",
+            "Few low-maintenance",
+            "One or two",
+            "No plants"
+          ]
+        },
+        {
+          "q": "Home organization system",
+          "options": [
+            "KonMari / labeled",
+            "Zones / bins",
+            "Piles / drawers",
+            "Chaos"
+          ]
+        },
+        {
+          "q": "Home cleaning frequency",
+          "options": [
+            "Daily reset",
+            "Weekly deep",
+            "When needed",
+            "Rarely"
+          ]
+        },
+        {
+          "q": "Home entertaining",
+          "options": [
+            "Love hosting often",
+            "Occasional",
+            "Rare",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Outdoor space need",
+          "options": [
+            "Big yard/garden",
+            "Balcony ok",
+            "Nearby park",
+            "No outdoor"
+          ]
+        },
+        {
+          "q": "Home tech level",
+          "options": [
+            "Smart everything",
+            "Some devices",
+            "Minimal tech",
+            "No smart"
+          ]
+        },
+        {
+          "q": "Home decor style",
+          "options": [
+            "Minimal modern",
+            "Cozy eclectic",
+            "Colorful maximal",
+            "Functional plain"
+          ]
+        },
+        {
+          "q": "Home view importance",
+          "options": [
+            "Nature/city view essential",
+            "Nice to have",
+            "No view needed",
+            "No preference"
+          ]
+        },
+        {
+          "q": "Home scent memory",
+          "options": [
+            "Very important",
+            "Somewhat",
+            "Neutral",
+            "No scent"
+          ]
+        },
+        {
+          "q": "Home comfort item",
+          "options": [
+            "Blanket/pillow",
+            "Chair/couch",
+            "Lighting",
+            "No special"
+          ]
+        },
+        {
+          "q": "Home ritual",
+          "options": [
+            "Daily reset",
+            "Evening wind-down",
+            "Morning setup",
+            "No ritual"
+          ]
+        },
+        {
+          "q": "Home chemistry importance",
+          "options": [
+            "Must match closely",
+            "Very important",
+            "Adjustable",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Home long-term",
+          "options": [
+            "Build dream space",
+            "Keep simple",
+            "Change often",
+            "No focus"
+          ]
+        },
+        {
+          "q": "Ideal home outcome",
+          "options": [
+            "Feel peaceful",
+            "Productive space",
+            "Cozy & warm",
+            "All three"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Work-Life Balance",
+      "description": "Alignment on work hours, boundaries and personal time",
+      "questions": [
+        {
+          "q": "Work hours expectation",
+          "options": [
+            "Strict 9, 5",
+            "Flexible but long",
+            "Part-time ideal",
+            "No work focus"
+          ]
+        },
+        {
+          "q": "After-hours work",
+          "options": [
+            "Never",
+            "Occasional",
+            "Often",
+            "Constant"
+          ]
+        },
+        {
+          "q": "Weekend work",
+          "options": [
+            "Never",
+            "Rare",
+            "Sometimes",
+            "Often"
+          ]
+        },
+        {
+          "q": "Work email/phone boundaries",
+          "options": [
+            "Off after 6 PM",
+            "Check occasionally",
+            "Always on",
+            "No boundaries"
+          ]
+        },
+        {
+          "q": "Vacation days usage",
+          "options": [
+            "Maximize every day",
+            "Some unused",
+            "Rare vacations",
+            "No vacations"
+          ]
+        },
+        {
+          "q": "Work passion vs job",
+          "options": [
+            "Passion-driven",
+            "Balanced",
+            "Just a job",
+            "No work"
+          ]
+        },
+        {
+          "q": "Work-life chemistry",
+          "options": [
+            "Must match",
+            "Important",
+            "Adjustable",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Work stress handling",
+          "options": [
+            "Talk it out",
+            "Space needed",
+            "Exercise",
+            "No stress"
+          ]
+        },
+        {
+          "q": "Work support style",
+          "options": [
+            "Active listening",
+            "Practical advice",
+            "Independent",
+            "No support"
+          ]
+        },
+        {
+          "q": "Work from home vs office",
+          "options": [
+            "Full WFH",
+            "Hybrid",
+            "Office preferred",
+            "No work"
+          ]
+        },
+        {
+          "q": "Work travel tolerance",
+          "options": [
+            "Love travel",
+            "Ok occasional",
+            "Avoid",
+            "No travel"
+          ]
+        },
+        {
+          "q": "Work ambition level",
+          "options": [
+            "High climb",
+            "Balanced",
+            "Low key",
+            "No ambition"
+          ]
+        },
+        {
+          "q": "Work recovery time",
+          "options": [
+            "Quick rebound",
+            "Need downtime",
+            "Long recovery",
+            "No recovery"
+          ]
+        },
+        {
+          "q": "Work-life ritual",
+          "options": [
+            "Evening wind-down",
+            "Morning routine",
+            "Weekend reset",
+            "No ritual"
+          ]
+        },
+        {
+          "q": "Work-life long-term",
+          "options": [
+            "Keep balance",
+            "More work",
+            "Less work",
+            "No focus"
+          ]
+        },
+        {
+          "q": "Work celebration",
+          "options": [
+            "Big wins",
+            "Small reward",
+            "Quiet",
+            "No celebration"
+          ]
+        },
+        {
+          "q": "Work initiation",
+          "options": [
+            "I share most",
+            "Mutual",
+            "Prefer they share",
+            "Slow"
+          ]
+        },
+        {
+          "q": "Ideal work-life",
+          "options": [
+            "Perfect balance",
+            "Passion-driven",
+            "Financial freedom",
+            "All three"
+          ]
+        },
+        {
+          "q": "Work-life chemistry sign",
+          "options": [
+            "Strong sign",
+            "Important",
+            "Nice",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Long-term work vision",
+          "options": [
+            "Retire early",
+            "Lifelong passion",
+            "Comfortable",
+            "No vision"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Sleep & Energy Patterns",
+      "description": "Alignment on sleep schedules, energy peaks and recovery",
+      "questions": [
+        {
+          "q": "Natural sleep schedule",
+          "options": [
+            "Early bird, 9, 10 PM",
+            "Standard 11 PM",
+            "Night owl, 1 AM+",
+            "Varies wildly"
+          ]
+        },
+        {
+          "q": "Ideal sleep hours",
+          "options": [
+            "8, 9 hours",
+            "7, 8 hours",
+            "6, 7 hours",
+            "Less than 6"
+          ]
+        },
+        {
+          "q": "Morning energy peak",
+          "options": [
+            "High morning",
+            "Mid-morning",
+            "Afternoon",
+            "Evening"
+          ]
+        },
+        {
+          "q": "Afternoon slump",
+          "options": [
+            "Big crash",
+            "Mild dip",
+            "None",
+            "Evening peak"
+          ]
+        },
+        {
+          "q": "Sleep environment",
+          "options": [
+            "Blackout, cool, quiet",
+            "Some light/noise",
+            "Warm & cozy",
+            "No preference"
+          ]
+        },
+        {
+          "q": "Sleep routine length",
+          "options": [
+            "Long ritual",
+            "Medium",
+            "Quick",
+            "No routine"
+          ]
+        },
+        {
+          "q": "Sleep aids",
+          "options": [
+            "Melatonin/magnesium",
+            "Meditation",
+            "None",
+            "TV/phone"
+          ]
+        },
+        {
+          "q": "Nap habit",
+          "options": [
+            "Daily power nap",
+            "Occasional",
+            "Rare",
+            "Never"
+          ]
+        },
+        {
+          "q": "Sleep with partner",
+          "options": [
+            "Love cuddling",
+            "Separate blankets",
+            "Separate beds",
+            "No preference"
+          ]
+        },
+        {
+          "q": "Sleep temperature",
+          "options": [
+            "Cool room",
+            "Warm blankets",
+            "Neutral",
+            "Varies"
+          ]
+        },
+        {
+          "q": "Sleep noise",
+          "options": [
+            "White noise/fan",
+            "Silence",
+            "Music",
+            "Partner snoring ok"
+          ]
+        },
+        {
+          "q": "Sleep chemistry",
+          "options": [
+            "Must match",
+            "Important",
+            "Adjustable",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Sleep long-term",
+          "options": [
+            "Keep consistent",
+            "Flex with life",
+            "Change often",
+            "No focus"
+          ]
+        },
+        {
+          "q": "Sleep recovery",
+          "options": [
+            "Quick rebound",
+            "Need full day",
+            "Multiple days",
+            "No recovery"
+          ]
+        },
+        {
+          "q": "Sleep ritual together",
+          "options": [
+            "Want shared",
+            "Nice idea",
+            "Individual",
+            "No ritual"
+          ]
+        },
+        {
+          "q": "Sleep support",
+          "options": [
+            "Active help",
+            "Gentle",
+            "Independent",
+            "No support"
+          ]
+        },
+        {
+          "q": "Sleep memory",
+          "options": [
+            "Very important",
+            "Somewhat",
+            "Neutral",
+            "Forgettable"
+          ]
+        },
+        {
+          "q": "Ideal sleep outcome",
+          "options": [
+            "Energized daily",
+            "Balanced rest",
+            "Deep connection",
+            "All three"
+          ]
+        },
+        {
+          "q": "Sleep chemistry sign",
+          "options": [
+            "Strong sign",
+            "Important",
+            "Nice",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Long-term sleep vision",
+          "options": [
+            "Consistent 8h",
+            "Flexible",
+            "Less sleep",
+            "No vision"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Minimalism vs Abundance",
+      "description": "Alignment on possessions, consumption and living style",
+      "questions": [
+        {
+          "q": "Possessions philosophy",
+          "options": [
+            "Minimal, own less",
+            "Balanced",
+            "Comfortable abundance",
+            "Maximalist"
+          ]
+        },
+        {
+          "q": "Clutter tolerance",
+          "options": [
+            "Zero clutter",
+            "Some ok",
+            "Lived-in",
+            "Piles welcome"
+          ]
+        },
+        {
+          "q": "Shopping habit",
+          "options": [
+            "Rare & intentional",
+            "Occasional",
+            "Impulse buys",
+            "Frequent"
+          ]
+        },
+        {
+          "q": "Capsule wardrobe",
+          "options": [
+            "Love it",
+            "Somewhat",
+            "No, lots of clothes",
+            "No wardrobe"
+          ]
+        },
+        {
+          "q": "Home decor",
+          "options": [
+            "Minimal functional",
+            "Cozy layers",
+            "Colorful maximal",
+            "No decor"
+          ]
+        },
+        {
+          "q": "Consumption guilt",
+          "options": [
+            "High guilt",
+            "Some guilt",
+            "No guilt",
+            "Avoid consumption"
+          ]
+        },
+        {
+          "q": "Buy quality vs quantity",
+          "options": [
+            "Quality always",
+            "Balanced",
+            "Quantity ok",
+            "Cheap & replace"
+          ]
+        },
+        {
+          "q": "Digital minimalism",
+          "options": [
+            "Low apps/notifications",
+            "Medium",
+            "High usage",
+            "No limits"
+          ]
+        },
+        {
+          "q": "Sustainability focus",
+          "options": [
+            "High priority",
+            "Some effort",
+            "Neutral",
+            "No focus"
+          ]
+        },
+        {
+          "q": "Possessions attachment",
+          "options": [
+            "Low attachment",
+            "Some sentimental",
+            "High attachment",
+            "No attachment"
+          ]
+        },
+        {
+          "q": "Minimalism chemistry",
+          "options": [
+            "Must match",
+            "Important",
+            "Adjustable",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Minimalism long-term",
+          "options": [
+            "Keep reducing",
+            "Maintain",
+            "Add more",
+            "No focus"
+          ]
+        },
+        {
+          "q": "Minimalism after life change",
+          "options": [
+            "Double down",
+            "Adapt",
+            "No change",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Minimalism support",
+          "options": [
+            "Active help",
+            "Gentle",
+            "Independent",
+            "No support"
+          ]
+        },
+        {
+          "q": "Minimalism memory",
+          "options": [
+            "Very meaningful",
+            "Somewhat",
+            "Neutral",
+            "Forgettable"
+          ]
+        },
+        {
+          "q": "Ideal minimalism outcome",
+          "options": [
+            "Peaceful space",
+            "Freedom from stuff",
+            "Balanced comfort",
+            "All three"
+          ]
+        },
+        {
+          "q": "Minimalism ritual",
+          "options": [
+            "Want shared",
+            "Nice idea",
+            "Individual",
+            "No ritual"
+          ]
+        },
+        {
+          "q": "Minimalism chemistry sign",
+          "options": [
+            "Strong sign",
+            "Important",
+            "Nice",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Long-term minimalism vision",
+          "options": [
+            "Extreme minimal",
+            "Comfortable minimal",
+            "Balanced",
+            "No vision"
+          ]
+        },
+        {
+          "q": "Minimalism love language",
+          "options": [
+            "Primary",
+            "Important",
+            "Nice",
+            "Not"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Social Energy & Introversion",
+      "description": "Alignment on social needs, alone time and energy recharge",
+      "questions": [
+        {
+          "q": "Introvert/extrovert/ambivert",
+          "options": [
+            "Strong introvert",
+            "Ambivert",
+            "Extrovert",
+            "Varies"
+          ]
+        },
+        {
+          "q": "Alone time need daily",
+          "options": [
+            "High, several hours",
+            "Medium",
+            "Low",
+            "None"
+          ]
+        },
+        {
+          "q": "Social battery recharge",
+          "options": [
+            "Alone time",
+            "Quiet time with partner",
+            "More social",
+            "Sleep"
+          ]
+        },
+        {
+          "q": "Weekly social time",
+          "options": [
+            "Minimal",
+            "1, 2 events",
+            "3, 5 events",
+            "Daily social"
+          ]
+        },
+        {
+          "q": "Party vs small gathering",
+          "options": [
+            "Small groups",
+            "Medium",
+            "Big parties",
+            "No parties"
+          ]
+        },
+        {
+          "q": "Social after work",
+          "options": [
+            "Need quiet",
+            "Ok sometimes",
+            "Love happy hour",
+            "No social"
+          ]
+        },
+        {
+          "q": "Social media usage",
+          "options": [
+            "Low/minimal",
+            "Moderate",
+            "High",
+            "None"
+          ]
+        },
+        {
+          "q": "Friend time balance",
+          "options": [
+            "Couple first",
+            "Equal",
+            "Friends first",
+            "No friends"
+          ]
+        },
+        {
+          "q": "Social chemistry",
+          "options": [
+            "Must match energy",
+            "Important",
+            "Adjustable",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Social long-term",
+          "options": [
+            "Keep balanced",
+            "More social",
+            "Less social",
+            "No focus"
+          ]
+        },
+        {
+          "q": "Social after conflict",
+          "options": [
+            "Need space",
+            "Social helps",
+            "No social",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Social initiation",
+          "options": [
+            "I initiate",
+            "Mutual",
+            "Prefer they initiate",
+            "Slow"
+          ]
+        },
+        {
+          "q": "Social variety need",
+          "options": [
+            "High",
+            "Medium",
+            "Low",
+            "Same people"
+          ]
+        },
+        {
+          "q": "Social memory power",
+          "options": [
+            "Very strong",
+            "Strong",
+            "Moderate",
+            "Weak"
+          ]
+        },
+        {
+          "q": "Ideal social outcome",
+          "options": [
+            "Balanced energy",
+            "Deep connection",
+            "Fun memories",
+            "All three"
+          ]
+        },
+        {
+          "q": "Social ritual",
+          "options": [
+            "Want shared",
+            "Nice idea",
+            "Individual",
+            "No ritual"
+          ]
+        },
+        {
+          "q": "Social chemistry sign",
+          "options": [
+            "Strong sign",
+            "Important",
+            "Nice",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Long-term social vision",
+          "options": [
+            "Close circle",
+            "Large network",
+            "Couple focus",
+            "No vision"
+          ]
+        },
+        {
+          "q": "Social recharge",
+          "options": [
+            "Alone time",
+            "Partner time",
+            "Group",
+            "No recharge"
+          ]
+        },
+        {
+          "q": "Social love language",
+          "options": [
+            "Quality time",
+            "Words",
+            "Acts",
+            "No language"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Screen & Digital Habits",
+      "description": "Alignment on phone, TV, gaming, social media and digital boundaries",
+      "questions": [
+        {
+          "q": "Daily screen time",
+          "options": [
+            "Low, <4h",
+            "Medium 4, 8h",
+            "High 8h+",
+            "Very high"
+          ]
+        },
+        {
+          "q": "Phone in bed",
+          "options": [
+            "Never",
+            "Sometimes",
+            "Often",
+            "Always"
+          ]
+        },
+        {
+          "q": "Social media usage",
+          "options": [
+            "Minimal",
+            "Moderate",
+            "Heavy",
+            "None"
+          ]
+        },
+        {
+          "q": "TV/streaming time",
+          "options": [
+            "Daily 1, 2h",
+            "Few hours",
+            "Heavy binge",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Gaming habit",
+          "options": [
+            "Daily gamer",
+            "Occasional",
+            "Rare",
+            "No gaming"
+          ]
+        },
+        {
+          "q": "Digital detox frequency",
+          "options": [
+            "Regular",
+            "Occasional",
+            "Rare",
+            "Never"
+          ]
+        },
+        {
+          "q": "Phone-free zones",
+          "options": [
+            "Bedroom/table",
+            "Meals",
+            "None",
+            "No zones"
+          ]
+        },
+        {
+          "q": "Notification management",
+          "options": [
+            "All off",
+            "Selective",
+            "Most on",
+            "Chaos"
+          ]
+        },
+        {
+          "q": "Digital chemistry",
+          "options": [
+            "Must match",
+            "Important",
+            "Adjustable",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Digital long-term",
+          "options": [
+            "Reduce usage",
+            "Maintain",
+            "Increase",
+            "No focus"
+          ]
+        },
+        {
+          "q": "Digital after work",
+          "options": [
+            "Screen off",
+            "Light usage",
+            "Heavy",
+            "No change"
+          ]
+        },
+        {
+          "q": "Digital support",
+          "options": [
+            "Help each other detox",
+            "Independent",
+            "No support",
+            "Encourage usage"
+          ]
+        },
+        {
+          "q": "Digital memory",
+          "options": [
+            "Very meaningful",
+            "Somewhat",
+            "Neutral",
+            "Forgettable"
+          ]
+        },
+        {
+          "q": "Ideal digital outcome",
+          "options": [
+            "Balanced presence",
+            "Deep connection",
+            "Fun shared media",
+            "All three"
+          ]
+        },
+        {
+          "q": "Digital ritual",
+          "options": [
+            "Phone-free dinner",
+            "Shared show",
+            "No ritual",
+            "No digital"
+          ]
+        },
+        {
+          "q": "Digital chemistry sign",
+          "options": [
+            "Strong sign",
+            "Important",
+            "Nice",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Long-term digital vision",
+          "options": [
+            "Minimal digital",
+            "Balanced",
+            "Tech heavy",
+            "No vision"
+          ]
+        },
+        {
+          "q": "Digital love language",
+          "options": [
+            "Shared media",
+            "Phone-free time",
+            "Digital gifts",
+            "No digital"
+          ]
+        },
+        {
+          "q": "Digital detox together",
+          "options": [
+            "Love idea",
+            "Nice",
+            "Rare",
+            "No"
+          ]
+        },
+        {
+          "q": "Ideal screen balance",
+          "options": [
+            "Low screen high presence",
+            "Medium",
+            "High screen",
+            "No balance"
+          ]
+        }
+      ]
+    }
+  ]
+}

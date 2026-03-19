@@ -9,15 +9,15 @@ export interface Icebreaker {
 }
 
 export type CategoryType =
-  | 'flirty'
-  | 'deep'
-  | 'funny'
-  | 'travel'
-  | 'food'
-  | 'dreams'
-  | 'music'
-  | 'random'
   | 'adventure'
+  | 'depth'
+  | 'flirt'
+  | 'food'
+  | 'fun'
+  | 'future'
+  | 'intimacy'
+  | 'lifestyle'
+  | 'money'
   | null;
 
 export interface CategoryInfo {
@@ -26,15 +26,15 @@ export interface CategoryInfo {
 }
 
 export const CATEGORIES: CategoryInfo[] = [
-  { value: 'flirty', emoji: '💋' },
-  { value: 'deep', emoji: '🌙' },
-  { value: 'funny', emoji: '😂' },
-  { value: 'travel', emoji: '✈️' },
+  { value: 'adventure', emoji: '🌍' },
+  { value: 'depth', emoji: '✨' },
+  { value: 'flirt', emoji: '💋' },
   { value: 'food', emoji: '🍕' },
-  { value: 'dreams', emoji: '✨' },
-  { value: 'music', emoji: '🎵' },
-  { value: 'random', emoji: '🎲' },
-  { value: 'adventure', emoji: '🏕️' },
+  { value: 'fun', emoji: '😂' },
+  { value: 'future', emoji: '🔮' },
+  { value: 'intimacy', emoji: '🍑' },
+  { value: 'lifestyle', emoji: '🍾' },
+  { value: 'money', emoji: '💰' },
 ];
 
 interface IcebreakerStore {

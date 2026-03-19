@@ -156,7 +156,7 @@ function SettingsPanel({ onBack }: { onBack: () => void }) {
     <ScrollView
       ref={scrollViewRef}
       style={{ flex: 1, paddingHorizontal: 24 }}
-      contentContainerStyle={{ flexGrow: 1, paddingBottom: 24 }}
+      contentContainerStyle={{ flexGrow: 1, paddingTop: 24, paddingBottom: 24 }}
       keyboardShouldPersistTaps="handled"
       showsVerticalScrollIndicator={false}
       bounces={false}
@@ -295,6 +295,7 @@ function SettingsPanel({ onBack }: { onBack: () => void }) {
             <TextInput
               value={player1Name}
               onChangeText={(text) => setPlayer1Name(text.slice(0, 14))}
+              onFocus={() => setTimeout(() => scrollViewRef.current?.scrollToEnd({ animated: true }), 300)}
               placeholder="Add player 1 name"
               placeholderTextColor="rgba(255, 255, 255, 0.2)"
               maxLength={14}
@@ -344,6 +345,7 @@ function SettingsPanel({ onBack }: { onBack: () => void }) {
             <TextInput
               value={player2Name}
               onChangeText={(text) => setPlayer2Name(text.slice(0, 14))}
+              onFocus={() => setTimeout(() => scrollViewRef.current?.scrollToEnd({ animated: true }), 300)}
               placeholder="Add player 2 name"
               placeholderTextColor="rgba(255, 255, 255, 0.2)"
               maxLength={14}
@@ -623,7 +625,7 @@ export default function SettingsCategoryFilter({ onSelect, onDismiss }: Settings
       {/* Vibe Panel - slides out to right */}
       <Animated.View style={[{ flex: 1, overflow: 'visible' }, vibeSlideStyle]}>
         {/* Title row + close button */}
-        <View style={{ flexDirection: 'row', alignItems: 'flex-start', justifyContent: 'space-between', paddingBottom: 4 }}>
+        <View style={{ flexDirection: 'row', alignItems: 'flex-start', justifyContent: 'space-between', paddingTop: 28, paddingBottom: 4 }}>
           {/* Title aligned left */}
           <View style={{ flex: 1 }}>
             <Text

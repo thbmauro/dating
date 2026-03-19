@@ -1,0 +1,1784 @@
+{
+  "category": "Adventure",
+  "description": "Thrill-seeking, exploration, spontaneity and shared experiences",
+  "icebreakers": [
+    "What’s the most spontaneous trip you’ve ever taken and absolutely loved?",
+    "If we could teleport anywhere in the world right now for 48 hours, where are we going?",
+    "What adventure is still sitting on your bucket list that you’d love to share with someone special?",
+    "What’s the coolest hidden spot or secret location you’ve ever discovered while traveling?",
+    "How do you feel about turning a completely ordinary day into a mini-adventure?",
+    "What thrill-seeking activity or extreme sport would you most love to try together?",
+    "If money and time were no object, what epic multi-country journey would we plan first?",
+    "What’s your favorite travel memory that still makes you smile or laugh when you think about it?",
+    "Road-trip playlist, what song is always number one for you?",
+    "Camping under the stars with no facilities, yes or hard pass?",
+    "City exploration with endless nightlife or remote nature escape, which calls to you more?",
+    "What’s the wildest weather condition you’ve ever traveled through and survived?",
+    "Best street food or local dish memory from another country?",
+    "What’s your proudest solo travel moment or achievement?",
+    "Dream weekend getaway vibe, luxury, rustic, adrenaline, or chill?",
+    "Most spontaneous ‘yes’ you ever said to an adventure or invitation?",
+    "Favorite way to capture travel memories, photos, journal, video, or just live it?",
+    "What adventure sport or activity have you always wanted to learn with a partner?",
+    "What place or trip completely changed your perspective on life?",
+    "Ideal travel pace, fast-paced sightseeing or slow and immersive?",
+    "What quality makes someone the best possible travel partner for you?",
+    "Essential road-trip snack or item you can’t leave without?",
+    "Most beautiful sunrise or sunset you’ve ever witnessed while traveling?",
+    "Would you move to another country for the right person and relationship?",
+    "Favorite cultural experience or tradition you’ve participated in abroad?",
+    "Best travel mishap that turned into an amazing story?",
+    "Packing style, minimalist carry-on only or over-prepared with everything?",
+    "Dream music festival, cultural event or seasonal celebration to attend together?",
+    "Nature immersion vs urban energy adventure, which one wins for you?",
+    "Best long train ride, flight or road memory?",
+    "What’s currently on your travel vision board or dream list?",
+    "Favorite way to meet and connect with locals when traveling?",
+    "Adventure or trip you would happily repeat in a heartbeat?",
+    "Most scenic or unforgettable drive you’ve ever done?",
+    "Travel song or album that always gets you in the mood?",
+    "Best surprise you’ve ever had at a hotel, hostel or Airbnb?",
+    "Would you be up for van life or campervan travel together for a while?",
+    "Favorite travel season or weather preference?",
+    "Biggest travel regret or mistake that taught you something valuable?",
+    "Dream destination duo, one place you’d take me and why?",
+    "Best travel photo you’ve ever taken (or wish you could retake)?",
+    "Travel habit or routine you’re quietly proud of?",
+    "Most meaningful souvenir or item you’ve brought home from a trip?",
+    "One adventure you want to experience before turning 40 (or next milestone)?",
+    "Favorite airport, train station or port vibe / atmosphere?",
+    "Travel book, movie or documentary that inspired you the most?",
+    "Best spontaneous detour or unplanned side trip story?",
+    "Would you backpack Europe / Asia / South America again with someone?",
+    "Favorite travel-related smell memory (street food, ocean, forest, etc.)?",
+    "Adventure level preference on a scale, how intense do you like it?",
+    "Best memory with a travel buddy or partner?",
+    "Dream hike, climb or trek you want to do?",
+    "Travel fear or discomfort you’ve already overcome?",
+    "Favorite foreign holiday tradition you’ve experienced?",
+    "Best night market, food stall or street eating memory?",
+    "Would you rather sail the world or fly first-class everywhere?",
+    "Adventure that scared you at first but ended up thrilling?",
+    "Most peaceful or serene place you’ve ever visited?",
+    "Essential song for every travel playlist?",
+    "Best border crossing, ferry ride or unusual transport story?",
+    "Dream underwater adventure (scuba, snorkel, free-dive) or sky adventure?",
+    "Favorite travel outfit or vibe that makes you feel alive?",
+    "Adventure you’d happily do every single year?",
+    "Most valuable life lesson you learned from traveling?",
+    "Would you live nomadically for 6, 12 months with the right person?",
+    "Favorite sunrise spot or ritual while traveling?",
+    "Adventure you’re most excited to create with a future partner?",
+    "Best laugh-until-cry moment that happened on a trip?",
+    "Dream length of cultural immersion in one place?",
+    "Favorite trait in a travel companion?",
+    "Adventure that felt like fate or destiny aligned?",
+    "Best travel journal entry or note you’ve ever written?",
+    "Would you chase the Northern Lights, cherry blossoms, or aurora?",
+    "Favorite off-grid, no-signal, remote experience?",
+    "Adventure you’d book tickets for tomorrow if possible?",
+    "Best ‘pinch me’ moment you’ve had while traveling?",
+    "Dream family adventure you’d like to do someday?",
+    "Favorite travel soundscape or ambient noise?",
+    "Adventure that rebuilt your confidence or changed your self-view?",
+    "Best surprise gift or gesture you received while traveling?",
+    "Would you scuba dive deep or skydive first?",
+    "Favorite travel season transition (spring to summer, etc.)?",
+    "Adventure you’d recommend every person try at least once?",
+    "Best travel life hack or tip you swear by?",
+    "Dream stargazing location or dark-sky spot?",
+    "Favorite friendship or connection you made while traveling?",
+    "Adventure that felt almost spiritual or transcendent?",
+    "Best travel outfit photo or moment you felt amazing?",
+    "Would you chase waterfalls, volcanoes, or glaciers?",
+    "Favorite travel sunset or golden hour spot?",
+    "Adventure you want to relive with someone new?",
+    "Best travel ‘we made it’ or survival moment?",
+    "Dream adventure photography or creative trip?",
+    "Favorite travel scent memory that takes you back instantly?",
+    "Adventure that taught you patience or surrender?",
+    "Best random act of kindness you witnessed or received abroad?",
+    "Would you chase volcanoes, geysers or hot springs?",
+    "Favorite travel morning routine or ritual?",
+    "Adventure you’re currently saving money or time for?",
+    "Best travel ‘only we know’ inside story or memory?",
+    "Dream adventure soundtrack or playlist vibe?",
+    "Favorite travel-related life quote or mantra?"
+  ],
+  "vibe_tests": [
+    {
+      "test_name": "Adventure Tempo & Planning",
+      "description": "How well do your travel pacing and planning styles align?",
+      "questions": [
+        {
+          "q": "Preferred trip planning style",
+          "options": [
+            "Detailed itinerary with bookings",
+            "Mostly spontaneous with loose plan",
+            "50/50 balance",
+            "Everything planned for maximum comfort"
+          ]
+        },
+        {
+          "q": "Ideal length of early-relationship trip",
+          "options": [
+            "1, 2 night quick getaway",
+            "3, 5 days",
+            "1, 2 weeks",
+            "Month+ nomadic style"
+          ]
+        },
+        {
+          "q": "Adrenaline / thrill appetite",
+          "options": [
+            "High, I crave intense activities",
+            "Medium, occasional excitement",
+            "Low, calm exploration",
+            "Zero, pure relaxation"
+          ]
+        },
+        {
+          "q": "Packing approach",
+          "options": [
+            "Carry-on minimalist only",
+            "Light checked bag",
+            "Over-prepared with extras",
+            "Buy what I need there"
+          ]
+        },
+        {
+          "q": "Travel pace preference",
+          "options": [
+            "Fast, see as much as possible",
+            "Medium, balanced",
+            "Slow, deep immersion",
+            "Lazy & restorative"
+          ]
+        },
+        {
+          "q": "Surprise trip planned by partner",
+          "options": [
+            "Love it, big yes",
+            "Depends on destination",
+            "Need to plan together",
+            "Hard pass"
+          ]
+        },
+        {
+          "q": "Nature vs city split ideal",
+          "options": [
+            "80%+ nature / wilderness",
+            "50/50 balance",
+            "80%+ cities / culture",
+            "All urban energy"
+          ]
+        },
+        {
+          "q": "Travel documentation style",
+          "options": [
+            "Photos + journal / stories",
+            "Lots of photos & social",
+            "Minimal, live in the moment",
+            "Videos & vlogs"
+          ]
+        },
+        {
+          "q": "Budget travel philosophy",
+          "options": [
+            "Splurge when it counts",
+            "Balanced mid-range",
+            "Budget backpacker style",
+            "Mix of luxury and cheap"
+          ]
+        },
+        {
+          "q": "Jet lag / recovery approach",
+          "options": [
+            "Push through & stay active",
+            "Rest first full day",
+            "Light activities only",
+            "Sleep whenever needed"
+          ]
+        },
+        {
+          "q": "Group size preference",
+          "options": [
+            "Just us two",
+            "Small group of friends",
+            "Solo or couple only",
+            "Large group fun"
+          ]
+        },
+        {
+          "q": "Food adventurousness on trips",
+          "options": [
+            "Try literally anything",
+            "Most local foods",
+            "Familiar safe options",
+            "Very picky eater"
+          ]
+        },
+        {
+          "q": "Early morning flights",
+          "options": [
+            "Love them, get there fast",
+            "Tolerate them",
+            "Avoid if possible",
+            "Night flights only"
+          ]
+        },
+        {
+          "q": "Hiking / physical activity level",
+          "options": [
+            "Hard multi-day treks",
+            "Moderate day hikes",
+            "Easy scenic walks",
+            "No hiking preferred"
+          ]
+        },
+        {
+          "q": "Travel insurance mindset",
+          "options": [
+            "Always comprehensive coverage",
+            "Basic coverage",
+            "Rarely buy",
+            "Never"
+          ]
+        },
+        {
+          "q": "Spontaneous detour willingness",
+          "options": [
+            "Always say yes",
+            "Depends on time / safety",
+            "Plan only",
+            "Rarely deviate"
+          ]
+        },
+        {
+          "q": "Beach vs mountain preference",
+          "options": [
+            "Beach relaxation",
+            "50/50",
+            "Mountain adventure",
+            "Neither, prefer cities"
+          ]
+        },
+        {
+          "q": "Local language attempt",
+          "options": [
+            "Always try hard",
+            "Basic phrases only",
+            "English everywhere",
+            "Use translator app"
+          ]
+        },
+        {
+          "q": "Souvenirs & keepsakes",
+          "options": [
+            "Collect many meaningful ones",
+            "Few special items",
+            "Photos only",
+            "No souvenirs"
+          ]
+        },
+        {
+          "q": "Best kind of travel memory",
+          "options": [
+            "Adrenaline / thrill rush",
+            "Deep cultural immersion",
+            "Romantic quiet moments",
+            "Funny mishap stories"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Thrill & Adrenaline Alignment",
+      "description": "Compatibility in excitement-seeking and risk tolerance",
+      "questions": [
+        {
+          "q": "Favorite adrenaline activity",
+          "options": [
+            "Skydiving / bungee jumping",
+            "Scuba diving / surfing",
+            "Rock climbing / via ferrata",
+            "None, calm preferred"
+          ]
+        },
+        {
+          "q": "Comfort with heights",
+          "options": [
+            "Love high views & edges",
+            "Ok in moderation",
+            "Uncomfortable above certain level",
+            "Avoid heights completely"
+          ]
+        },
+        {
+          "q": "Speed & motion preference",
+          "options": [
+            "Fast & thrilling (racing, ziplines)",
+            "Moderate pace",
+            "Slow & scenic",
+            "Stationary / minimal motion"
+          ]
+        },
+        {
+          "q": "Water-based adventure level",
+          "options": [
+            "Open ocean diving / big waves",
+            "Snorkel / kayak / calm water",
+            "Pool or beach only",
+            "Avoid water sports"
+          ]
+        },
+        {
+          "q": "Winter / snow sports interest",
+          "options": [
+            "Expert ski / snowboard",
+            "Beginner slopes or tubing",
+            "Snowshoe / sledding",
+            "Stay warm indoors"
+          ]
+        },
+        {
+          "q": "Facing fears together",
+          "options": [
+            "Exciting to conquer as a team",
+            "Support each other through it",
+            "Prefer to avoid fears",
+            "Not interested in fear-facing"
+          ]
+        },
+        {
+          "q": "Extreme weather travel",
+          "options": [
+            "Love storms / blizzards",
+            "Ok if prepared",
+            "Prefer mild weather",
+            "Avoid extremes"
+          ]
+        },
+        {
+          "q": "Night-time activities",
+          "options": [
+            "Night hikes / dives / wildlife",
+            "City nightlife & bars",
+            "Quiet stargazing",
+            "Early to bed"
+          ]
+        },
+        {
+          "q": "Physical endurance level",
+          "options": [
+            "High stamina, multi-day active",
+            "Average, can do a lot",
+            "Low, prefer rest days",
+            "Sedentary preferred"
+          ]
+        },
+        {
+          "q": "Spontaneous last-minute booking",
+          "options": [
+            "Last minute yes, love it",
+            "Week before ok",
+            "Month ahead minimum",
+            "Never spontaneous"
+          ]
+        },
+        {
+          "q": "Solo adventure experience",
+          "options": [
+            "Many solo trips",
+            "A few meaningful ones",
+            "One or two",
+            "None yet"
+          ]
+        },
+        {
+          "q": "Travel risk tolerance",
+          "options": [
+            "High, off beaten path & remote",
+            "Medium, some calculated risk",
+            "Low, safe tourist zones",
+            "Very cautious"
+          ]
+        },
+        {
+          "q": "Camping comfort level",
+          "options": [
+            "Backcountry tent & no facilities",
+            "Car camping with basics",
+            "Glamping / luxury tent",
+            "Hotels / resorts only"
+          ]
+        },
+        {
+          "q": "Road trip length tolerance",
+          "options": [
+            "Multi-week epic drives",
+            "3, 7 day loops",
+            "Weekend getaways",
+            "Avoid long drives"
+          ]
+        },
+        {
+          "q": "New culture immersion depth",
+          "options": [
+            "Live like local for weeks",
+            "Tourist highlights + some local",
+            "Surface level experiences",
+            "Stay in resort bubble"
+          ]
+        },
+        {
+          "q": "Adventure budget approach",
+          "options": [
+            "Splurge on once-in-lifetime thrills",
+            "Balanced mid-range",
+            "Low-cost backpacker style",
+            "Minimal spending"
+          ]
+        },
+        {
+          "q": "Group adventure preference",
+          "options": [
+            "Love big adventure groups",
+            "Small crew of friends",
+            "Just us two",
+            "Solo only"
+          ]
+        },
+        {
+          "q": "Recovery time after big thrill",
+          "options": [
+            "Ready for more next day",
+            "Rest 1 day",
+            "Need few days recovery",
+            "Avoid back-to-back thrills"
+          ]
+        },
+        {
+          "q": "Bucket list adventure count",
+          "options": [
+            "10+ major ones",
+            "5, 9",
+            "2, 4",
+            "1 or none yet"
+          ]
+        },
+        {
+          "q": "Thrill experiences with partner feel",
+          "options": [
+            "Bonding multiplier",
+            "Fun to share",
+            "Nice occasionally",
+            "Prefer separate adventures"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Spontaneity vs Structure",
+      "description": "How well do your needs for planning vs freedom match?",
+      "questions": [
+        {
+          "q": "Spontaneous trip decision comfort",
+          "options": [
+            "Book last minute, love it",
+            "Week before is fine",
+            "Month ahead minimum",
+            "Never spontaneous"
+          ]
+        },
+        {
+          "q": "Flexible itinerary preference",
+          "options": [
+            "Loose plan with room to change",
+            "50/50 planned & open",
+            "Mostly planned",
+            "Everything locked in"
+          ]
+        },
+        {
+          "q": "Last-minute activity yes rate",
+          "options": [
+            "Almost always yes",
+            "Depends on energy",
+            "Rarely",
+            "No"
+          ]
+        },
+        {
+          "q": "Surprise destination reveal",
+          "options": [
+            "Thrilling, blindfold me",
+            "Exciting but tell me region",
+            "Need full details",
+            "No surprises"
+          ]
+        },
+        {
+          "q": "Detour willingness",
+          "options": [
+            "Always follow the random sign",
+            "Depends time / safety",
+            "Stick to plan",
+            "Never detour"
+          ]
+        },
+        {
+          "q": "Open-ended days on trip",
+          "options": [
+            "Love them",
+            "A few ok",
+            "One max",
+            "No open days"
+          ]
+        },
+        {
+          "q": "Booking everything in advance",
+          "options": [
+            "Stressful, prefer flexibility",
+            "Balanced",
+            "Comforting",
+            "Must do"
+          ]
+        },
+        {
+          "q": "Weather change adaptation",
+          "options": [
+            "Pivot instantly",
+            "Adjust somewhat",
+            "Stick to original",
+            "Cancel if bad"
+          ]
+        },
+        {
+          "q": "Spontaneity long-term",
+          "options": [
+            "Want to keep high",
+            "Decreases over time",
+            "Balance needed",
+            "Prefer structure"
+          ]
+        },
+        {
+          "q": "Partner planning more",
+          "options": [
+            "Love when they plan",
+            "50/50 ideal",
+            "I prefer to lead",
+            "No planning together"
+          ]
+        },
+        {
+          "q": "Unplanned night out",
+          "options": [
+            "Best nights",
+            "Fun sometimes",
+            "Rare",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Spontaneous local invite",
+          "options": [
+            "Always say yes",
+            "Depends trust",
+            "Rarely",
+            "No"
+          ]
+        },
+        {
+          "q": "Spontaneity chemistry sign",
+          "options": [
+            "Strong sign",
+            "Important",
+            "Nice",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Spontaneity burnout",
+          "options": [
+            "Rare",
+            "Sometimes",
+            "Often",
+            "Avoid spontaneity"
+          ]
+        },
+        {
+          "q": "Spontaneous budget",
+          "options": [
+            "Flexible splurge",
+            "Balanced",
+            "Strict",
+            "No splurge"
+          ]
+        },
+        {
+          "q": "Spontaneous food choice",
+          "options": [
+            "Try random place",
+            "Research first",
+            "Known safe",
+            "Plan meals"
+          ]
+        },
+        {
+          "q": "Spontaneous accommodation",
+          "options": [
+            "Book on arrival",
+            "Day before",
+            "Week before",
+            "Months ahead"
+          ]
+        },
+        {
+          "q": "Spontaneity after routine life",
+          "options": [
+            "Needed release",
+            "Nice break",
+            "Overwhelming",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Ideal spontaneity ratio",
+          "options": [
+            "70%+ spontaneous",
+            "50/50",
+            "30% spontaneous",
+            "Mostly planned"
+          ]
+        },
+        {
+          "q": "Spontaneity long-term goal",
+          "options": [
+            "Keep alive forever",
+            "Balance with structure",
+            "Decrease over time",
+            "Not priority"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Nature vs Urban Energy",
+      "description": "Preferred balance between wilderness/nature and city/culture adventures",
+      "questions": [
+        {
+          "q": "Nature vs city split ideal",
+          "options": [
+            "80%+ nature / wilderness",
+            "50/50 balance",
+            "80%+ cities / culture",
+            "All urban energy"
+          ]
+        },
+        {
+          "q": "Favorite nature activity",
+          "options": [
+            "Multi-day backpacking",
+            "Day hikes & views",
+            "Beach relaxation",
+            "No nature preference"
+          ]
+        },
+        {
+          "q": "City exploration style",
+          "options": [
+            "Walk everywhere & get lost",
+            "Museums & landmarks",
+            "Food & nightlife",
+            "No city preference"
+          ]
+        },
+        {
+          "q": "Off-grid time comfort",
+          "options": [
+            "Weeks without signal",
+            "Few days",
+            "One night max",
+            "Avoid off-grid"
+          ]
+        },
+        {
+          "q": "Urban nightlife energy",
+          "options": [
+            "Love late nights & bars",
+            "Occasional",
+            "Rare",
+            "Avoid nightlife"
+          ]
+        },
+        {
+          "q": "National park vs world city",
+          "options": [
+            "Parks & trails",
+            "50/50",
+            "Iconic cities",
+            "Neither"
+          ]
+        },
+        {
+          "q": "Camping vs hotel",
+          "options": [
+            "Camping always",
+            "Both",
+            "Glamping",
+            "Hotels only"
+          ]
+        },
+        {
+          "q": "Hiking vs sightseeing",
+          "options": [
+            "Hiking wins",
+            "Balanced",
+            "Sightseeing wins",
+            "Neither"
+          ]
+        },
+        {
+          "q": "Rural village stay",
+          "options": [
+            "Love immersion",
+            "Nice for 1, 2 nights",
+            "Rare",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Big city chaos tolerance",
+          "options": [
+            "Thrive in it",
+            "Ok short term",
+            "Overwhelming",
+            "Avoid big cities"
+          ]
+        },
+        {
+          "q": "Forest vs ocean preference",
+          "options": [
+            "Forest / mountains",
+            "50/50",
+            "Ocean / beach",
+            "Neither"
+          ]
+        },
+        {
+          "q": "Stargazing vs city lights",
+          "options": [
+            "Stargazing remote",
+            "Both",
+            "City lights & skyline",
+            "No preference"
+          ]
+        },
+        {
+          "q": "Wildlife vs street life",
+          "options": [
+            "Wildlife & animals",
+            "50/50",
+            "Street energy & people",
+            "Neither"
+          ]
+        },
+        {
+          "q": "Nature recharge need",
+          "options": [
+            "Frequent nature needed",
+            "Occasional",
+            "Rare",
+            "No need"
+          ]
+        },
+        {
+          "q": "Urban culture craving",
+          "options": [
+            "Constant city energy",
+            "Seasonal",
+            "Rare",
+            "No craving"
+          ]
+        },
+        {
+          "q": "Balance long-term",
+          "options": [
+            "Mostly nature",
+            "Equal split",
+            "Mostly urban",
+            "Flexible"
+          ]
+        },
+        {
+          "q": "Nature vs urban chemistry",
+          "options": [
+            "Must match closely",
+            "Important",
+            "Adjustable",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Favorite hybrid trip",
+          "options": [
+            "City + nearby nature",
+            "Rural base + day trips",
+            "All hybrid",
+            "No hybrid"
+          ]
+        },
+        {
+          "q": "Seasonal preference",
+          "options": [
+            "Summer nature",
+            "Winter city",
+            "Both seasons",
+            "No seasonal"
+          ]
+        },
+        {
+          "q": "Ideal nature-urban ratio",
+          "options": [
+            "70% nature",
+            "50/50",
+            "70% urban",
+            "100% one"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Travel Recovery & Energy",
+      "description": "How you recharge and handle energy after travel / adventure",
+      "questions": [
+        {
+          "q": "After big adventure day I need",
+          "options": [
+            "Quiet downtime",
+            "Light social",
+            "Another activity",
+            "Sleep immediately"
+          ]
+        },
+        {
+          "q": "Jet lag recovery style",
+          "options": [
+            "Push through active",
+            "Rest full day",
+            "Light walks",
+            "Sleep whenever"
+          ]
+        },
+        {
+          "q": "Post-trip decompression",
+          "options": [
+            "Unpack & relax home",
+            "Mini local adventure",
+            "See friends",
+            "Alone time"
+          ]
+        },
+        {
+          "q": "Energy after long flight",
+          "options": [
+            "Still go out",
+            "Nap then light",
+            "Full rest day",
+            "Out of commission"
+          ]
+        },
+        {
+          "q": "Adventure hangover tolerance",
+          "options": [
+            "No hangover",
+            "1 day",
+            "2, 3 days",
+            "Week"
+          ]
+        },
+        {
+          "q": "Recharge with partner",
+          "options": [
+            "Together quiet",
+            "Separate then reunite",
+            "Activity together",
+            "No recharge needed"
+          ]
+        },
+        {
+          "q": "After adrenaline high",
+          "options": [
+            "Ready for more",
+            "Need calm",
+            "Emotional processing",
+            "Sleep"
+          ]
+        },
+        {
+          "q": "Travel fatigue signs",
+          "options": [
+            "Irritability",
+            "Physical tiredness",
+            "Decision fatigue",
+            "All"
+          ]
+        },
+        {
+          "q": "Best recovery activity",
+          "options": [
+            "Massage / spa",
+            "Nature walk",
+            "Home movie night",
+            "Nothing, sleep"
+          ]
+        },
+        {
+          "q": "Recovery time needed",
+          "options": [
+            "Hours",
+            "1 day",
+            "2, 3 days",
+            "Week"
+          ]
+        },
+        {
+          "q": "Recovery food preference",
+          "options": [
+            "Comfort food",
+            "Healthy reset",
+            "Local last meal",
+            "No preference"
+          ]
+        },
+        {
+          "q": "Recovery with touch",
+          "options": [
+            "Cuddling helps",
+            "Nice",
+            "Neutral",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Recovery communication",
+          "options": [
+            "Talk about trip",
+            "Quiet reflection",
+            "Photos review",
+            "No talk"
+          ]
+        },
+        {
+          "q": "Recovery after group trip",
+          "options": [
+            "Need alone time",
+            "Debrief together",
+            "See more friends",
+            "No difference"
+          ]
+        },
+        {
+          "q": "Recovery after solo trip",
+          "options": [
+            "Share stories",
+            "Quiet integration",
+            "Immediate next plan",
+            "No difference"
+          ]
+        },
+        {
+          "q": "Long-term recovery pattern",
+          "options": [
+            "Quick rebound",
+            "Average",
+            "Long recharge",
+            "Burnout prone"
+          ]
+        },
+        {
+          "q": "Recovery chemistry sign",
+          "options": [
+            "Strong sign",
+            "Important",
+            "Nice",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Recovery ritual",
+          "options": [
+            "Want couple ritual",
+            "Individual ok",
+            "None needed",
+            "Traditional"
+          ]
+        },
+        {
+          "q": "Recovery mood",
+          "options": [
+            "Always positive",
+            "Mixed",
+            "Sometimes low",
+            "Often drained"
+          ]
+        },
+        {
+          "q": "Ideal recovery outcome",
+          "options": [
+            "Recharged & closer",
+            "Ready for next",
+            "Grateful reflection",
+            "All three"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Cultural Immersion Depth",
+      "description": "Preferred depth of engaging with new cultures & locals",
+      "questions": [
+        {
+          "q": "Cultural immersion preference",
+          "options": [
+            "Live like local for weeks",
+            "Tourist highlights + local interactions",
+            "Surface level sights",
+            "Resort / tourist bubble"
+          ]
+        },
+        {
+          "q": "Local language attempt",
+          "options": [
+            "Always try hard",
+            "Basic phrases",
+            "English only",
+            "Translator app"
+          ]
+        },
+        {
+          "q": "Staying with locals",
+          "options": [
+            "Love homestay / couchsurf",
+            "Airbnb with local host",
+            "Hotel ok",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Street food vs restaurants",
+          "options": [
+            "Street food always",
+            "Mix both",
+            "Restaurants safer",
+            "Avoid street"
+          ]
+        },
+        {
+          "q": "Off-beaten-path exploration",
+          "options": [
+            "Always seek it",
+            "Some",
+            "Rare",
+            "Stick to main path"
+          ]
+        },
+        {
+          "q": "Local friends made",
+          "options": [
+            "Always try",
+            "Sometimes",
+            "Rare",
+            "No"
+          ]
+        },
+        {
+          "q": "Cultural etiquette learning",
+          "options": [
+            "Study before",
+            "Learn on arrival",
+            "Wing it",
+            "Not concerned"
+          ]
+        },
+        {
+          "q": "Festival / ceremony participation",
+          "options": [
+            "Love joining in",
+            "Watch respectfully",
+            "Avoid crowds",
+            "No festivals"
+          ]
+        },
+        {
+          "q": "Souvenir philosophy",
+          "options": [
+            "Meaningful local crafts",
+            "Few special",
+            "Photos only",
+            "No souvenirs"
+          ]
+        },
+        {
+          "q": "Bargaining / haggling",
+          "options": [
+            "Love it",
+            "Ok sometimes",
+            "Uncomfortable",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Public transport vs private",
+          "options": [
+            "Local bus/train",
+            "Mix",
+            "Private car/taxi",
+            "Avoid public"
+          ]
+        },
+        {
+          "q": "Market / bazaar time",
+          "options": [
+            "Hours exploring",
+            "Quick visit",
+            "Avoid crowds",
+            "No markets"
+          ]
+        },
+        {
+          "q": "Local music / dance",
+          "options": [
+            "Love participating",
+            "Watch & enjoy",
+            "Neutral",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Cultural dos & don'ts",
+          "options": [
+            "Very important",
+            "Somewhat",
+            "Flexible",
+            "Not worried"
+          ]
+        },
+        {
+          "q": "Long stay in one place",
+          "options": [
+            "Months ideal",
+            "Weeks",
+            "Days",
+            "No long stays"
+          ]
+        },
+        {
+          "q": "Cultural learning goal",
+          "options": [
+            "Deep understanding",
+            "Surface appreciation",
+            "Fun memories",
+            "No goal"
+          ]
+        },
+        {
+          "q": "Immersion chemistry sign",
+          "options": [
+            "Strong sign",
+            "Important",
+            "Nice",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Immersion after tourist sites",
+          "options": [
+            "Always seek deeper",
+            "Sometimes",
+            "Rare",
+            "Enough with sites"
+          ]
+        },
+        {
+          "q": "Cultural adaptation speed",
+          "options": [
+            "Very fast",
+            "Average",
+            "Slow",
+            "Resistant"
+          ]
+        },
+        {
+          "q": "Ideal cultural outcome",
+          "options": [
+            "New worldview",
+            "Great stories",
+            "Respect & appreciation",
+            "All three"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Budget & Comfort Style",
+      "description": "Alignment on spending, comfort level and travel philosophy",
+      "questions": [
+        {
+          "q": "Travel budget mindset",
+          "options": [
+            "Splurge on experiences",
+            "Balanced mid-range",
+            "Budget backpacker",
+            "Luxury when possible"
+          ]
+        },
+        {
+          "q": "Accommodation preference",
+          "options": [
+            "5-star hotels",
+            "Boutique / nice Airbnb",
+            "Hostels / budget",
+            "Mix extremes"
+          ]
+        },
+        {
+          "q": "Food budget on trips",
+          "options": [
+            "Fine dining sometimes",
+            "Local & mid-range",
+            "Street food mostly",
+            "Minimal spending"
+          ]
+        },
+        {
+          "q": "Transportation splurge",
+          "options": [
+            "First class / private",
+            "Business / premium economy",
+            "Economy ok",
+            "Cheapest option"
+          ]
+        },
+        {
+          "q": "Activity cost tolerance",
+          "options": [
+            "Worth it for bucket list",
+            "Mid-price ok",
+            "Free/low-cost only",
+            "Avoid paid activities"
+          ]
+        },
+        {
+          "q": "Shopping / souvenirs budget",
+          "options": [
+            "Generous",
+            "Moderate",
+            "Minimal",
+            "No shopping"
+          ]
+        },
+        {
+          "q": "Travel insurance",
+          "options": [
+            "Comprehensive always",
+            "Basic coverage",
+            "Rarely buy",
+            "Never"
+          ]
+        },
+        {
+          "q": "Budget tracking",
+          "options": [
+            "Track everything",
+            "Loose awareness",
+            "No tracking",
+            "One person tracks"
+          ]
+        },
+        {
+          "q": "Splurge vs save balance",
+          "options": [
+            "More splurges",
+            "50/50",
+            "More saving",
+            "Always save"
+          ]
+        },
+        {
+          "q": "Comfort vs adventure trade-off",
+          "options": [
+            "Comfort first",
+            "Balanced",
+            "Adventure first",
+            "No trade-off"
+          ]
+        },
+        {
+          "q": "Long-haul flight class",
+          "options": [
+            "Business / first",
+            "Premium economy",
+            "Economy",
+            "Cheapest seat"
+          ]
+        },
+        {
+          "q": "Daily budget comfort",
+          "options": [
+            "High daily",
+            "Medium",
+            "Low daily",
+            "No daily limit"
+          ]
+        },
+        {
+          "q": "Shared vs separate budget",
+          "options": [
+            "Fully joint",
+            "Split 50/50",
+            "One pays more",
+            "Separate"
+          ]
+        },
+        {
+          "q": "Budget stress level",
+          "options": [
+            "Low, money flows",
+            "Medium",
+            "High, careful",
+            "Very high"
+          ]
+        },
+        {
+          "q": "Luxury vs authentic",
+          "options": [
+            "Luxury when possible",
+            "Authentic over luxury",
+            "Mix both",
+            "Authentic always"
+          ]
+        },
+        {
+          "q": "Budget long-term philosophy",
+          "options": [
+            "Spend on memories",
+            "Save for future",
+            "Balance",
+            "No philosophy"
+          ]
+        },
+        {
+          "q": "Budget chemistry sign",
+          "options": [
+            "Strong alignment needed",
+            "Important",
+            "Adjustable",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Budget flexibility",
+          "options": [
+            "Very flexible",
+            "Some flex",
+            "Strict",
+            "No flex"
+          ]
+        },
+        {
+          "q": "Budget recovery after splurge",
+          "options": [
+            "No guilt",
+            "Some guilt",
+            "Big guilt",
+            "Avoid splurge"
+          ]
+        },
+        {
+          "q": "Ideal budget outcome",
+          "options": [
+            "Worth every penny",
+            "Balanced experience",
+            "Saved money",
+            "No regrets"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Group vs Duo Energy",
+      "description": "Preference for solo/duo vs group travel experiences",
+      "questions": [
+        {
+          "q": "Ideal travel group size",
+          "options": [
+            "Just us two",
+            "Small group 3, 5",
+            "Large group fun",
+            "Solo only"
+          ]
+        },
+        {
+          "q": "Group trip vs couple trip",
+          "options": [
+            "Couple only",
+            "Mix both",
+            "Group preferred",
+            "Solo preferred"
+          ]
+        },
+        {
+          "q": "Social energy on trips",
+          "options": [
+            "High, meet everyone",
+            "Medium, some interactions",
+            "Low, keep to ourselves",
+            "No social"
+          ]
+        },
+        {
+          "q": "Group planning",
+          "options": [
+            "Love group consensus",
+            "One leads",
+            "Avoid group trips",
+            "No planning"
+          ]
+        },
+        {
+          "q": "Group vs duo romance",
+          "options": [
+            "Duo way better",
+            "Both ok",
+            "Group fun too",
+            "Group preferred"
+          ]
+        },
+        {
+          "q": "Group adventure sharing",
+          "options": [
+            "Love shared stories",
+            "Ok",
+            "Prefer private",
+            "No group"
+          ]
+        },
+        {
+          "q": "Group photo / memory",
+          "options": [
+            "Lots of group shots",
+            "Few",
+            "Couple only",
+            "No photos"
+          ]
+        },
+        {
+          "q": "Group conflict tolerance",
+          "options": [
+            "High, handle it",
+            "Medium",
+            "Low",
+            "Avoid groups"
+          ]
+        },
+        {
+          "q": "Group vs duo spontaneity",
+          "options": [
+            "Duo more spontaneous",
+            "Group more",
+            "Same",
+            "No difference"
+          ]
+        },
+        {
+          "q": "Group travel frequency",
+          "options": [
+            "Often",
+            "Occasional",
+            "Rare",
+            "Never"
+          ]
+        },
+        {
+          "q": "Duo intimacy on group trip",
+          "options": [
+            "Still high",
+            "Lower",
+            "Hard",
+            "No group trips"
+          ]
+        },
+        {
+          "q": "Group energy recharge",
+          "options": [
+            "Need alone after",
+            "Energized",
+            "Drained",
+            "No recharge"
+          ]
+        },
+        {
+          "q": "Group vs duo memories",
+          "options": [
+            "Duo deeper",
+            "Both valuable",
+            "Group funnier",
+            "No preference"
+          ]
+        },
+        {
+          "q": "Group travel chemistry",
+          "options": [
+            "Must match group style",
+            "Important",
+            "Adjustable",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Group adventure type",
+          "options": [
+            "Organized tour",
+            "Loose group",
+            "Friends only",
+            "No group"
+          ]
+        },
+        {
+          "q": "Duo vs group balance",
+          "options": [
+            "Mostly duo",
+            "50/50",
+            "Mostly group",
+            "All duo"
+          ]
+        },
+        {
+          "q": "Group goodbye sadness",
+          "options": [
+            "Strong",
+            "Some",
+            "None",
+            "Avoid group"
+          ]
+        },
+        {
+          "q": "Group planning stress",
+          "options": [
+            "High",
+            "Medium",
+            "Low",
+            "No stress"
+          ]
+        },
+        {
+          "q": "Group vs duo spontaneity",
+          "options": [
+            "Duo wins",
+            "Group wins",
+            "Same",
+            "No difference"
+          ]
+        },
+        {
+          "q": "Ideal group-duo ratio",
+          "options": [
+            "90% duo",
+            "70% duo",
+            "50/50",
+            "More group"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Long-Term Wanderlust",
+      "description": "Alignment on future adventure frequency and lifestyle",
+      "questions": [
+        {
+          "q": "Travel frequency ideal",
+          "options": [
+            "Multiple international/year",
+            "2, 3 big trips/year",
+            "1 big + weekends",
+            "Rare big trips"
+          ]
+        },
+        {
+          "q": "Nomadic lifestyle interest",
+          "options": [
+            "Full-time dream",
+            "6, 12 months trial",
+            "Occasional long stays",
+            "Home base always"
+          ]
+        },
+        {
+          "q": "Future adventure budget",
+          "options": [
+            "Prioritize travel",
+            "Balanced with other goals",
+            "Secondary",
+            "Minimal"
+          ]
+        },
+        {
+          "q": "Kids & travel",
+          "options": [
+            "Travel with kids often",
+            "Some travel",
+            "Less travel",
+            "No kids"
+          ]
+        },
+        {
+          "q": "Retirement travel vision",
+          "options": [
+            "Full-time travel",
+            "Snowbird",
+            "Home base + trips",
+            "No travel"
+          ]
+        },
+        {
+          "q": "Career & travel balance",
+          "options": [
+            "Remote work + travel",
+            "Sabbaticals",
+            "Vacation only",
+            "No balance"
+          ]
+        },
+        {
+          "q": "Long-term home base",
+          "options": [
+            "No fixed home",
+            "One home + travel",
+            "Two homes",
+            "Fixed home"
+          ]
+        },
+        {
+          "q": "Adventure aging",
+          "options": [
+            "More intense",
+            "Same level",
+            "Calmer",
+            "Less travel"
+          ]
+        },
+        {
+          "q": "Travel with family",
+          "options": [
+            "Love multi-gen",
+            "Couple only",
+            "Friends",
+            "No family"
+          ]
+        },
+        {
+          "q": "Wanderlust compatibility",
+          "options": [
+            "Must match closely",
+            "Important",
+            "Adjustable",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Long-haul flight tolerance",
+          "options": [
+            "Love long flights",
+            "Tolerate",
+            "Avoid",
+            "No long-haul"
+          ]
+        },
+        {
+          "q": "Travel savings priority",
+          "options": [
+            "Top priority",
+            "High",
+            "Medium",
+            "Low"
+          ]
+        },
+        {
+          "q": "Adventure legacy",
+          "options": [
+            "Stories & photos",
+            "Teach kids",
+            "Bucket list",
+            "No legacy"
+          ]
+        },
+        {
+          "q": "Travel health & safety",
+          "options": [
+            "Very cautious",
+            "Moderate",
+            "Calculated risk",
+            "Minimal concern"
+          ]
+        },
+        {
+          "q": "Wanderlust fade fear",
+          "options": [
+            "Big fear",
+            "Some concern",
+            "Not worried",
+            "Embrace change"
+          ]
+        },
+        {
+          "q": "Future travel style",
+          "options": [
+            "More luxury",
+            "Same backpack",
+            "Slower pace",
+            "No future travel"
+          ]
+        },
+        {
+          "q": "Travel as relationship glue",
+          "options": [
+            "Very important",
+            "Important",
+            "Nice bonus",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Long-term adventure goal",
+          "options": [
+            "Every continent",
+            "Deep dive few places",
+            "Comfortable rhythm",
+            "No goal"
+          ]
+        },
+        {
+          "q": "Travel burnout prevention",
+          "options": [
+            "Regular breaks",
+            "Balance home/travel",
+            "Less trips",
+            "No burnout"
+          ]
+        },
+        {
+          "q": "Ideal wanderlust outcome",
+          "options": [
+            "Lifetime of stories",
+            "Deep connection through travel",
+            "Balanced life",
+            "All three"
+          ]
+        }
+      ]
+    }
+  ]
+}

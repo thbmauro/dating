@@ -1,0 +1,1971 @@
+{
+  "category": "Flirt",
+  "description": "Cheeky, playful flirting and nighttime connection",
+  "icebreakers": [
+    "Cheekiest compliment you’ve ever given or received?",
+    "If we had one secret flirty code word right now, what should it be?",
+    "Favorite way to flirt without saying anything out loud?",
+    "Most enjoyable late-night text conversation you still remember?",
+    "Playful dare you’d be willing to give or accept on date three?",
+    "Best flirty emoji combination you regularly use?",
+    "Most charming thing someone has ever whispered to you?",
+    "How do you like to be teased in a sweet, flirty way?",
+    "Cheesiest pickup line that actually worked on you?",
+    "If we created a silly couple handshake, what move seals it?",
+    "Favorite way to make someone blush in a good way?",
+    "Playful challenge or mini-game you’d suggest on a date?",
+    "Most ridiculous-but-charming thing you’ve done to get a smile?",
+    "How important is daily playful banter to keep chemistry alive?",
+    "Fun flirty dare you’d give someone you’re really into?",
+    "If we co-wrote a ridiculous love song, what would the chorus be?",
+    "Go-to funny story you use to break tension?",
+    "Playful pet name you’d secretly enjoy hearing?",
+    "Best way to end a date with flirty anticipation?",
+    "Flirty tradition you’d love to start with the right person?",
+    "Most creative goodnight text you’ve ever sent or received?",
+    "Favorite emoji or gif to send when thinking of someone?",
+    "How do you feel about surprise silly selfies?",
+    "Cheekiest question you’ve ever asked on a date?",
+    "Playful nickname you’d give based on first impression?",
+    "Best flirty comeback you’ve ever heard?",
+    "If flirting had levels, what’s your signature move?",
+    "Favorite way to say “I’m interested” without saying it?",
+    "Most memorable flirty look across a room?",
+    "How do you enjoy being playfully challenged?",
+    "Best inside joke starter you’ve experienced?",
+    "Flirty habit you find irresistible in others?",
+    "Favorite way to tease without crossing the line?",
+    "Playful text you’d send at 2 a.m. if thinking of someone?",
+    "Cheekiest compliment you could give right now?",
+    "How do you feel about flirty bets or wagers?",
+    "Favorite flirty holiday or seasonal tradition?",
+    "Most charming way someone has ever caught your attention?",
+    "Playful punishment you’d enjoy for losing a silly game?",
+    "Best flirty playlist song you’d add first?",
+    "How do you like to keep text chemistry fun & light?",
+    "Favorite way to say good morning with a flirty twist?",
+    "Cheekiest “what if” question you’d ask early on?",
+    "Playful reward you’d give for winning a light-hearted challenge?",
+    "Most enjoyable flirty banter style, dry, silly or suggestive?",
+    "Favorite emoji to use when flirting?",
+    "How important is shared sense of playful mischief?",
+    "Best flirty memory from a first date?",
+    "Playful way you’d suggest extending a date?",
+    "Cheekiest goodnight message you’ve ever sent?",
+    "Favorite flirty “you’re in trouble” tone?",
+    "How do you enjoy being the target of gentle teasing?",
+    "Most creative way you’ve kept a conversation flirty?",
+    "Playful bet you’d make on a second date?",
+    "Favorite silly couple pet name combo?",
+    "Best flirty way to say “I can’t stop thinking about you”?",
+    "How do you feel about surprise voice notes with flirty tone?",
+    "Cheekiest question you’d ask over drinks?",
+    "Playful challenge you’d set for a weekend together?",
+    "Favorite flirty holiday activity?",
+    "Most charming accidental flirty moment you’ve had?",
+    "How do you keep long-distance flirting fun?",
+    "Best flirty gif you regularly send?",
+    "Playful way to restart conversation after silence?",
+    "Favorite flirty “good morning” variation?",
+    "Cheekiest dare you’d accept?",
+    "How do you enjoy flirty competition?",
+    "Most memorable flirty text chain?",
+    "Playful nickname you’d earn quickly?",
+    "Favorite way to end a call with flirty energy?",
+    "Best flirty “I miss you” delivery?",
+    "How important is humor in early flirting?",
+    "Cheekiest “caught you looking” response?",
+    "Playful tradition for Friday nights?",
+    "Favorite flirty question to ask at midnight?",
+    "Most enjoyable teasing style you receive?",
+    "Best way to turn an ordinary moment flirty?",
+    "Playful punishment/reward system you’d enjoy?",
+    "Favorite flirty emoji story you’ve created?",
+    "How do you feel about flirty photo challenges?",
+    "Cheekiest good luck message before a big day?",
+    "Playful way to say “you’re on my mind”?",
+    "Most charming flirty look you’ve mastered?",
+    "Favorite flirty “what are you wearing” variation?",
+    "How do you keep banter fresh over weeks?",
+    "Best flirty inside reference you’ve developed?",
+    "Playful dare for a video call?",
+    "Favorite flirty holiday greeting?",
+    "Cheekiest “I dare you” opener?",
+    "How do you enjoy light flirty role-play?",
+    "Most memorable flirty nickname origin?",
+    "Playful way to celebrate small wins together?",
+    "Favorite flirty “see you soon” promise?",
+    "Best cheeky response to a compliment?",
+    "How important is shared playful energy long-term?",
+    "Cheekiest late-night “thinking of you” message?",
+    "Playful tradition you’d start on anniversaries?",
+    "Favorite flirty emoji + word combo?",
+    "Most enjoyable flirty teasing you’ve received?",
+    "Best way to keep first-date chemistry going via text?",
+    "Playful challenge you’d set for date number four?",
+    "Cheekiest way to say “come over”?",
+    "Favorite flirty goodnight ritual?"
+  ],
+  "vibe_tests": [
+    {
+      "test_name": "Flirt Energy Level",
+      "description": "How well do your daily playful & flirting energies match?",
+      "questions": [
+        {
+          "q": "Daily playful flirting is",
+          "options": [
+            "Essential, keeps the spark alive",
+            "Very enjoyable",
+            "Nice occasionally",
+            "Less important than deeper talks"
+          ]
+        },
+        {
+          "q": "Best time for cheeky texting",
+          "options": [
+            "Late night",
+            "Morning surprise",
+            "Middle of the day",
+            "Anytime is good"
+          ]
+        },
+        {
+          "q": "Favorite flirting style",
+          "options": [
+            "Witty / dry humor",
+            "Silly & absurd",
+            "Light teasing",
+            "Compliment-based"
+          ]
+        },
+        {
+          "q": "Surprise flirty messages",
+          "options": [
+            "Love sending & receiving",
+            "Sweet in small doses",
+            "Can feel distracting",
+            "Prefer in-person only"
+          ]
+        },
+        {
+          "q": "Inside flirty jokes early on",
+          "options": [
+            "Build connection fast",
+            "Fun but take time",
+            "Better after several dates",
+            "Not really my thing"
+          ]
+        },
+        {
+          "q": "Late-night whisper conversations",
+          "options": [
+            "Love them",
+            "Nice sometimes",
+            "Depends on mood",
+            "Not my preference"
+          ]
+        },
+        {
+          "q": "Flirty dares or games",
+          "options": [
+            "Excited to play",
+            "Fun occasionally",
+            "Rarely",
+            "Not interested"
+          ]
+        },
+        {
+          "q": "Cheeky compliments",
+          "options": [
+            "Love giving & receiving",
+            "Nice to hear",
+            "Rarely give",
+            "Prefer subtle"
+          ]
+        },
+        {
+          "q": "Playful nicknames",
+          "options": [
+            "Love using many",
+            "A few are cute",
+            "One special one",
+            "Not into nicknames"
+          ]
+        },
+        {
+          "q": "Flirty emoji usage",
+          "options": [
+            "Heavy user",
+            "Moderate",
+            "Light",
+            "Almost never"
+          ]
+        },
+        {
+          "q": "Banter after a pause in texting",
+          "options": [
+            "Jump right back in",
+            "Ease in slowly",
+            "Wait for them",
+            "Move on"
+          ]
+        },
+        {
+          "q": "Flirty competition",
+          "options": [
+            "Love it",
+            "Fun sometimes",
+            "Not really",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Playful goodnight messages",
+          "options": [
+            "Always teasing",
+            "Sweet & flirty",
+            "Simple goodnight",
+            "No message"
+          ]
+        },
+        {
+          "q": "Flirty voice notes",
+          "options": [
+            "Love sending & hearing",
+            "Nice occasionally",
+            "Rarely",
+            "Prefer text"
+          ]
+        },
+        {
+          "q": "Cheeky dares you’d accept",
+          "options": [
+            "Most of them",
+            "Depends who asks",
+            "Few",
+            "Almost none"
+          ]
+        },
+        {
+          "q": "Flirty holiday traditions",
+          "options": [
+            "Want to create some",
+            "Nice to have",
+            "Maybe",
+            "Not interested"
+          ]
+        },
+        {
+          "q": "Playful 'caught you looking'",
+          "options": [
+            "Funny & exciting",
+            "Cute",
+            "Awkward",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Length of flirty text chains",
+          "options": [
+            "Long & ongoing",
+            "Medium length",
+            "Short & sweet",
+            "Rarely text"
+          ]
+        },
+        {
+          "q": "Playful 'you started it' energy",
+          "options": [
+            "Love it",
+            "Cute",
+            "Annoying",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Flirty chemistry as top sign",
+          "options": [
+            "Most important early sign",
+            "Very important",
+            "Nice bonus",
+            "Not a priority"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Teasing Comfort Zone",
+      "description": "How comfortable are you both with playful teasing?",
+      "questions": [
+        {
+          "q": "Light teasing feels best when",
+          "options": [
+            "Gentle & affectionate",
+            "Witty & clever",
+            "Silly & exaggerated",
+            "Rare but impactful"
+          ]
+        },
+        {
+          "q": "Being teased about small quirks",
+          "options": [
+            "Makes me smile",
+            "Depends on tone",
+            "Feels vulnerable",
+            "I’d rather not"
+          ]
+        },
+        {
+          "q": "Teasing frequency preference",
+          "options": [
+            "Daily playful",
+            "Several times a week",
+            "Occasional",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Teasing tone I enjoy most",
+          "options": [
+            "Soft & loving",
+            "Cheeky",
+            "Light roast",
+            "Gentle only"
+          ]
+        },
+        {
+          "q": "After teasing goes too far",
+          "options": [
+            "Quick hug fixes it",
+            "Laugh it off",
+            "Need apology",
+            "Need space"
+          ]
+        },
+        {
+          "q": "Playful roasting level",
+          "options": [
+            "Love good roasts",
+            "Ok in small doses",
+            "Rarely",
+            "No roasting"
+          ]
+        },
+        {
+          "q": "Teasing via text",
+          "options": [
+            "Very fun",
+            "Risky, tone gets lost",
+            "Better in person",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Teasing with friends around",
+          "options": [
+            "Love it",
+            "Ok sometimes",
+            "Prefer private",
+            "No"
+          ]
+        },
+        {
+          "q": "Teasing boundaries",
+          "options": [
+            "Very clear",
+            "Flexible",
+            "Few limits",
+            "Many limits"
+          ]
+        },
+        {
+          "q": "Teasing affects mood",
+          "options": [
+            "Always lifts",
+            "Usually lifts",
+            "Depends",
+            "Can lower"
+          ]
+        },
+        {
+          "q": "Teasing myself",
+          "options": [
+            "Do it often",
+            "Sometimes",
+            "Rarely",
+            "Never"
+          ]
+        },
+        {
+          "q": "Teasing nicknames",
+          "options": [
+            "Love them",
+            "Few are ok",
+            "One special",
+            "No nicknames"
+          ]
+        },
+        {
+          "q": "Teasing after disagreement",
+          "options": [
+            "Helps lighten mood",
+            "Wait first",
+            "No teasing",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Who starts the teasing",
+          "options": [
+            "I usually start",
+            "Mutual",
+            "Prefer they start",
+            "Slow to begin"
+          ]
+        },
+        {
+          "q": "Laughter from teasing",
+          "options": [
+            "Always laugh",
+            "Usually laugh",
+            "Sometimes",
+            "Rarely"
+          ]
+        },
+        {
+          "q": "Teasing long-term",
+          "options": [
+            "Want to keep it",
+            "Naturally fades",
+            "Balance needed",
+            "Not important"
+          ]
+        },
+        {
+          "q": "Teasing in public",
+          "options": [
+            "Subtle ok",
+            "None",
+            "Private only",
+            "No preference"
+          ]
+        },
+        {
+          "q": "Teasing = affection sign",
+          "options": [
+            "Strong sign",
+            "Sometimes",
+            "Rarely",
+            "Not at all"
+          ]
+        },
+        {
+          "q": "Teasing chemistry indicator",
+          "options": [
+            "Top indicator",
+            "Important",
+            "Nice",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Maximum teasing before too much",
+          "options": [
+            "Rarely too much",
+            "Depends on day",
+            "Quick limit",
+            "Low tolerance"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Banter Rhythm",
+      "description": "How well do your banter speeds and styles sync?",
+      "questions": [
+        {
+          "q": "Banter frequency ideal",
+          "options": [
+            "Constant",
+            "Often",
+            "Sometimes",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Quick comebacks",
+          "options": [
+            "Love firing them",
+            "Enjoy them",
+            "Need time to think",
+            "Avoid quick replies"
+          ]
+        },
+        {
+          "q": "Banter via text vs in person",
+          "options": [
+            "Text is best",
+            "Both great",
+            "In person better",
+            "Text risky"
+          ]
+        },
+        {
+          "q": "Playful arguments",
+          "options": [
+            "Fun & flirty",
+            "Occasional",
+            "Avoid",
+            "Serious only"
+          ]
+        },
+        {
+          "q": "Silly nickname count",
+          "options": [
+            "Many",
+            "A few",
+            "One",
+            "None"
+          ]
+        },
+        {
+          "q": "Banter during dates",
+          "options": [
+            "Constant",
+            "Mostly",
+            "Some",
+            "Little"
+          ]
+        },
+        {
+          "q": "Laugh at bad banter",
+          "options": [
+            "Always",
+            "Usually",
+            "Sometimes",
+            "No"
+          ]
+        },
+        {
+          "q": "Banter recovery after miss",
+          "options": [
+            "Quick hug",
+            "Laugh it off",
+            "Apologize",
+            "Ignore"
+          ]
+        },
+        {
+          "q": "Sarcasm detection speed",
+          "options": [
+            "Instant",
+            "Usually",
+            "Sometimes miss",
+            "Often miss"
+          ]
+        },
+        {
+          "q": "Banter boundaries",
+          "options": [
+            "Very clear",
+            "Flexible",
+            "Few",
+            "Many"
+          ]
+        },
+        {
+          "q": "Funny exaggeration",
+          "options": [
+            "Constant",
+            "Often",
+            "Sometimes",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Playful 'no you' back-and-forth",
+          "options": [
+            "Love it",
+            "Cute",
+            "Annoying",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Banter mood boost",
+          "options": [
+            "Always",
+            "Usually",
+            "Sometimes",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Silly bets during banter",
+          "options": [
+            "Daily",
+            "Weekly",
+            "Occasional",
+            "No"
+          ]
+        },
+        {
+          "q": "Banter with friends present",
+          "options": [
+            "Heavy",
+            "Moderate",
+            "Light",
+            "None"
+          ]
+        },
+        {
+          "q": "Playful 'you started it' defense",
+          "options": [
+            "Funny",
+            "Cute",
+            "Irritating",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Banter during serious topics",
+          "options": [
+            "Sometimes lightens",
+            "Wait for right time",
+            "Never",
+            "Always avoid"
+          ]
+        },
+        {
+          "q": "Banter chemistry sign",
+          "options": [
+            "Top sign",
+            "Very important",
+            "Nice bonus",
+            "Not priority"
+          ]
+        },
+        {
+          "q": "Banter length per conversation",
+          "options": [
+            "Long & flowing",
+            "Medium bursts",
+            "Short hits",
+            "Minimal"
+          ]
+        },
+        {
+          "q": "Preferred banter recovery",
+          "options": [
+            "Hug & kiss",
+            "Laugh & change topic",
+            "Apology + touch",
+            "Space then resume"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Emoji & Text Flirt Style",
+      "description": "How aligned are your texting & emoji flirting habits?",
+      "questions": [
+        {
+          "q": "Flirty emoji usage",
+          "options": [
+            "Very heavy",
+            "Moderate",
+            "Light",
+            "Rarely"
+          ]
+        },
+        {
+          "q": "Voice notes in flirting",
+          "options": [
+            "Love them",
+            "Nice sometimes",
+            "Rare",
+            "Prefer text"
+          ]
+        },
+        {
+          "q": "Gif usage in flirty chats",
+          "options": [
+            "Constant",
+            "Often",
+            "Occasional",
+            "Never"
+          ]
+        },
+        {
+          "q": "Flirty meme sending",
+          "options": [
+            "Daily",
+            "Often",
+            "Sometimes",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Text response time expectation",
+          "options": [
+            "Fast back & forth",
+            "Few hours ok",
+            "Next day ok",
+            "No pressure"
+          ]
+        },
+        {
+          "q": "Double-texting",
+          "options": [
+            "Love it",
+            "Ok",
+            "Annoying",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Flirty good morning texts",
+          "options": [
+            "Daily must",
+            "Often",
+            "Occasional",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Goodnight flirty texts",
+          "options": [
+            "Always",
+            "Most nights",
+            "Sometimes",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Teasing via text",
+          "options": [
+            "Very fun",
+            "Risky",
+            "Better in person",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Flirty photo sending",
+          "options": [
+            "Love it",
+            "Occasional",
+            "Rare",
+            "Never"
+          ]
+        },
+        {
+          "q": "Text banter length",
+          "options": [
+            "Long threads",
+            "Medium",
+            "Short & sweet",
+            "Minimal"
+          ]
+        },
+        {
+          "q": "Using pet names in text",
+          "options": [
+            "Many",
+            "Few",
+            "One",
+            "None"
+          ]
+        },
+        {
+          "q": "Flirty emojis per message",
+          "options": [
+            "3+",
+            "1, 2",
+            "Rarely more than 1",
+            "None"
+          ]
+        },
+        {
+          "q": "Sending flirty articles / songs",
+          "options": [
+            "Often",
+            "Sometimes",
+            "Rare",
+            "Never"
+          ]
+        },
+        {
+          "q": "Text flirting during work",
+          "options": [
+            "Love it",
+            "Occasional",
+            "Rare",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Flirty 'thinking of you' texts",
+          "options": [
+            "Daily",
+            "Often",
+            "Sometimes",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Using ellipsis (...) in flirty texts",
+          "options": [
+            "Love the tease",
+            "Sometimes",
+            "Rare",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Flirty question frequency",
+          "options": [
+            "Many per day",
+            "Several per week",
+            "Occasional",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Ending text with flirty cliffhanger",
+          "options": [
+            "Love doing it",
+            "Fun sometimes",
+            "Rare",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Preferred text flirting time of day",
+          "options": [
+            "Late night",
+            "Morning",
+            "Afternoon",
+            "Anytime"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Playful Dares & Challenges",
+      "description": "Compatibility in flirty dares, bets & challenges",
+      "questions": [
+        {
+          "q": "Flirty dares comfort level",
+          "options": [
+            "Love giving & receiving",
+            "Fun occasionally",
+            "Rarely",
+            "Not interested"
+          ]
+        },
+        {
+          "q": "Dare difficulty preference",
+          "options": [
+            "Mild & cute",
+            "Medium cheeky",
+            "Bold",
+            "Very tame"
+          ]
+        },
+        {
+          "q": "Public vs private dares",
+          "options": [
+            "Private only",
+            "Subtle public ok",
+            "Both",
+            "No dares"
+          ]
+        },
+        {
+          "q": "Dare follow-through",
+          "options": [
+            "Always do it",
+            "Most times",
+            "Depends",
+            "Rarely"
+          ]
+        },
+        {
+          "q": "Reward for completing dare",
+          "options": [
+            "Flirty kiss",
+            "Compliment",
+            "Next dare",
+            "Nothing"
+          ]
+        },
+        {
+          "q": "Dare via text vs in person",
+          "options": [
+            "Both great",
+            "In person better",
+            "Text safer",
+            "No preference"
+          ]
+        },
+        {
+          "q": "Dare creativity",
+          "options": [
+            "Love creative ones",
+            "Simple ok",
+            "Classic",
+            "No dares"
+          ]
+        },
+        {
+          "q": "Dare after losing bet",
+          "options": [
+            "Exciting",
+            "Fun",
+            "Embarrassing",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Dare frequency",
+          "options": [
+            "Weekly",
+            "Every few dates",
+            "Occasional",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Dare involving photos",
+          "options": [
+            "Love it",
+            "Depends",
+            "Rare",
+            "Never"
+          ]
+        },
+        {
+          "q": "Dare involving voice",
+          "options": [
+            "Love",
+            "Ok",
+            "Rare",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Dare involving outfit",
+          "options": [
+            "Fun",
+            "Depends",
+            "Rare",
+            "No"
+          ]
+        },
+        {
+          "q": "Dare involving public",
+          "options": [
+            "Subtle yes",
+            "No public",
+            "Private only",
+            "Never"
+          ]
+        },
+        {
+          "q": "Dare recovery after shy",
+          "options": [
+            "Laugh it off",
+            "Hug",
+            "Next dare",
+            "Stop"
+          ]
+        },
+        {
+          "q": "Dare initiation",
+          "options": [
+            "I start most",
+            "Mutual",
+            "Prefer they start",
+            "Slow"
+          ]
+        },
+        {
+          "q": "Dare chemistry indicator",
+          "options": [
+            "Strong sign",
+            "Important",
+            "Nice",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Dare escalation",
+          "options": [
+            "Gradual increase",
+            "Same level",
+            "Random",
+            "No escalation"
+          ]
+        },
+        {
+          "q": "Dare after argument",
+          "options": [
+            "Helps reconnect",
+            "Wait",
+            "No",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Favorite dare type",
+          "options": [
+            "Text-based",
+            "In-person",
+            "Photo",
+            "Voice"
+          ]
+        },
+        {
+          "q": "Long-term dare tradition",
+          "options": [
+            "Want ongoing",
+            "Occasional",
+            "Fades",
+            "No"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Nickname & Pet Name Sync",
+      "description": "How well do your nickname and pet name styles match?",
+      "questions": [
+        {
+          "q": "Pet names usage",
+          "options": [
+            "Many & creative",
+            "A few cute ones",
+            "One special",
+            "None"
+          ]
+        },
+        {
+          "q": "When to start pet names",
+          "options": [
+            "Very early",
+            "After few dates",
+            "After weeks",
+            "Months"
+          ]
+        },
+        {
+          "q": "Pet name style preference",
+          "options": [
+            "Cheeky / teasing",
+            "Sweet / romantic",
+            "Silly / absurd",
+            "Classic"
+          ]
+        },
+        {
+          "q": "Pet name in public",
+          "options": [
+            "Love it",
+            "Subtle ok",
+            "Private only",
+            "No"
+          ]
+        },
+        {
+          "q": "Pet name in text",
+          "options": [
+            "Always use",
+            "Often",
+            "Sometimes",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Pet name during intimacy",
+          "options": [
+            "Love hearing",
+            "Nice",
+            "Neutral",
+            "Prefer real name"
+          ]
+        },
+        {
+          "q": "Pet name creativity",
+          "options": [
+            "Very creative",
+            "Somewhat",
+            "Basic",
+            "No"
+          ]
+        },
+        {
+          "q": "Pet name from inside jokes",
+          "options": [
+            "Best ones",
+            "Some",
+            "Rare",
+            "No"
+          ]
+        },
+        {
+          "q": "Pet name teasing level",
+          "options": [
+            "High",
+            "Medium",
+            "Low",
+            "None"
+          ]
+        },
+        {
+          "q": "Pet name frequency",
+          "options": [
+            "Every conversation",
+            "Most",
+            "Occasional",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Pet name evolution",
+          "options": [
+            "Many over time",
+            "Few favorites",
+            "One forever",
+            "No"
+          ]
+        },
+        {
+          "q": "Pet name in front of friends",
+          "options": [
+            "Proud",
+            "Ok",
+            "Embarrassed",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Pet name after fight",
+          "options": [
+            "Helps soften",
+            "Wait",
+            "No",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Pet name chemistry sign",
+          "options": [
+            "Strong",
+            "Important",
+            "Nice",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Pet name initiation",
+          "options": [
+            "I start",
+            "Mutual",
+            "They start",
+            "Slow"
+          ]
+        },
+        {
+          "q": "Pet name length",
+          "options": [
+            "Short & cute",
+            "Medium",
+            "Long & silly",
+            "One word"
+          ]
+        },
+        {
+          "q": "Pet name in voice calls",
+          "options": [
+            "Love",
+            "Nice",
+            "Rare",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Pet name variety need",
+          "options": [
+            "High",
+            "Medium",
+            "Low",
+            "One"
+          ]
+        },
+        {
+          "q": "Pet name memory",
+          "options": [
+            "Very meaningful",
+            "Somewhat",
+            "Fun",
+            "Neutral"
+          ]
+        },
+        {
+          "q": "Long-term pet name",
+          "options": [
+            "Keep evolving",
+            "Settle on favorites",
+            "Fade",
+            "No"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Flirty Compliment Style",
+      "description": "How aligned are your flirty compliment preferences?",
+      "questions": [
+        {
+          "q": "Favorite compliment type",
+          "options": [
+            "Cheeky / teasing",
+            "Sweet / romantic",
+            "Witty",
+            "Appearance-focused"
+          ]
+        },
+        {
+          "q": "Compliment frequency ideal",
+          "options": [
+            "Multiple daily",
+            "Daily",
+            "Few times week",
+            "Occasional"
+          ]
+        },
+        {
+          "q": "Compliment in text vs in person",
+          "options": [
+            "Both great",
+            "In person better",
+            "Text safer",
+            "No preference"
+          ]
+        },
+        {
+          "q": "Compliment after teasing",
+          "options": [
+            "Love the contrast",
+            "Nice balance",
+            "Rare",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Compliment during intimacy",
+          "options": [
+            "Love hearing",
+            "Nice",
+            "Neutral",
+            "Prefer actions"
+          ]
+        },
+        {
+          "q": "Compliment creativity",
+          "options": [
+            "Very creative",
+            "Somewhat",
+            "Classic",
+            "Simple"
+          ]
+        },
+        {
+          "q": "Compliment about personality",
+          "options": [
+            "Most important",
+            "Very important",
+            "Nice",
+            "Less important"
+          ]
+        },
+        {
+          "q": "Compliment about appearance",
+          "options": [
+            "Love",
+            "Nice",
+            "Occasional",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Compliment about effort",
+          "options": [
+            "Very meaningful",
+            "Important",
+            "Nice",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Compliment after achievement",
+          "options": [
+            "Always",
+            "Usually",
+            "Sometimes",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Cheeky vs sweet balance",
+          "options": [
+            "Mostly cheeky",
+            "50/50",
+            "Mostly sweet",
+            "No compliments"
+          ]
+        },
+        {
+          "q": "Compliment in public",
+          "options": [
+            "Subtle ok",
+            "None",
+            "Private only",
+            "No preference"
+          ]
+        },
+        {
+          "q": "Compliment recovery after miss",
+          "options": [
+            "Laugh it off",
+            "Next one better",
+            "Apologize",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Compliment chemistry sign",
+          "options": [
+            "Top sign",
+            "Important",
+            "Nice",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Compliment initiation",
+          "options": [
+            "I give most",
+            "Mutual",
+            "Prefer receiving",
+            "Slow"
+          ]
+        },
+        {
+          "q": "Compliment length",
+          "options": [
+            "Short & punchy",
+            "Medium",
+            "Long & detailed",
+            "One word"
+          ]
+        },
+        {
+          "q": "Compliment via voice note",
+          "options": [
+            "Love",
+            "Nice",
+            "Rare",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Compliment variety need",
+          "options": [
+            "High",
+            "Medium",
+            "Low",
+            "Same few"
+          ]
+        },
+        {
+          "q": "Compliment memory",
+          "options": [
+            "Very meaningful",
+            "Somewhat",
+            "Fun",
+            "Neutral"
+          ]
+        },
+        {
+          "q": "Long-term compliment style",
+          "options": [
+            "Keep evolving",
+            "Settle on favorites",
+            "Fade",
+            "No"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Late-Night Flirt Vibe",
+      "description": "How well do your late-night texting & flirting styles align?",
+      "questions": [
+        {
+          "q": "Late-night texting frequency",
+          "options": [
+            "Almost every night",
+            "Several nights/week",
+            "Occasional",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Late-night tone preference",
+          "options": [
+            "Very flirty / suggestive",
+            "Playful & light",
+            "Sweet & deep",
+            "Casual"
+          ]
+        },
+        {
+          "q": "Late-night deep talks vs flirty",
+          "options": [
+            "Mix both",
+            "Mostly flirty",
+            "Mostly deep",
+            "Neither"
+          ]
+        },
+        {
+          "q": "Late-night voice notes",
+          "options": [
+            "Love them",
+            "Nice sometimes",
+            "Rare",
+            "Prefer text"
+          ]
+        },
+        {
+          "q": "Late-night photos",
+          "options": [
+            "Love sending/receiving",
+            "Occasional",
+            "Rare",
+            "Never"
+          ]
+        },
+        {
+          "q": "Late-night goodnight ritual",
+          "options": [
+            "Long flirty exchange",
+            "Sweet message",
+            "Quick goodnight",
+            "No ritual"
+          ]
+        },
+        {
+          "q": "Late-night teasing level",
+          "options": [
+            "High",
+            "Medium",
+            "Low",
+            "None"
+          ]
+        },
+        {
+          "q": "Late-night emoji usage",
+          "options": [
+            "Heavy",
+            "Moderate",
+            "Light",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Late-night banter length",
+          "options": [
+            "Long threads",
+            "Medium",
+            "Short",
+            "Minimal"
+          ]
+        },
+        {
+          "q": "Late-night compliments",
+          "options": [
+            "Love them",
+            "Nice",
+            "Occasional",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Late-night dares",
+          "options": [
+            "Fun",
+            "Depends",
+            "Rare",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Late-night pet names",
+          "options": [
+            "Always",
+            "Often",
+            "Sometimes",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Late-night chemistry peak",
+          "options": [
+            "Strongest time",
+            "Very strong",
+            "Same as day",
+            "Weaker"
+          ]
+        },
+        {
+          "q": "Late-night texting during week",
+          "options": [
+            "Every night",
+            "Most nights",
+            "Some nights",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Late-night texting on weekends",
+          "options": [
+            "Longer & flirtier",
+            "Same as week",
+            "Shorter",
+            "No difference"
+          ]
+        },
+        {
+          "q": "Late-night silence tolerance",
+          "options": [
+            "Low, want reply",
+            "Medium",
+            "High",
+            "No pressure"
+          ]
+        },
+        {
+          "q": "Late-night flirty cliffhanger",
+          "options": [
+            "Love leaving them",
+            "Fun sometimes",
+            "Rare",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Late-night voice call",
+          "options": [
+            "Love",
+            "Nice occasionally",
+            "Rare",
+            "Prefer text"
+          ]
+        },
+        {
+          "q": "Late-night flirt style evolution",
+          "options": [
+            "Gets bolder",
+            "Stays playful",
+            "Gets deeper",
+            "Fades"
+          ]
+        },
+        {
+          "q": "Late-night flirt as relationship glue",
+          "options": [
+            "Very important",
+            "Important",
+            "Nice bonus",
+            "Not key"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Flirty Initiation Balance",
+      "description": "How well do your initiation patterns match?",
+      "questions": [
+        {
+          "q": "Who usually starts flirty texts",
+          "options": [
+            "I do most",
+            "Mutual",
+            "Prefer they do",
+            "Slow to start"
+          ]
+        },
+        {
+          "q": "Initiating playful tease",
+          "options": [
+            "Love starting",
+            "Enjoy both",
+            "Prefer receiving",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Initiating first kiss vibe",
+          "options": [
+            "Love leading",
+            "Mutual",
+            "Prefer they lead",
+            "Slow"
+          ]
+        },
+        {
+          "q": "Initiating pet name",
+          "options": [
+            "I start",
+            "Mutual",
+            "They start",
+            "Wait long time"
+          ]
+        },
+        {
+          "q": "Initiating flirty dare",
+          "options": [
+            "Often",
+            "Sometimes",
+            "Rare",
+            "Never"
+          ]
+        },
+        {
+          "q": "Initiating voice note",
+          "options": [
+            "Love",
+            "Nice",
+            "Rare",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Initiating surprise compliment",
+          "options": [
+            "Often",
+            "Sometimes",
+            "Rare",
+            "Never"
+          ]
+        },
+        {
+          "q": "Initiating physical closeness",
+          "options": [
+            "Often",
+            "Mutual",
+            "Prefer they do",
+            "Slow"
+          ]
+        },
+        {
+          "q": "Initiating late-night text",
+          "options": [
+            "I do",
+            "Mutual",
+            "They do",
+            "Wait"
+          ]
+        },
+        {
+          "q": "Initiating flirty bet/challenge",
+          "options": [
+            "Love",
+            "Ok",
+            "Rare",
+            "No"
+          ]
+        },
+        {
+          "q": "Initiation after silence",
+          "options": [
+            "I restart",
+            "Wait for them",
+            "Mutual",
+            "Move on"
+          ]
+        },
+        {
+          "q": "Initiation comfort level",
+          "options": [
+            "Very comfortable",
+            "Somewhat",
+            "Nervous",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Initiation chemistry sign",
+          "options": [
+            "Strong sign",
+            "Important",
+            "Nice",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Initiation balance ideal",
+          "options": [
+            "50/50",
+            "60/40",
+            "70/30",
+            "No balance needed"
+          ]
+        },
+        {
+          "q": "Initiation after argument",
+          "options": [
+            "I reach out",
+            "Wait",
+            "Mutual",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Initiation in public",
+          "options": [
+            "Subtle ok",
+            "None",
+            "Private only",
+            "No"
+          ]
+        },
+        {
+          "q": "Initiation via emoji",
+          "options": [
+            "Often",
+            "Sometimes",
+            "Rare",
+            "Never"
+          ]
+        },
+        {
+          "q": "Initiation via pet name",
+          "options": [
+            "Love",
+            "Nice",
+            "Rare",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Initiation long-term",
+          "options": [
+            "Keep balanced",
+            "One leads more",
+            "Fades",
+            "No pattern"
+          ]
+        },
+        {
+          "q": "Initiation excitement",
+          "options": [
+            "High",
+            "Medium",
+            "Low",
+            "None"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Flirty Recovery Style",
+      "description": "How do you both recover from awkward / overstepped flirty moments?",
+      "questions": [
+        {
+          "q": "After flirty miss / awkward",
+          "options": [
+            "Laugh it off",
+            "Quick hug",
+            "Change topic",
+            "Apologize"
+          ]
+        },
+        {
+          "q": "After teasing goes too far",
+          "options": [
+            "Hug fixes it",
+            "Laugh & move on",
+            "Need sorry",
+            "Need space"
+          ]
+        },
+        {
+          "q": "After bad joke",
+          "options": [
+            "Laugh harder",
+            "Next joke",
+            "Apologize",
+            "Stop joking"
+          ]
+        },
+        {
+          "q": "After flirty text misread",
+          "options": [
+            "Clarify & tease",
+            "Apologize",
+            "Ignore",
+            "Change topic"
+          ]
+        },
+        {
+          "q": "After public flirty overstep",
+          "options": [
+            "Laugh quietly",
+            "Whisper sorry",
+            "Leave it",
+            "Avoid next time"
+          ]
+        },
+        {
+          "q": "Recovery time needed",
+          "options": [
+            "Seconds",
+            "Minutes",
+            "Hours",
+            "Days"
+          ]
+        },
+        {
+          "q": "Recovery with touch",
+          "options": [
+            "Helps a lot",
+            "Nice",
+            "Neutral",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Recovery with humor",
+          "options": [
+            "Best way",
+            "Good",
+            "Depends",
+            "Not helpful"
+          ]
+        },
+        {
+          "q": "Recovery with words",
+          "options": [
+            "Need explanation",
+            "Short sorry",
+            "No words needed",
+            "Avoid talk"
+          ]
+        },
+        {
+          "q": "Recovery chemistry impact",
+          "options": [
+            "Strengthens",
+            "No change",
+            "Slightly weakens",
+            "Big damage"
+          ]
+        },
+        {
+          "q": "Recovery initiation",
+          "options": [
+            "I fix first",
+            "Mutual",
+            "They fix",
+            "Wait"
+          ]
+        },
+        {
+          "q": "Recovery with pet name",
+          "options": [
+            "Helps soften",
+            "Nice",
+            "Neutral",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Recovery with compliment",
+          "options": [
+            "Love it",
+            "Nice",
+            "Rare",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Recovery long-term",
+          "options": [
+            "Get better at it",
+            "Same pattern",
+            "Less needed",
+            "More needed"
+          ]
+        },
+        {
+          "q": "Recovery in text",
+          "options": [
+            "Easy",
+            "Risky",
+            "Better in person",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Recovery with voice note",
+          "options": [
+            "Love",
+            "Nice",
+            "Rare",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Recovery with meme/gif",
+          "options": [
+            "Best",
+            "Fun",
+            "Ok",
+            "No"
+          ]
+        },
+        {
+          "q": "Recovery after dare fail",
+          "options": [
+            "Laugh",
+            "Next dare",
+            "Sorry",
+            "Stop dares"
+          ]
+        },
+        {
+          "q": "Recovery as bonding",
+          "options": [
+            "Always bonds",
+            "Usually",
+            "Sometimes",
+            "Rarely"
+          ]
+        },
+        {
+          "q": "Ideal recovery phrase",
+          "options": [
+            "'You're ridiculous (kiss)'",
+            "'Sorry, still cute'",
+            "'Oops, next?'",
+            "Silent hug"
+          ]
+        }
+      ]
+    }
+  ]
+}

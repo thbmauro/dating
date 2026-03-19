@@ -1,10 +1,9 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
-import { Text, View, Pressable, AppState, Share, StyleSheet, Dimensions, ScrollView } from 'react-native';
+import { Text, View, Pressable, AppState, Share, StyleSheet, Dimensions, ScrollView, TextInput } from 'react-native';
 import { api } from '@/lib/api/api';
 import useIcebreakerStore, { Icebreaker, CATEGORIES, CategoryType } from '@/lib/state/icebreaker-store';
 import useSettingsStore, { THEME_COLORS } from '@/lib/state/settings-store';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
-import * as SplashScreen from 'expo-splash-screen';
 import Animated, {
   useAnimatedStyle,
   useSharedValue,
@@ -21,7 +20,6 @@ import Animated, {
 import { Gesture, GestureDetector } from 'react-native-gesture-handler';
 import { SlidersHorizontal, Share2, Bookmark, User, Check, X } from 'lucide-react-native';
 import { router } from 'expo-router';
-import { useFonts, Inter_700Bold, Inter_500Medium } from '@expo-google-fonts/inter';
 import CategoryFilter from '@/components/CategoryFilter';
 import SettingsCategoryFilter from '@/components/SettingsCategoryFilter';
 import * as Haptics from 'expo-haptics';
@@ -378,6 +376,8 @@ export default function HomeScreen() {
   const themeColors = THEME_COLORS[colorTheme];
   const player1Name = useSettingsStore((s) => s.player1Name);
   const player2Name = useSettingsStore((s) => s.player2Name);
+  const setPlayer1Name = useSettingsStore((s) => s.setPlayer1Name);
+  const setPlayer2Name = useSettingsStore((s) => s.setPlayer2Name);
   const [filterOpen, setFilterOpen] = useState(true);
   const [showSettingsFilter, setShowSettingsFilter] = useState(false);
   const [cards, setCards] = useState<Icebreaker[]>([]);
@@ -400,8 +400,9 @@ export default function HomeScreen() {
   const [answerHistory, setAnswerHistory] = useState<AnswerRecord[]>([]);
   const [showResults, setShowResults] = useState(false);
   const [detailsOpen, setDetailsOpen] = useState(false);
-
-  const [fontsLoaded] = useFonts({ Inter_700Bold, Inter_500Medium });
+  // Show "Who's playing?" only if names have never been set
+  const [vibeCheckStarted, setVibeCheckStarted] = useState(player1Name !== '' && player2Name !== '');
+  const vibeCheckBounce = useSharedValue(1);
 
   // Swipe animation values
   const translateX = useSharedValue(0);
@@ -480,9 +481,6 @@ export default function HomeScreen() {
     }
   }, [selectedCategory, loadCompatibilityQuestions]);
 
-  useEffect(() => {
-    if ((cards.length > 0 || isError) && fontsLoaded) SplashScreen.hideAsync();
-  }, [cards, isError, fontsLoaded]);
 
   const appState = useRef(AppState.currentState);
   useEffect(() => {
@@ -627,6 +625,11 @@ export default function HomeScreen() {
   // Dark mode back card for compatibility: scale 0.85→1, no color change
   const backCardStyleDark = useAnimatedStyle(() => ({
     transform: [{ scale: interpolate(swipeProgress.value, [0, 1], [0.85, 1]) }],
+  }));
+
+  // Bounce style for first vibe check card
+  const vibeCheckBounceStyle = useAnimatedStyle(() => ({
+    transform: [{ scale: vibeCheckBounce.value }],
   }));
 
   // Reset compatibility game
@@ -805,8 +808,6 @@ export default function HomeScreen() {
     transform: [{ scale: tabSwitchScale.value }],
   }));
 
-  if (!fontsLoaded) return null;
-
   const hasFilter = selectedCategory != null;
   const frontCard = activeTab === 'icebreakers'
     ? (cards[currentIndex] ?? null)
@@ -916,6 +917,73 @@ export default function HomeScreen() {
                 </GestureDetector>
               ) : null}
             </Animated.View>
+          ) : !vibeCheckStarted && !showResults ? (
+            /* Who's playing intro screen */
+            <View style={{ flex: 1, paddingHorizontal: 24 }}>
+              <View style={{ flex: 1, justifyContent: 'center', marginTop: -80 }}>
+                <Text style={{ fontFamily: 'Inter_700Bold', fontSize: 28, color: '#FFFFFF', letterSpacing: -0.5, marginBottom: 8, textAlign: 'center' }}>
+                  Who's playing?
+                </Text>
+                <Text style={{ fontFamily: 'Inter_500Medium', fontSize: 12, color: 'rgba(255,255,255,0.25)', letterSpacing: -0.2, marginBottom: 32, textAlign: 'center' }}>
+                  You can always change names in settings
+                </Text>
+
+                {/* Player 1 */}
+                <View style={{ flexDirection: 'row', alignItems: 'center', gap: 12, width: '100%', marginBottom: 12 }}>
+                  <View style={{ width: 48, height: 48, borderRadius: 24, backgroundColor: '#FFFFFF', alignItems: 'center', justifyContent: 'center' }}>
+                    <User size={24} color={themeColors.backgroundDark} strokeWidth={2.5} />
+                  </View>
+                  <View style={{ flex: 1, borderWidth: 1, borderColor: 'rgba(255, 255, 255, 0.12)', borderRadius: 12, paddingVertical: 12, paddingHorizontal: 14 }}>
+                    <TextInput
+                      value={player1Name}
+                      onChangeText={(text) => setPlayer1Name(text.slice(0, 14))}
+                      placeholder="Player 1"
+                      placeholderTextColor="rgba(255, 255, 255, 0.2)"
+                      maxLength={14}
+                      selectionColor="#FFFFFF"
+                      cursorColor="#FFFFFF"
+                      style={{ fontFamily: 'Inter_700Bold', fontSize: 16, color: '#FFFFFF', letterSpacing: -0.3, padding: 0 }}
+                    />
+                  </View>
+                </View>
+
+                {/* Player 2 */}
+                <View style={{ flexDirection: 'row', alignItems: 'center', gap: 12, width: '100%', marginBottom: 32 }}>
+                  <View style={{ width: 48, height: 48, borderRadius: 24, backgroundColor: '#FFFFFF', alignItems: 'center', justifyContent: 'center' }}>
+                    <User size={24} color={themeColors.backgroundDark} strokeWidth={2.5} />
+                  </View>
+                  <View style={{ flex: 1, borderWidth: 1, borderColor: 'rgba(255, 255, 255, 0.12)', borderRadius: 12, paddingVertical: 12, paddingHorizontal: 14 }}>
+                    <TextInput
+                      value={player2Name}
+                      onChangeText={(text) => setPlayer2Name(text.slice(0, 14))}
+                      placeholder="Player 2"
+                      placeholderTextColor="rgba(255, 255, 255, 0.2)"
+                      maxLength={14}
+                      selectionColor="#FFFFFF"
+                      cursorColor="#FFFFFF"
+                      style={{ fontFamily: 'Inter_700Bold', fontSize: 16, color: '#FFFFFF', letterSpacing: -0.3, padding: 0 }}
+                    />
+                  </View>
+                </View>
+
+                {/* Play button */}
+                <Pressable
+                  onPress={() => {
+                    if (hapticsEnabled) Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Medium);
+                    setVibeCheckStarted(true);
+                    vibeCheckBounce.value = 0.92;
+                    vibeCheckBounce.value = withSpring(1, { damping: 8, stiffness: 300 });
+                  }}
+                  style={{ backgroundColor: '#FFFFFF', paddingVertical: 16, paddingHorizontal: 48, borderRadius: 16, alignSelf: 'center' }}
+                  className="active:opacity-80"
+                >
+                  <Text style={{ fontFamily: 'Inter_700Bold', fontSize: 16, color: themeColors.backgroundDark, letterSpacing: -0.3 }}>
+                    Play
+                  </Text>
+                </Pressable>
+              </View>
+
+            </View>
           ) : showResults ? (
             /* Results screen - on background, no card */
             <View style={{ flex: 1 }}>
@@ -933,7 +1001,7 @@ export default function HomeScreen() {
             </View>
           ) : (
             /* Compatibility mode - no manual swiping */
-            <Animated.View style={[{ flex: 1 }, tabSwitchBounceStyle]}>
+            <Animated.View style={[{ flex: 1 }, tabSwitchBounceStyle, vibeCheckBounceStyle]}>
               {/* Back card - show results preview on last question ONLY after both answered, otherwise show next card */}
               {compatibilityIndex === compatibilityCards.length - 1 && person2Answer !== null ? (
                 <View style={[cardStyle, { backgroundColor: 'transparent' }]}>
@@ -1030,7 +1098,18 @@ export default function HomeScreen() {
               <Share2 size={24} color="#FFFFFF" strokeWidth={2.5} />
             </Pressable>
           </View>
-        ) : (
+        ) : !vibeCheckStarted ? (
+          /* Who's playing - settings button only */
+          <View style={{ marginTop: 32, flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between' }}>
+            <Pressable
+              onPress={handleFilter}
+              style={{ width: 56, height: 56, borderRadius: 28, backgroundColor: themeColors.cardDark, alignItems: 'center', justifyContent: 'center' }}
+              className="active:opacity-70"
+            >
+              <SlidersHorizontal size={24} color="#FFFFFF" strokeWidth={2.5} />
+            </Pressable>
+          </View>
+        ) : vibeCheckStarted ? (
           /* Compatibility mode - filter on left, person selectors on right */
           <View style={{ marginTop: 32, flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between' }}>
             {/* Filter button - no dot indicator in compatibility mode */}
@@ -1093,15 +1172,15 @@ export default function HomeScreen() {
               </View>
             </View>
           </View>
-        )}
+        ) : null}
       </View>
 
       {/* Blur overlay */}
       <Animated.View style={[StyleSheet.absoluteFill, blurStyle, { zIndex: 10 }]} pointerEvents={filterOpen || showSettingsFilter ? 'box-none' : 'none'}>
-        <Pressable style={StyleSheet.absoluteFill} onPress={() => { setFilterOpen(false); setShowSettingsFilter(false); }}>
+        <Pressable style={StyleSheet.absoluteFill} onPress={() => { if (selectedCategory !== null) { setFilterOpen(false); setShowSettingsFilter(false); } }}>
           <BlurView intensity={30} tint="dark" style={StyleSheet.absoluteFill} />
         </Pressable>
-        {savedCards.length > 0 && (
+        {savedCards.length > 0 && showSettingsFilter && (
           <Pressable
             onPress={() => {
               if (hapticsEnabled) {
@@ -1157,7 +1236,9 @@ export default function HomeScreen() {
         pointerEvents={filterOpen || showSettingsFilter ? 'auto' : 'none'}
       >
         {showSettingsFilter ? (
-          <SettingsCategoryFilter onSelect={handleSettingsFilterSelect} onDismiss={handleSettingsFilterDismiss} />
+          <View style={{ flex: 1, marginTop: -24 }}>
+            <SettingsCategoryFilter onSelect={handleSettingsFilterSelect} onDismiss={handleSettingsFilterDismiss} />
+          </View>
         ) : (
           <CategoryFilter onSelect={handleFilterSelect} onDismiss={handleFilterDismiss} />
         )}

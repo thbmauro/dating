@@ -1,0 +1,1595 @@
+{
+  "category": "Fun",
+  "description": "Playful humor, banter, teasing and light-hearted connection",
+  "icebreakers": [
+    "What’s the funniest or most ridiculous way you’ve ever broken the ice with someone?",
+    "If we were a comedy duo on stage, what would our signature bit be?",
+    "What playful nickname would you secretly love to be called (or call me)?",
+    "Inside jokes on the first date, cute or too soon?",
+    "What’s the best witty comeback you’ve ever heard or delivered?",
+    "If your flirting style had a theme song, what would it be?",
+    "What harmless prank would you love to pull on each other?",
+    "How do you like to tease someone in a sweet, flirty way?",
+    "What’s the cheesiest pickup line that surprisingly worked on you?",
+    "If we invented a silly couple handshake or dance, what move seals it?",
+    "What’s your favorite way to make someone laugh when they’re nervous?",
+    "Playful challenges or mini-games on dates, yes or no?",
+    "What light pet peeve do you love teasing people about?",
+    "If we had a couple mascot or emoji combo, what would it be?",
+    "Most ridiculous thing you’ve done just to make someone smile?",
+    "How important is laughter and playfulness in keeping the spark alive?",
+    "What fun dare would you give (or accept) on a first or second date?",
+    "If we co-wrote a ridiculous love song together, what would the chorus be?",
+    "What’s your go-to funny story to break tension or awkward silence?",
+    "What playful tradition would you love to start with the right person?",
+    "Best dad joke or pun you’ve ever told (or hated hearing)?",
+    "Favorite type of meme you send when flirting or bantering?",
+    "Sarcasm level in flirting, 1 to 10 (1 = none, 10 = constant)?",
+    "Funniest laugh-until-cry moment you’ve had with someone?",
+    "Playful roast style you enjoy most (gentle, clever, absurd)?",
+    "Favorite comedy movie quote you’d use in real life?",
+    "Would you ever do stand-up or improv together?",
+    "Best prank you’ve pulled or been victim of?",
+    "Favorite kind of pun or wordplay?",
+    "Silly habit or quirk you’d love being teased about?",
+    "Best funny text exchange or screenshot you’ve saved?",
+    "Playful bet or wager you’d make on a date?",
+    "Favorite absurd hypothetical scenario to joke about?",
+    "Wit vs slapstick humor, which wins for you?",
+    "Best comedy special or stand-up bit you’ve seen lately?",
+    "Playful exaggeration habit you have or love?",
+    "Favorite funny voice or impression you do?",
+    "Best laugh you’ve had with an ex or past date?",
+    "Playful “you’re in trouble” tone you like to hear?",
+    "Favorite silly dance move you’d do together?",
+    "Best funny autocorrect fail in a flirty chat?",
+    "Playful nickname origin story you love?",
+    "Favorite comedy podcast or audio you listen to?",
+    "Silly irrational fear you’d laugh about together?",
+    "Best funny travel or date mishap story?",
+    "Playful “gotcha” moment you enjoy?",
+    "Favorite funny animal video or meme you send?",
+    "Best laugh you’ve had during a serious moment?",
+    "Playful “prove it” challenge you’d give?",
+    "Favorite funny childhood story you tell?",
+    "Silly superstition or habit you have?",
+    "Best funny date outfit or look fail?",
+    "Playful “that’s what she said” timing master?",
+    "Favorite funny typo or autocorrect in flirting?",
+    "Best laugh you’ve had with family or friends?",
+    "Playful “you owe me” joke style?",
+    "Favorite funny dream or sleep-talk story?",
+    "Silly hidden talent you’d show on a date?",
+    "Best funny pet or animal story?",
+    "Playful “caught you” moment you enjoy?",
+    "Favorite funny GIF you overuse?",
+    "Best laugh you’ve had at work or in public?",
+    "Playful “bet you can’t” game style?",
+    "Favorite funny voice note you’ve sent?",
+    "Silly food combo or eating habit you love?",
+    "Best funny misheard lyric moment?",
+    "Playful “no you” comeback energy?",
+    "Favorite funny book or comic quote?",
+    "Best laugh during a movie or show?",
+    "Playful “oops” recovery after joke fails?",
+    "Favorite funny habit you’ve noticed in others?",
+    "Silly nickname you’ve given a friend?",
+    "Best funny selfie or photo fail?",
+    "Playful “you started it” defense style?",
+    "Favorite funny accent or voice you imitate?",
+    "Best laugh you’ve had in a public place?",
+    "Playful “hold my drink” moment energy?",
+    "Favorite funny tattoo or piercing idea?",
+    "Silly superstition you’d laugh about?",
+    "Best funny group chat moment?",
+    "Playful “you’re ridiculous” compliment style?",
+    "Favorite funny childhood game or memory?",
+    "Best laugh at a really bad joke?",
+    "Playful “prove me wrong” energy?",
+    "Favorite funny movie trope or cliché?",
+    "Silly fear you’d tease each other about?",
+    "Best funny travel mishap or lost moment?",
+    "Playful “that’s my job” claim in banter?",
+    "Favorite funny pet name or animal nickname?",
+    "Best laugh you’ve had with a stranger?",
+    "Playful “you’re welcome” brag moment?",
+    "Favorite funny life hack fail story?",
+    "Silly habit a partner would tease you about?",
+    "Best funny late-night conversation?",
+    "Playful “you lost” victory dance?",
+    "Favorite funny animal impression?",
+    "Best laugh during a kiss or intimate moment?",
+    "Playful “told you so” tone you enjoy?",
+    "Favorite funny couple costume idea?"
+  ],
+  "vibe_tests": [
+    {
+      "test_name": "Humor Style Sync",
+      "description": "How well do your comedy and humor preferences match?",
+      "questions": [
+        {
+          "q": "Favorite humor type",
+          "options": [
+            "Dry / sarcastic",
+            "Silly / absurd",
+            "Witty wordplay / puns",
+            "Observational / relatable"
+          ]
+        },
+        {
+          "q": "Daily laughter need",
+          "options": [
+            "Multiple times a day",
+            "At least once a day",
+            "Few times a week",
+            "Not daily"
+          ]
+        },
+        {
+          "q": "Being teased / roasted comfort",
+          "options": [
+            "Love it, bring it on",
+            "Ok if affectionate",
+            "Depends on person/tone",
+            "Prefer no teasing"
+          ]
+        },
+        {
+          "q": "Sarcasm level in conversation",
+          "options": [
+            "Heavy, constant",
+            "Moderate, good dose",
+            "Light, occasional",
+            "Rare / none"
+          ]
+        },
+        {
+          "q": "Dad jokes / puns",
+          "options": [
+            "Love them, keep coming",
+            "Cute sometimes",
+            "Groan but smile",
+            "Strong no"
+          ]
+        },
+        {
+          "q": "Pranks & practical jokes",
+          "options": [
+            "Love giving & receiving",
+            "Small harmless only",
+            "Rare",
+            "Avoid completely"
+          ]
+        },
+        {
+          "q": "Inside jokes building speed",
+          "options": [
+            "Build fast, love it",
+            "Take time but fun",
+            "Few & far between",
+            "Not important"
+          ]
+        },
+        {
+          "q": "Comedy movie vs stand-up preference",
+          "options": [
+            "Stand-up specials",
+            "Comedy movies",
+            "Both equally",
+            "Neither"
+          ]
+        },
+        {
+          "q": "Funny texts / memes frequency",
+          "options": [
+            "Daily",
+            "Often",
+            "Sometimes",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Laughing at yourself",
+          "options": [
+            "Very easy",
+            "Sometimes",
+            "Hard",
+            "Never"
+          ]
+        },
+        {
+          "q": "Absurd hypothetical jokes",
+          "options": [
+            "Love inventing them",
+            "Enjoy hearing",
+            "Ok occasionally",
+            "No"
+          ]
+        },
+        {
+          "q": "Puns & wordplay",
+          "options": [
+            "Addicted, love them",
+            "Some are ok",
+            "Groan",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Meme / GIF sharing",
+          "options": [
+            "Constant",
+            "Often",
+            "Occasional",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Funny impressions / voices",
+          "options": [
+            "Do them often",
+            "Love when others do",
+            "Neither",
+            "Both"
+          ]
+        },
+        {
+          "q": "Dark humor tolerance",
+          "options": [
+            "Love it",
+            "Some is ok",
+            "Little",
+            "No dark humor"
+          ]
+        },
+        {
+          "q": "Funny nicknames",
+          "options": [
+            "Love using & receiving",
+            "Few are cute",
+            "One special",
+            "No nicknames"
+          ]
+        },
+        {
+          "q": "Laughing during serious moments",
+          "options": [
+            "Often happens",
+            "Sometimes",
+            "Rare",
+            "Never"
+          ]
+        },
+        {
+          "q": "Silly challenges / games",
+          "options": [
+            "Yes please",
+            "Occasional",
+            "Rare",
+            "No"
+          ]
+        },
+        {
+          "q": "Funny pet names",
+          "options": [
+            "Adore them",
+            "Cute sometimes",
+            "Silly",
+            "No"
+          ]
+        },
+        {
+          "q": "Humor importance long-term",
+          "options": [
+            "Essential, must have",
+            "Very important",
+            "Nice to have",
+            "Not a top priority"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Banter Pace & Rhythm",
+      "description": "How well do your banter speed, frequency and style sync?",
+      "questions": [
+        {
+          "q": "Ideal banter frequency",
+          "options": [
+            "Constant back-and-forth",
+            "Often throughout day",
+            "Sometimes / date nights",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Quick comebacks speed",
+          "options": [
+            "Love firing instantly",
+            "Enjoy good ones",
+            "Need time to think",
+            "Avoid quick replies"
+          ]
+        },
+        {
+          "q": "Banter via text vs in person",
+          "options": [
+            "Text is best",
+            "Both great",
+            "In person way better",
+            "Text risky"
+          ]
+        },
+        {
+          "q": "Playful fake arguments",
+          "options": [
+            "Fun & flirty",
+            "Occasional",
+            "Avoid",
+            "Serious only"
+          ]
+        },
+        {
+          "q": "Silly nickname count",
+          "options": [
+            "Many rotating",
+            "A few favorites",
+            "One special",
+            "None"
+          ]
+        },
+        {
+          "q": "Banter during dates",
+          "options": [
+            "Constant",
+            "Mostly",
+            "Some",
+            "Little"
+          ]
+        },
+        {
+          "q": "Laugh at own bad banter",
+          "options": [
+            "Always laugh",
+            "Usually",
+            "Sometimes",
+            "No"
+          ]
+        },
+        {
+          "q": "Banter recovery after miss",
+          "options": [
+            "Quick hug / kiss",
+            "Laugh it off",
+            "Apologize",
+            "Ignore & move on"
+          ]
+        },
+        {
+          "q": "Sarcasm detection speed",
+          "options": [
+            "Instant",
+            "Usually get it",
+            "Sometimes miss",
+            "Often miss"
+          ]
+        },
+        {
+          "q": "Banter boundaries",
+          "options": [
+            "Very clear",
+            "Flexible",
+            "Few limits",
+            "Many limits"
+          ]
+        },
+        {
+          "q": "Funny exaggeration habit",
+          "options": [
+            "Constant",
+            "Often",
+            "Sometimes",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Playful 'no you' back-and-forth",
+          "options": [
+            "Love it",
+            "Cute",
+            "Annoying",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Banter mood boost",
+          "options": [
+            "Always lifts mood",
+            "Usually",
+            "Sometimes",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Silly bets during banter",
+          "options": [
+            "Daily",
+            "Weekly",
+            "Occasional",
+            "No bets"
+          ]
+        },
+        {
+          "q": "Banter with friends around",
+          "options": [
+            "Heavy & fun",
+            "Moderate",
+            "Light",
+            "None"
+          ]
+        },
+        {
+          "q": "Playful 'you started it' defense",
+          "options": [
+            "Funny",
+            "Cute",
+            "Irritating",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Banter during serious topics",
+          "options": [
+            "Sometimes lightens",
+            "Wait for right time",
+            "Never",
+            "Always avoid"
+          ]
+        },
+        {
+          "q": "Banter as chemistry sign",
+          "options": [
+            "Top sign",
+            "Very important",
+            "Nice bonus",
+            "Not priority"
+          ]
+        },
+        {
+          "q": "Banter length per conversation",
+          "options": [
+            "Long & flowing",
+            "Medium bursts",
+            "Short hits",
+            "Minimal"
+          ]
+        },
+        {
+          "q": "Preferred banter recovery",
+          "options": [
+            "Hug & kiss",
+            "Laugh & change topic",
+            "Apology + touch",
+            "Space then resume"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Teasing Boundaries",
+      "description": "Comfort with teasing, roasting and playful jabs",
+      "questions": [
+        {
+          "q": "Light teasing feels best when",
+          "options": [
+            "Gentle & affectionate",
+            "Witty & clever",
+            "Silly & exaggerated",
+            "Rare but impactful"
+          ]
+        },
+        {
+          "q": "Being teased about quirks",
+          "options": [
+            "Makes me smile",
+            "Depends on tone",
+            "Feels vulnerable",
+            "Rather not"
+          ]
+        },
+        {
+          "q": "Teasing frequency ideal",
+          "options": [
+            "Daily playful",
+            "Several times week",
+            "Occasional",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Teasing tone preference",
+          "options": [
+            "Soft & loving",
+            "Cheeky",
+            "Light roast",
+            "Gentle only"
+          ]
+        },
+        {
+          "q": "Teasing goes too far recovery",
+          "options": [
+            "Quick hug fixes",
+            "Laugh it off",
+            "Need apology",
+            "Need space"
+          ]
+        },
+        {
+          "q": "Playful roasting level",
+          "options": [
+            "Love good roasts",
+            "Ok in small doses",
+            "Rarely",
+            "No roasting"
+          ]
+        },
+        {
+          "q": "Teasing via text",
+          "options": [
+            "Very fun",
+            "Risky, tone lost",
+            "Better in person",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Teasing with friends present",
+          "options": [
+            "Love it",
+            "Ok sometimes",
+            "Prefer private",
+            "No"
+          ]
+        },
+        {
+          "q": "Teasing boundaries",
+          "options": [
+            "Very clear",
+            "Flexible",
+            "Few limits",
+            "Many limits"
+          ]
+        },
+        {
+          "q": "Teasing mood effect",
+          "options": [
+            "Always lifts",
+            "Usually lifts",
+            "Depends",
+            "Can lower"
+          ]
+        },
+        {
+          "q": "Self-teasing",
+          "options": [
+            "Often",
+            "Sometimes",
+            "Rarely",
+            "Never"
+          ]
+        },
+        {
+          "q": "Teasing nicknames",
+          "options": [
+            "Love them",
+            "Few ok",
+            "One special",
+            "No nicknames"
+          ]
+        },
+        {
+          "q": "Teasing after disagreement",
+          "options": [
+            "Helps lighten",
+            "Wait first",
+            "No",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Who starts teasing",
+          "options": [
+            "I usually start",
+            "Mutual",
+            "Prefer they start",
+            "Slow to begin"
+          ]
+        },
+        {
+          "q": "Laughter from teasing",
+          "options": [
+            "Always laugh",
+            "Usually",
+            "Sometimes",
+            "Rarely"
+          ]
+        },
+        {
+          "q": "Teasing long-term",
+          "options": [
+            "Want to keep",
+            "Naturally fades",
+            "Balance needed",
+            "Not important"
+          ]
+        },
+        {
+          "q": "Teasing in public",
+          "options": [
+            "Subtle ok",
+            "None",
+            "Private only",
+            "No preference"
+          ]
+        },
+        {
+          "q": "Teasing = affection sign",
+          "options": [
+            "Strong sign",
+            "Sometimes",
+            "Rarely",
+            "Not at all"
+          ]
+        },
+        {
+          "q": "Teasing chemistry indicator",
+          "options": [
+            "Top indicator",
+            "Important",
+            "Nice",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Maximum teasing before too much",
+          "options": [
+            "Rarely too much",
+            "Depends on day",
+            "Quick limit",
+            "Low tolerance"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Meme & GIF Flirt Style",
+      "description": "How well do your meme, GIF and visual humor styles match?",
+      "questions": [
+        {
+          "q": "Meme / GIF sending frequency",
+          "options": [
+            "Constant, every chat",
+            "Often",
+            "Occasional",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Favorite meme type",
+          "options": [
+            "Reaction GIFs",
+            "Absurd / surreal",
+            "Relatable life",
+            "Dark humor"
+          ]
+        },
+        {
+          "q": "Meme as flirting tool",
+          "options": [
+            "Primary way",
+            "Often use",
+            "Sometimes",
+            "Rarely"
+          ]
+        },
+        {
+          "q": "Reaction GIF usage",
+          "options": [
+            "Heavy",
+            "Moderate",
+            "Light",
+            "None"
+          ]
+        },
+        {
+          "q": "Sending memes after silence",
+          "options": [
+            "Best icebreaker",
+            "Good restart",
+            "Risky",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Meme sharing speed",
+          "options": [
+            "Instant reply",
+            "Think then send",
+            "Save for later",
+            "No memes"
+          ]
+        },
+        {
+          "q": "Meme taste alignment",
+          "options": [
+            "Must match closely",
+            "Important",
+            "Adjustable",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Meme after argument",
+          "options": [
+            "Helps lighten",
+            "Wait first",
+            "No",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Meme creativity",
+          "options": [
+            "Make my own",
+            "Find good ones",
+            "Classic favorites",
+            "No memes"
+          ]
+        },
+        {
+          "q": "Meme volume per chat",
+          "options": [
+            "3+ per convo",
+            "1, 2",
+            "Rarely more than 1",
+            "None"
+          ]
+        },
+        {
+          "q": "Meme source",
+          "options": [
+            "Instagram / TikTok",
+            "Twitter / X",
+            "Reddit",
+            "All sources"
+          ]
+        },
+        {
+          "q": "Meme nostalgia",
+          "options": [
+            "Old classics forever",
+            "New daily",
+            "Mix",
+            "No nostalgia"
+          ]
+        },
+        {
+          "q": "Meme chemistry sign",
+          "options": [
+            "Strong sign",
+            "Important",
+            "Nice",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Meme initiation",
+          "options": [
+            "I send first most",
+            "Mutual",
+            "Prefer receiving",
+            "Slow"
+          ]
+        },
+        {
+          "q": "Meme variety need",
+          "options": [
+            "High, new daily",
+            "Medium",
+            "Few favorites",
+            "Same ones"
+          ]
+        },
+        {
+          "q": "Meme after deep talk",
+          "options": [
+            "Lighten mood",
+            "Keep deep",
+            "Neutral",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Meme long-term",
+          "options": [
+            "Keep evolving",
+            "Balance",
+            "Fade",
+            "No memes"
+          ]
+        },
+        {
+          "q": "Favorite meme reaction",
+          "options": [
+            "Laugh out loud",
+            "Smile",
+            "Eye roll smile",
+            "No reaction"
+          ]
+        },
+        {
+          "q": "Meme sharing rule",
+          "options": [
+            "Send anytime",
+            "Context matters",
+            "Save for right moment",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Ideal meme outcome",
+          "options": [
+            "Feel connected",
+            "Laugh together",
+            "Inside jokes",
+            "All three"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Playful Challenges & Bets",
+      "description": "Compatibility with flirty dares, bets, games and challenges",
+      "questions": [
+        {
+          "q": "Flirty dares comfort level",
+          "options": [
+            "Love giving & receiving",
+            "Fun occasionally",
+            "Rarely",
+            "Not interested"
+          ]
+        },
+        {
+          "q": "Dare difficulty preference",
+          "options": [
+            "Mild & cute",
+            "Medium cheeky",
+            "Bold / spicy",
+            "Very tame"
+          ]
+        },
+        {
+          "q": "Public vs private dares",
+          "options": [
+            "Private only",
+            "Subtle public ok",
+            "Both fun",
+            "No dares"
+          ]
+        },
+        {
+          "q": "Dare follow-through",
+          "options": [
+            "Always do it",
+            "Most times",
+            "Depends",
+            "Rarely"
+          ]
+        },
+        {
+          "q": "Reward for completing dare",
+          "options": [
+            "Flirty kiss",
+            "Compliment",
+            "Next dare",
+            "Nothing"
+          ]
+        },
+        {
+          "q": "Dare via text vs in person",
+          "options": [
+            "Both great",
+            "In person better",
+            "Text safer",
+            "No preference"
+          ]
+        },
+        {
+          "q": "Dare creativity",
+          "options": [
+            "Love creative ones",
+            "Simple ok",
+            "Classic dares",
+            "No dares"
+          ]
+        },
+        {
+          "q": "Dare after losing bet",
+          "options": [
+            "Exciting",
+            "Fun",
+            "Embarrassing",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Dare frequency",
+          "options": [
+            "Weekly",
+            "Every few dates",
+            "Occasional",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Dare involving photos",
+          "options": [
+            "Love it",
+            "Depends",
+            "Rare",
+            "Never"
+          ]
+        },
+        {
+          "q": "Dare involving voice",
+          "options": [
+            "Love",
+            "Ok",
+            "Rare",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Dare involving outfit",
+          "options": [
+            "Fun",
+            "Depends",
+            "Rare",
+            "No"
+          ]
+        },
+        {
+          "q": "Dare involving public",
+          "options": [
+            "Subtle yes",
+            "No public",
+            "Private only",
+            "Never"
+          ]
+        },
+        {
+          "q": "Dare recovery after shy",
+          "options": [
+            "Laugh it off",
+            "Hug",
+            "Next dare",
+            "Stop"
+          ]
+        },
+        {
+          "q": "Dare initiation",
+          "options": [
+            "I start most",
+            "Mutual",
+            "Prefer they start",
+            "Slow"
+          ]
+        },
+        {
+          "q": "Dare chemistry indicator",
+          "options": [
+            "Strong sign",
+            "Important",
+            "Nice",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Dare escalation",
+          "options": [
+            "Gradual increase",
+            "Same level",
+            "Random",
+            "No escalation"
+          ]
+        },
+        {
+          "q": "Dare after argument",
+          "options": [
+            "Helps reconnect",
+            "Wait",
+            "No",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Favorite dare type",
+          "options": [
+            "Text-based",
+            "In-person",
+            "Photo",
+            "Voice"
+          ]
+        },
+        {
+          "q": "Long-term dare tradition",
+          "options": [
+            "Want ongoing",
+            "Occasional",
+            "Fades",
+            "No"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Nickname & Teasing Name Sync",
+      "description": "How well do your nickname and teasing name styles match?",
+      "questions": [
+        {
+          "q": "Pet names / nicknames usage",
+          "options": [
+            "Many & creative",
+            "A few cute ones",
+            "One special",
+            "None"
+          ]
+        },
+        {
+          "q": "When to start nicknames",
+          "options": [
+            "Very early",
+            "After few dates",
+            "After weeks",
+            "Months"
+          ]
+        },
+        {
+          "q": "Nickname style preference",
+          "options": [
+            "Cheeky / teasing",
+            "Sweet / romantic",
+            "Silly / absurd",
+            "Classic"
+          ]
+        },
+        {
+          "q": "Nickname in public",
+          "options": [
+            "Love it",
+            "Subtle ok",
+            "Private only",
+            "No"
+          ]
+        },
+        {
+          "q": "Nickname in text",
+          "options": [
+            "Always use",
+            "Often",
+            "Sometimes",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Nickname during intimacy",
+          "options": [
+            "Love hearing",
+            "Nice",
+            "Neutral",
+            "Prefer real name"
+          ]
+        },
+        {
+          "q": "Nickname creativity",
+          "options": [
+            "Very creative",
+            "Somewhat",
+            "Basic",
+            "No"
+          ]
+        },
+        {
+          "q": "Nickname from inside jokes",
+          "options": [
+            "Best ones",
+            "Some",
+            "Rare",
+            "No"
+          ]
+        },
+        {
+          "q": "Teasing level in nickname",
+          "options": [
+            "High",
+            "Medium",
+            "Low",
+            "None"
+          ]
+        },
+        {
+          "q": "Nickname frequency",
+          "options": [
+            "Every conversation",
+            "Most",
+            "Occasional",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Nickname evolution",
+          "options": [
+            "Many over time",
+            "Few favorites",
+            "One forever",
+            "No"
+          ]
+        },
+        {
+          "q": "Nickname in front of friends",
+          "options": [
+            "Proud",
+            "Ok",
+            "Embarrassed",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Nickname after fight",
+          "options": [
+            "Helps soften",
+            "Wait",
+            "No",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Nickname chemistry sign",
+          "options": [
+            "Strong",
+            "Important",
+            "Nice",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Nickname initiation",
+          "options": [
+            "I start",
+            "Mutual",
+            "They start",
+            "Wait long time"
+          ]
+        },
+        {
+          "q": "Nickname length",
+          "options": [
+            "Short & cute",
+            "Medium",
+            "Long & silly",
+            "One word"
+          ]
+        },
+        {
+          "q": "Nickname in voice calls",
+          "options": [
+            "Love",
+            "Nice",
+            "Rare",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Nickname variety need",
+          "options": [
+            "High",
+            "Medium",
+            "Low",
+            "One"
+          ]
+        },
+        {
+          "q": "Nickname memory",
+          "options": [
+            "Very meaningful",
+            "Somewhat",
+            "Fun",
+            "Neutral"
+          ]
+        },
+        {
+          "q": "Long-term nickname",
+          "options": [
+            "Keep evolving",
+            "Settle on favorites",
+            "Fade",
+            "No"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Sarcasm & Dry Humor Sync",
+      "description": "Alignment on sarcasm, dry humor and ironic banter",
+      "questions": [
+        {
+          "q": "Sarcasm usage frequency",
+          "options": [
+            "Constant, dry all day",
+            "Often",
+            "Occasional",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Sarcasm detection speed",
+          "options": [
+            "Instant",
+            "Usually get it",
+            "Sometimes miss",
+            "Often miss"
+          ]
+        },
+        {
+          "q": "Dry humor comfort",
+          "options": [
+            "Love it",
+            "Enjoy",
+            "Ok",
+            "No"
+          ]
+        },
+        {
+          "q": "Sarcasm in flirting",
+          "options": [
+            "Primary style",
+            "Often",
+            "Sometimes",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Sarcasm after silence",
+          "options": [
+            "Best re-entry",
+            "Good",
+            "Risky",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Sarcasm tone preference",
+          "options": [
+            "Deadpan",
+            "Exaggerated",
+            "Soft",
+            "Hard"
+          ]
+        },
+        {
+          "q": "Sarcasm with friends",
+          "options": [
+            "Heavy",
+            "Moderate",
+            "Light",
+            "None"
+          ]
+        },
+        {
+          "q": "Sarcasm recovery",
+          "options": [
+            "Laugh it off",
+            "Clarify",
+            "Apologize",
+            "Ignore"
+          ]
+        },
+        {
+          "q": "Sarcasm chemistry sign",
+          "options": [
+            "Strong sign",
+            "Important",
+            "Nice",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Sarcasm long-term",
+          "options": [
+            "Keep high",
+            "Balance",
+            "Fade",
+            "No sarcasm"
+          ]
+        },
+        {
+          "q": "Sarcasm after deep talk",
+          "options": [
+            "Lightens mood",
+            "Wait",
+            "Neutral",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Sarcasm initiation",
+          "options": [
+            "I start most",
+            "Mutual",
+            "Prefer they start",
+            "Slow"
+          ]
+        },
+        {
+          "q": "Sarcasm variety",
+          "options": [
+            "High, creative",
+            "Medium",
+            "Few styles",
+            "Same tone"
+          ]
+        },
+        {
+          "q": "Sarcasm memory",
+          "options": [
+            "Very memorable",
+            "Somewhat",
+            "Neutral",
+            "Forgettable"
+          ]
+        },
+        {
+          "q": "Sarcasm in text",
+          "options": [
+            "Clear",
+            "Risky",
+            "Better in person",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Sarcasm after argument",
+          "options": [
+            "Helps reconnect",
+            "Wait",
+            "No",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Sarcasm love language",
+          "options": [
+            "Primary",
+            "Important",
+            "Nice",
+            "Not"
+          ]
+        },
+        {
+          "q": "Sarcasm escalation",
+          "options": [
+            "Gradual",
+            "Same level",
+            "Random",
+            "No escalation"
+          ]
+        },
+        {
+          "q": "Sarcasm boundary",
+          "options": [
+            "Clear",
+            "Flexible",
+            "Few",
+            "Many"
+          ]
+        },
+        {
+          "q": "Ideal sarcasm outcome",
+          "options": [
+            "Feel connected",
+            "Laugh together",
+            "Inside jokes",
+            "All three"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Laugh & Recovery Style",
+      "description": "How you both create and recover from laughter moments",
+      "questions": [
+        {
+          "q": "Best laugh trigger",
+          "options": [
+            "Absurd situations",
+            "Witty banter",
+            "Physical comedy",
+            "Shared memories"
+          ]
+        },
+        {
+          "q": "Laugh frequency ideal",
+          "options": [
+            "Multiple times daily",
+            "At least daily",
+            "Few times week",
+            "Not daily"
+          ]
+        },
+        {
+          "q": "Laugh after awkward moment",
+          "options": [
+            "Always laugh",
+            "Usually",
+            "Sometimes",
+            "No"
+          ]
+        },
+        {
+          "q": "Laugh during serious talk",
+          "options": [
+            "Often lightens",
+            "Sometimes",
+            "Rare",
+            "Never"
+          ]
+        },
+        {
+          "q": "Laugh recovery after miss",
+          "options": [
+            "Quick hug",
+            "Next joke",
+            "Apologize",
+            "Ignore"
+          ]
+        },
+        {
+          "q": "Laugh with partner vs alone",
+          "options": [
+            "Much better together",
+            "Same",
+            "Better alone",
+            "No difference"
+          ]
+        },
+        {
+          "q": "Laugh memory power",
+          "options": [
+            "Very strong",
+            "Strong",
+            "Moderate",
+            "Weak"
+          ]
+        },
+        {
+          "q": "Laugh initiation",
+          "options": [
+            "I start most",
+            "Mutual",
+            "Prefer they start",
+            "Slow"
+          ]
+        },
+        {
+          "q": "Laugh chemistry sign",
+          "options": [
+            "Top sign",
+            "Very important",
+            "Nice",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Laugh long-term",
+          "options": [
+            "Keep high",
+            "Balance",
+            "Fade",
+            "No priority"
+          ]
+        },
+        {
+          "q": "Laugh after argument",
+          "options": [
+            "Helps reconnect",
+            "Wait",
+            "No",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Laugh in public",
+          "options": [
+            "Love",
+            "Ok",
+            "Embarrassed",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Laugh with friends",
+          "options": [
+            "Heavy",
+            "Moderate",
+            "Light",
+            "None"
+          ]
+        },
+        {
+          "q": "Laugh variety need",
+          "options": [
+            "High",
+            "Medium",
+            "Low",
+            "Same"
+          ]
+        },
+        {
+          "q": "Laugh after deep talk",
+          "options": [
+            "Lightens",
+            "Neutral",
+            "Avoid",
+            "Keep deep"
+          ]
+        },
+        {
+          "q": "Laugh recovery time",
+          "options": [
+            "Seconds",
+            "Minutes",
+            "Hours",
+            "Days"
+          ]
+        },
+        {
+          "q": "Laugh ritual",
+          "options": [
+            "Want couple ritual",
+            "Nice idea",
+            "Spontaneous",
+            "No"
+          ]
+        },
+        {
+          "q": "Laugh mood boost",
+          "options": [
+            "Always",
+            "Usually",
+            "Sometimes",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Ideal laugh outcome",
+          "options": [
+            "Feel closer",
+            "Happy memory",
+            "Inside joke",
+            "All three"
+          ]
+        },
+        {
+          "q": "Long-term laugh goal",
+          "options": [
+            "Laugh every day",
+            "Balanced",
+            "Less needed",
+            "Not priority"
+          ]
+        }
+      ]
+    }
+  ]
+}

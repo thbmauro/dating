@@ -1,0 +1,1212 @@
+{
+  "category": "Future",
+  "description": "Shared dreams, life goals, long-term vision and planning together",
+  "icebreakers": [
+    "What’s one big dream or goal you want to achieve in the next five years?",
+    "If we could fast-forward and design our ideal life together in ten years, what does it look like?",
+    "What goal or project are you most excited to pursue with the right person by your side?",
+    "What’s your vision of the perfect weekend in our future life?",
+    "What adventure or experience do you want to check off before turning 50?",
+    "If we made a vision board for our shared future, what would be the top images or words?",
+    "What core value or principle do you want to build our home and life around?",
+    "How important is traveling the world (or frequently) in your long-term picture?",
+    "What career, creative or personal goal would you love to have active support with?",
+    "If we could live anywhere in the world, where would our dream home or base be?",
+    "What holiday or seasonal tradition do you want to create or carry forward together?",
+    "How do you envision balancing career ambition with relationship and home life?",
+    "What new skill, language or hobby do you want to learn side-by-side?",
+    "If we wrote a letter to our future selves as a couple, what would we say?",
+    "What’s the single most important thing you want in our shared future?",
+    "How do you feel about starting new chapters or big changes together?",
+    "What simple, beautiful daily life do you dream of building with someone?",
+    "If we could fast-forward to our 10-year anniversary, what would we celebrate?",
+    "What kind of legacy, big or small, do you want to create as a couple?",
+    "What part of a future relationship excites you the most right now?",
+    "Ideal number of kids (or no kids) in your future vision?",
+    "What does retirement look like for you, travel, quiet, work, adventure?",
+    "Shared financial goal, debt freedom, investments, house, early retirement?",
+    "Dream home features or feeling you want to wake up to every day?",
+    "How often do you see long-term travel or living abroad in the picture?",
+    "City, countryside, coastal, mountain or nomadic, future home base vibe?",
+    "Willingness to relocate for career, love or lifestyle change?",
+    "Volunteer, charity or community goal you’d love to share?",
+    "Fitness, health or wellness goal you’d pursue as a team?",
+    "Creative legacy project or side hustle you’d build together?",
+    "Role of close friends and chosen family in our future life?",
+    "How close do you want to stay with biological family long-term?",
+    "Adventure vs stability balance in future lifestyle?",
+    "Home ownership or renting forever, your vision?",
+    "Further education, certification or learning goal together?",
+    "Pets, must-have, maybe, or no pets in future home?",
+    "Spiritual, mindfulness or wellness practice you’d share?",
+    "Health & longevity priority, diet, exercise, checkups?",
+    "Travel with future kids (if any), how much and what style?",
+    "Dream car, no car, bike, or public transport future?",
+    "Favorite holiday or celebration you want to make special every year?",
+    "Home design aesthetic, minimal, cozy, modern, eclectic?",
+    "Work-from-home, hybrid, office or location-independent future?",
+    "Financial independence or freedom goal timeline?",
+    "Favorite future memory you want to create together?",
+    "Legacy project, book, charity, art, family story?",
+    "Dream vacation home or second residence?",
+    "Regular relationship check-ins or growth rituals in future?",
+    "Favorite future season or weather lifestyle?",
+    "Community, volunteering or giving-back role in future?",
+    "Personal growth or therapy goal long-term?",
+    "Favorite tradition you’d carry or create?",
+    "Dream garden, plants or outdoor space?",
+    "Favorite future book to read aloud or discuss?",
+    "Best future laugh or joy moment wish?",
+    "Favorite future date night routine?",
+    "Dream future pet name or animal companion?",
+    "Favorite future home view or window scene?",
+    "Best future adventure or trip wish?",
+    "Favorite future meal or cooking ritual?",
+    "Dream future music festival or concert?",
+    "Favorite future sunrise or morning spot?",
+    "Best future hug or touch memory wish?",
+    "Favorite future stargazing or night ritual?",
+    "Dream future dance or movement moment?",
+    "Favorite future book to share or read?",
+    "Best future kiss or intimate moment wish?",
+    "Favorite future walk or nature spot?",
+    "Dream future home soundscape or music?",
+    "Favorite future scent or home fragrance?",
+    "Best future memory you want to build?",
+    "Favorite future tradition or holiday?",
+    "Dream future legacy or impact wish?",
+    "Favorite future season or weather vibe?",
+    "Best future laugh or joy ritual?",
+    "Favorite future home feature or detail?",
+    "Dream future travel or exploration?",
+    "Favorite future daily ritual?",
+    "Best future promise or commitment?",
+    "Favorite future home color palette?",
+    "Dream future garden or outdoor space?",
+    "Favorite future pet or animal companion?",
+    "Best future adventure memory wish?",
+    "Favorite future meal or food ritual?",
+    "Dream future home music or sound?",
+    "Favorite future view or scenery?",
+    "Best future hug or closeness wish?",
+    "Favorite future star or night moment?",
+    "Dream future dance or celebration?",
+    "Favorite future book or story?",
+    "Best future kiss or touch wish?",
+    "Favorite future walk or journey?",
+    "Dream future home scent or feeling?",
+    "Favorite future memory wish?",
+    "Best future tradition or ritual?",
+    "Dream future legacy or story?",
+    "Favorite future season or chapter?"
+  ],
+  "vibe_tests": [
+    {
+      "test_name": "Future Vision Alignment",
+      "description": "How well do your long-term life dreams and priorities match?",
+      "questions": [
+        {
+          "q": "Shared long-term goals importance",
+          "options": [
+            "Essential, must align",
+            "Very important",
+            "Nice to have overlap",
+            "Not critical"
+          ]
+        },
+        {
+          "q": "Creating a 5-year plan together",
+          "options": [
+            "Want to do early",
+            "After months",
+            "Year+",
+            "No formal plan"
+          ]
+        },
+        {
+          "q": "Adventure vs stability balance",
+          "options": [
+            "More adventure / change",
+            "50/50 balance",
+            "More stability / roots",
+            "Stability first"
+          ]
+        },
+        {
+          "q": "Discussing marriage / commitment timing",
+          "options": [
+            "Early & open",
+            "6, 12 months",
+            "1, 2 years",
+            "When it feels right"
+          ]
+        },
+        {
+          "q": "Non-negotiable core value",
+          "options": [
+            "Honesty & trust",
+            "Family / connection",
+            "Growth & learning",
+            "Freedom & independence"
+          ]
+        },
+        {
+          "q": "Vision board or goal list together",
+          "options": [
+            "Love joint creation",
+            "Individual ok",
+            "No need",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Long-term travel frequency",
+          "options": [
+            "Frequent international",
+            "Domestic / occasional",
+            "Rare big trips",
+            "No travel focus"
+          ]
+        },
+        {
+          "q": "Dream lifestyle location",
+          "options": [
+            "Big city energy",
+            "Country / rural",
+            "Coastal / beach",
+            "Nomadic / travel"
+          ]
+        },
+        {
+          "q": "Family vs career priority",
+          "options": [
+            "Family first",
+            "Balanced both",
+            "Career first",
+            "No kids / career focus"
+          ]
+        },
+        {
+          "q": "Career support style wanted",
+          "options": [
+            "Active cheer & involvement",
+            "Listen & emotional support",
+            "Practical advice",
+            "Independent pursuit"
+          ]
+        },
+        {
+          "q": "Monthly future-planning dates",
+          "options": [
+            "Yes, love it",
+            "Nice idea",
+            "Rare",
+            "No planning dates"
+          ]
+        },
+        {
+          "q": "Financial transparency & goals",
+          "options": [
+            "Full joint planning",
+            "Partial sharing",
+            "Separate finances",
+            "Avoid money talk"
+          ]
+        },
+        {
+          "q": "Couple traditions & rituals",
+          "options": [
+            "Want many",
+            "Few meaningful",
+            "One special",
+            "No traditions"
+          ]
+        },
+        {
+          "q": "Relocation willingness",
+          "options": [
+            "Yes, anywhere for love",
+            "Within country / region",
+            "Limited distance",
+            "No relocation"
+          ]
+        },
+        {
+          "q": "Milestone celebration style",
+          "options": [
+            "Big parties / trips",
+            "Small intimate",
+            "Quiet reflection",
+            "No celebration"
+          ]
+        },
+        {
+          "q": "Learning new skill as couple",
+          "options": [
+            "Excited, yes",
+            "Maybe one",
+            "Rare",
+            "No joint learning"
+          ]
+        },
+        {
+          "q": "Work-life balance priority",
+          "options": [
+            "Very high",
+            "Important",
+            "Medium",
+            "Low"
+          ]
+        },
+        {
+          "q": "Simple daily life dream",
+          "options": [
+            "Love cozy routine",
+            "Nice balance",
+            "Want more excitement",
+            "No routine"
+          ]
+        },
+        {
+          "q": "Building a home together",
+          "options": [
+            "Dream goal",
+            "Maybe someday",
+            "Rent forever",
+            "No home focus"
+          ]
+        },
+        {
+          "q": "20-year future story wish",
+          "options": [
+            "Epic adventure tale",
+            "Stable loving home",
+            "Growth & impact",
+            "Deep connection"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Family & Legacy Vision",
+      "description": "Alignment on family, children, legacy and long-term roots",
+      "questions": [
+        {
+          "q": "Kids timeline preference",
+          "options": [
+            "Soon (1, 3 years)",
+            "Later (5+ years)",
+            "Maybe someday",
+            "No kids"
+          ]
+        },
+        {
+          "q": "Ideal number of children",
+          "options": [
+            "2, 3",
+            "1",
+            "4+",
+            "None"
+          ]
+        },
+        {
+          "q": "Family closeness desired",
+          "options": [
+            "Very close with extended family",
+            "Moderate contact",
+            "Distant / chosen family",
+            "No family focus"
+          ]
+        },
+        {
+          "q": "Raising kids lifestyle",
+          "options": [
+            "Travel with kids",
+            "Stable home base",
+            "City education",
+            "Rural / nature"
+          ]
+        },
+        {
+          "q": "Legacy focus",
+          "options": [
+            "Family & children",
+            "Creative / work impact",
+            "Community / giving",
+            "Personal fulfillment"
+          ]
+        },
+        {
+          "q": "Parenting philosophy",
+          "options": [
+            "Attachment / gentle",
+            "Structured / discipline",
+            "Free-range",
+            "No parenting"
+          ]
+        },
+        {
+          "q": "Kids education priority",
+          "options": [
+            "Elite / private",
+            "Public / balanced",
+            "Homeschool / alternative",
+            "No kids"
+          ]
+        },
+        {
+          "q": "Family holidays & traditions",
+          "options": [
+            "Big extended family",
+            "Small nuclear",
+            "Friends / chosen",
+            "No traditions"
+          ]
+        },
+        {
+          "q": "Legacy project wish",
+          "options": [
+            "Family story / book",
+            "Charity foundation",
+            "Art / creative",
+            "No legacy"
+          ]
+        },
+        {
+          "q": "Kids & travel balance",
+          "options": [
+            "Travel often with kids",
+            "Some travel",
+            "Home base focus",
+            "No kids"
+          ]
+        },
+        {
+          "q": "Family financial legacy",
+          "options": [
+            "Build wealth for kids",
+            "Balanced",
+            "Teach independence",
+            "No financial legacy"
+          ]
+        },
+        {
+          "q": "Multi-generational living",
+          "options": [
+            "Love the idea",
+            "Maybe",
+            "Rare",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Family role in relationship",
+          "options": [
+            "Very involved",
+            "Moderate",
+            "Minimal",
+            "None"
+          ]
+        },
+        {
+          "q": "Legacy chemistry importance",
+          "options": [
+            "Must align closely",
+            "Important",
+            "Adjustable",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Family planning talk timing",
+          "options": [
+            "Early (first months)",
+            "6, 12 months",
+            "1, 2 years",
+            "When serious"
+          ]
+        },
+        {
+          "q": "Kids independence goal",
+          "options": [
+            "Very independent",
+            "Balanced",
+            "Close-knit",
+            "No kids"
+          ]
+        },
+        {
+          "q": "Family support network",
+          "options": [
+            "Strong family help",
+            "Friends / chosen",
+            "Independent",
+            "No network"
+          ]
+        },
+        {
+          "q": "Legacy memory building",
+          "options": [
+            "Constant stories",
+            "Some traditions",
+            "Few big",
+            "No legacy"
+          ]
+        },
+        {
+          "q": "Family future flexibility",
+          "options": [
+            "Very flexible",
+            "Some plan",
+            "Strict vision",
+            "No plan"
+          ]
+        },
+        {
+          "q": "Ideal family outcome",
+          "options": [
+            "Loving connected unit",
+            "Independent strong kids",
+            "Legacy of love",
+            "All three"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Financial & Stability Vision",
+      "description": "Alignment on money, security, lifestyle and financial goals",
+      "questions": [
+        {
+          "q": "Financial transparency level",
+          "options": [
+            "Full joint everything",
+            "Partial sharing",
+            "Mostly separate",
+            "Avoid money talk"
+          ]
+        },
+        {
+          "q": "Debt freedom goal",
+          "options": [
+            "Top priority",
+            "Important",
+            "Nice",
+            "Not focused"
+          ]
+        },
+        {
+          "q": "Investing & wealth building",
+          "options": [
+            "Active & aggressive",
+            "Balanced",
+            "Conservative",
+            "No investing"
+          ]
+        },
+        {
+          "q": "Home ownership timeline",
+          "options": [
+            "Soon (1, 5 years)",
+            "Later (5, 10)",
+            "Rent forever",
+            "No home goal"
+          ]
+        },
+        {
+          "q": "Early retirement dream",
+          "options": [
+            "Yes, FIRE movement",
+            "Maybe 50s/60s",
+            "Work forever",
+            "No retirement"
+          ]
+        },
+        {
+          "q": "Money as security",
+          "options": [
+            "Very important",
+            "Important",
+            "Medium",
+            "Low priority"
+          ]
+        },
+        {
+          "q": "Lifestyle inflation",
+          "options": [
+            "Avoid, keep simple",
+            "Some upgrades",
+            "Enjoy spending",
+            "High lifestyle"
+          ]
+        },
+        {
+          "q": "Joint vs separate accounts",
+          "options": [
+            "Fully joint",
+            "Hybrid",
+            "Mostly separate",
+            "No joint"
+          ]
+        },
+        {
+          "q": "Financial check-ins",
+          "options": [
+            "Monthly deep",
+            "Quarterly",
+            "Yearly",
+            "No check-ins"
+          ]
+        },
+        {
+          "q": "Money fights history",
+          "options": [
+            "Rare",
+            "Some",
+            "Frequent",
+            "No fights"
+          ]
+        },
+        {
+          "q": "Financial chemistry importance",
+          "options": [
+            "Must align closely",
+            "Very important",
+            "Adjustable",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Money love language",
+          "options": [
+            "Gifts & experiences",
+            "Security / saving",
+            "Shared goals",
+            "No money language"
+          ]
+        },
+        {
+          "q": "Luxury vs frugal balance",
+          "options": [
+            "More luxury",
+            "Balanced",
+            "More frugal",
+            "Extreme frugal"
+          ]
+        },
+        {
+          "q": "Financial legacy for kids",
+          "options": [
+            "Build wealth",
+            "Teach independence",
+            "Balanced",
+            "No kids"
+          ]
+        },
+        {
+          "q": "Money risk tolerance",
+          "options": [
+            "High, invest aggressively",
+            "Medium",
+            "Low, safe",
+            "No risk"
+          ]
+        },
+        {
+          "q": "Financial independence goal",
+          "options": [
+            "Very high",
+            "Important",
+            "Medium",
+            "Low"
+          ]
+        },
+        {
+          "q": "Money after big life change",
+          "options": [
+            "Re-plan together",
+            "Adapt",
+            "No change",
+            "Avoid"
+          ]
+        },
+        {
+          "q": "Financial support style",
+          "options": [
+            "Equal partners",
+            "One earner",
+            "Split bills",
+            "No support"
+          ]
+        },
+        {
+          "q": "Ideal financial outcome",
+          "options": [
+            "Freedom & security",
+            "Balanced enjoyment",
+            "Wealth building",
+            "All three"
+          ]
+        },
+        {
+          "q": "Long-term money vision",
+          "options": [
+            "Financial independence",
+            "Comfortable life",
+            "Minimalist",
+            "No vision"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Lifestyle & Location Balance",
+      "description": "Alignment on future home base, pace and living environment",
+      "questions": [
+        {
+          "q": "Future home base preference",
+          "options": [
+            "Big city energy",
+            "Suburban balance",
+            "Rural / country",
+            "Coastal / beach"
+          ]
+        },
+        {
+          "q": "Nomadic vs rooted lifestyle",
+          "options": [
+            "Want to move often",
+            "50/50 travel & home",
+            "Mostly rooted",
+            "Fully rooted"
+          ]
+        },
+        {
+          "q": "Work-from-home future",
+          "options": [
+            "Yes, full remote",
+            "Hybrid ideal",
+            "Office preferred",
+            "No work focus"
+          ]
+        },
+        {
+          "q": "City vs nature daily life",
+          "options": [
+            "City walkability",
+            "Nature access",
+            "Balanced suburb",
+            "Remote rural"
+          ]
+        },
+        {
+          "q": "Home size & style",
+          "options": [
+            "Big house / family",
+            "Cozy apartment",
+            "Minimal tiny home",
+            "No home focus"
+          ]
+        },
+        {
+          "q": "Relocation willingness",
+          "options": [
+            "Yes, anywhere",
+            "Within country",
+            "Limited distance",
+            "Never move"
+          ]
+        },
+        {
+          "q": "Climate preference",
+          "options": [
+            "Four seasons",
+            "Warm year-round",
+            "Cool / mild",
+            "No preference"
+          ]
+        },
+        {
+          "q": "Commute tolerance",
+          "options": [
+            "No commute ideal",
+            "Short commute",
+            "Long commute ok",
+            "Remote only"
+          ]
+        },
+        {
+          "q": "Home entertaining",
+          "options": [
+            "Love hosting",
+            "Occasional",
+            "Rare",
+            "No hosting"
+          ]
+        },
+        {
+          "q": "Outdoor space need",
+          "options": [
+            "Big yard / garden",
+            "Balcony ok",
+            "No outdoor",
+            "No preference"
+          ]
+        },
+        {
+          "q": "Lifestyle chemistry importance",
+          "options": [
+            "Must match closely",
+            "Very important",
+            "Adjustable",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Future pace of life",
+          "options": [
+            "Fast & ambitious",
+            "Balanced",
+            "Slow & intentional",
+            "Relaxed"
+          ]
+        },
+        {
+          "q": "Home design aesthetic",
+          "options": [
+            "Modern minimal",
+            "Cozy eclectic",
+            "Rustic",
+            "No care"
+          ]
+        },
+        {
+          "q": "Neighborhood vibe",
+          "options": [
+            "Walkable urban",
+            "Quiet suburb",
+            "Rural peace",
+            "No preference"
+          ]
+        },
+        {
+          "q": "Home ownership priority",
+          "options": [
+            "Must own",
+            "Rent ok",
+            "Hybrid",
+            "No home goal"
+          ]
+        },
+        {
+          "q": "Lifestyle after kids (if any)",
+          "options": [
+            "Family-focused",
+            "Balanced",
+            "Adult life",
+            "No kids"
+          ]
+        },
+        {
+          "q": "Future home tech",
+          "options": [
+            "Smart home heavy",
+            "Some tech",
+            "Minimal",
+            "No tech"
+          ]
+        },
+        {
+          "q": "Lifestyle flexibility",
+          "options": [
+            "Very flexible",
+            "Some routine",
+            "Structured",
+            "No flexibility"
+          ]
+        },
+        {
+          "q": "Ideal lifestyle outcome",
+          "options": [
+            "Feel free & rooted",
+            "Balanced joy",
+            "Adventure + home",
+            "All three"
+          ]
+        },
+        {
+          "q": "Long-term location goal",
+          "options": [
+            "Dream spot locked",
+            "Open to change",
+            "Stay local",
+            "No goal"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Career & Ambition Sync",
+      "description": "Alignment on career goals, ambition level and support style",
+      "questions": [
+        {
+          "q": "Career ambition level",
+          "options": [
+            "High drive, climb ladder",
+            "Balanced, good life",
+            "Low key, enjoy work",
+            "No career focus"
+          ]
+        },
+        {
+          "q": "Career change willingness",
+          "options": [
+            "Very open",
+            "Somewhat",
+            "Rare",
+            "Stay put"
+          ]
+        },
+        {
+          "q": "Supporting partner’s career",
+          "options": [
+            "Active cheer & help",
+            "Emotional support",
+            "Practical advice",
+            "Independent"
+          ]
+        },
+        {
+          "q": "Work-life balance priority",
+          "options": [
+            "Very high",
+            "Important",
+            "Medium",
+            "Low"
+          ]
+        },
+        {
+          "q": "Remote vs office future",
+          "options": [
+            "Full remote",
+            "Hybrid ideal",
+            "Office preferred",
+            "No work"
+          ]
+        },
+        {
+          "q": "Entrepreneur / side hustle",
+          "options": [
+            "Love idea",
+            "Maybe",
+            "Rare",
+            "No"
+          ]
+        },
+        {
+          "q": "Career sabbatical / break",
+          "options": [
+            "Yes, travel or rest",
+            "Maybe",
+            "Unlikely",
+            "No breaks"
+          ]
+        },
+        {
+          "q": "Ambition chemistry",
+          "options": [
+            "Must match",
+            "Important",
+            "Complementary",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Career talk frequency",
+          "options": [
+            "Weekly deep",
+            "Monthly",
+            "Occasional",
+            "Rare"
+          ]
+        },
+        {
+          "q": "Career sacrifice tolerance",
+          "options": [
+            "High, for love",
+            "Some",
+            "Low",
+            "No sacrifice"
+          ]
+        },
+        {
+          "q": "Financial support from career",
+          "options": [
+            "Primary earner",
+            "Equal",
+            "One focuses home",
+            "No focus"
+          ]
+        },
+        {
+          "q": "Career legacy goal",
+          "options": [
+            "Build something big",
+            "Enjoy & impact",
+            "Financial freedom",
+            "No legacy"
+          ]
+        },
+        {
+          "q": "Career burnout handling",
+          "options": [
+            "Support recovery",
+            "Push through",
+            "Space",
+            "No burnout"
+          ]
+        },
+        {
+          "q": "Career change support",
+          "options": [
+            "Full cheer",
+            "Listen",
+            "Advice",
+            "Independent"
+          ]
+        },
+        {
+          "q": "Long-term career vision",
+          "options": [
+            "Climb high",
+            "Balanced path",
+            "Early exit",
+            "No vision"
+          ]
+        },
+        {
+          "q": "Career & relationship balance",
+          "options": [
+            "Relationship first",
+            "Equal",
+            "Career first",
+            "No balance"
+          ]
+        },
+        {
+          "q": "Career celebration style",
+          "options": [
+            "Big party",
+            "Quiet pride",
+            "Gift",
+            "No celebration"
+          ]
+        },
+        {
+          "q": "Career support initiation",
+          "options": [
+            "I support most",
+            "Mutual",
+            "Prefer receiving",
+            "Slow"
+          ]
+        },
+        {
+          "q": "Ideal career outcome",
+          "options": [
+            "Success & connection",
+            "Balance & joy",
+            "Freedom",
+            "All three"
+          ]
+        },
+        {
+          "q": "Career long-term goal",
+          "options": [
+            "Retire early",
+            "Lifelong passion",
+            "Financial security",
+            "No goal"
+          ]
+        }
+      ]
+    },
+    {
+      "test_name": "Health & Wellness Vision",
+      "description": "Alignment on physical/mental health, routines and longevity goals",
+      "questions": [
+        {
+          "q": "Health & fitness priority",
+          "options": [
+            "Very high, daily",
+            "Important",
+            "Medium",
+            "Low"
+          ]
+        },
+        {
+          "q": "Exercise routine style",
+          "options": [
+            "Gym / classes",
+            "Outdoor / nature",
+            "Home workouts",
+            "No routine"
+          ]
+        },
+        {
+          "q": "Diet philosophy",
+          "options": [
+            "Plant-based",
+            "Balanced whole foods",
+            "Flexible",
+            "No focus"
+          ]
+        },
+        {
+          "q": "Mental health practice",
+          "options": [
+            "Therapy / meditation",
+            "Journaling",
+            "Friends / talk",
+            "Minimal"
+          ]
+        },
+        {
+          "q": "Sleep routine",
+          "options": [
+            "Strict 10pm, 6am",
+            "Flexible",
+            "Night owl",
+            "No routine"
+          ]
+        },
+        {
+          "q": "Wellness rituals",
+          "options": [
+            "Daily meditation/yoga",
+            "Weekly sauna/massage",
+            "Occasional",
+            "None"
+          ]
+        },
+        {
+          "q": "Health goals together",
+          "options": [
+            "Joint fitness",
+            "Support each other",
+            "Independent",
+            "No goals"
+          ]
+        },
+        {
+          "q": "Longevity focus",
+          "options": [
+            "Very high, biohacking",
+            "Balanced",
+            "Live in moment",
+            "No focus"
+          ]
+        },
+        {
+          "q": "Health scares attitude",
+          "options": [
+            "Proactive prevention",
+            "Deal when happens",
+            "Avoid thinking",
+            "No concern"
+          ]
+        },
+        {
+          "q": "Wellness chemistry",
+          "options": [
+            "Must align",
+            "Important",
+            "Adjustable",
+            "Not key"
+          ]
+        },
+        {
+          "q": "Health support style",
+          "options": [
+            "Active coaching",
+            "Gentle encouragement",
+            "Independent",
+            "No support"
+          ]
+        },
+        {
+          "q": "Health after stress",
+          "options": [
+            "Double down",
+            "Rest more",
+            "Comfort food",
+            "No change"
+          ]
+        },
+        {
+          "q": "Wellness long-term",
+          "options": [
+            "Keep improving",
+            "Maintain",
+            "Fade",
+            "No focus"
+          ]
+        },
+        {
+          "q": "Health celebration",
+          "options": [
+            "Big wins",
+            "Small rewards",
+            "Quiet",
+            "No celebration"
+          ]
+        },
+        {
+          "q": "Health initiation",
+          "options": [
+            "I lead",
+            "Mutual",
+            "Prefer they lead",
+            "Slow"
+          ]
+        },
+        {
+          "q": "Health memory power",
+          "options": [
+            "Very strong",
+            "Strong",
+            "Moderate",
+            "Weak"
+          ]
+        },
+        {
+          "q": "Ideal health outcome",
+          "options": [
+            "Long vibrant life",
+            "Balanced energy",
+            "Joyful living",
+            "All three"
+          ]
+        },
+        {
+          "q": "Wellness ritual together",
+          "options": [
+            "Want shared",
+            "Nice idea",
+            "Individual",
+            "No ritual"
+          ]
+        },
+        {
+          "q": "Health chemistry sign",
+          "options": [
+            "Strong sign",
+            "Important",
+            "Nice",
+            "Not key"
+          ]
+        }
+      ]
+    }
+  ]
+}
